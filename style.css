@@ -1,6 +1,6 @@
 @font-face{font-family:'DM Sans';src:url(assets/dm-sans-latin.woff2) format('woff2');font-weight:100 1000;font-display:swap}
 :root{
-  /* zeven lettergroottes, nooit meegroeien op grote schermen */
+  
   --t-mark:min(15.2vw,38svh);
   --t-quote:clamp(40px,5.6vw,92px);
   --t-h2:clamp(40px,5vw,80px);
@@ -25,7 +25,7 @@ img{display:block;max-width:100%;height:auto}
 a{color:inherit;text-decoration:none}
 ul{list-style:none;padding:0}
 h1,h2,h3{font-weight:800;font-family:var(--display)}
-/* het luide woord: roze markeerblok, 10% van het beeld */
+
 mark{background:var(--rose);color:var(--ink);padding:0 .1em;margin:0 -.02em;border-radius:.06em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 h2{font-size:var(--t-h2);line-height:1.02;letter-spacing:-.028em;text-wrap:balance}
 h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance}
@@ -36,18 +36,18 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .laden:not(.nojs) .frame{opacity:0}
 .frame{transition:opacity .7s var(--ease)}
 
-/* HERO: lucht, naam, stad, tafel. De naam zakt achter de stad, de camera duikt de telefoon in. */
+
 .hero{height:340svh;position:relative;z-index:3}
 .stage{position:sticky;top:0;height:100svh;overflow:hidden;background:var(--ink)}
 .frame{position:absolute;inset:0;overflow:hidden}
 .rand{position:absolute;inset:-50px;border-radius:64px;box-shadow:0 0 0 80px var(--ink);pointer-events:none;will-change:transform}
 .cam{position:absolute;inset:0;transform-origin:var(--cx,50%) var(--cy,70%);will-change:transform}
-/* elk vlak staat op zijn grootste maat en wordt alleen verkleind getoond */
+
 .plate{--pb:max(100vw,calc(100svh*var(--ar)));--s:1;--ox:.5;--oy:.5;position:absolute;left:calc(var(--px,0px) - var(--pb)*var(--ox)*(var(--s) - 1));top:calc(var(--py,0px) - var(--pb)/var(--ar)*var(--oy)*(var(--s) - 1));width:calc(var(--pb)*var(--s));max-width:none;height:auto;aspect-ratio:var(--ar);transform-origin:calc(var(--ox)*100%) calc(var(--oy)*100%);transform:scale(calc(1/var(--s)));will-change:transform}
 .sky{--s:1.06}
 .far{--s:1.1;--oy:.58}
 .near{--s:1.3;--oy:1}
-/* het woordmerk zoals in de app: het teken plus de naam op één regel */
+
 .wordmark,.e-woord{display:flex;align-items:center;justify-content:center;gap:.14em;font:600 var(--t-mark)/1 var(--merk);letter-spacing:-.035em;color:var(--ivory);white-space:nowrap;will-change:transform}
 .wordmark svg,.e-woord svg{flex:none;width:.86em;height:.8em;overflow:visible}
 .wordmark{position:absolute;left:0;right:0;top:calc(var(--hz,50svh) - var(--t-mark)*var(--boven))}
@@ -57,7 +57,7 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .hero-side{right:calc(var(--gutr) + 10px);max-width:17em;text-align:right;font-size:var(--t-small);line-height:1.4;color:#E6DFEA}
 .flits{position:absolute;inset:0;background:var(--scherm);opacity:0;pointer-events:none;will-change:opacity}
 
-/* IPHONE 18 PRO: 402 x 874 pt scherm, alles in schermpunten via --u */
+
 .iphone{--pw:min(42svh,620px);--u:calc(var(--pw)/428);position:absolute;width:var(--pw);height:calc(var(--u)*900);border-radius:calc(var(--u)*75);padding:calc(var(--u)*4);background:linear-gradient(115deg,#d8d8db 0%,#777778 3%,#3C3C3D 9%,#2c2a2b 28%,#232123 50%,#2e2b2d 72%,#474748 90%,#838384 97%,#dddde0 100%);box-shadow:inset 0 0 0 calc(var(--u)*.7) rgba(255,255,255,.3),inset 0 0 calc(var(--u)*2) rgba(0,0,0,.6),0 calc(var(--u)*50) calc(var(--u)*110) calc(var(--u)*-24) rgba(0,0,0,.78)}
 .bezel{width:100%;height:100%;border-radius:calc(var(--u)*71);background:#000;padding:calc(var(--u)*9)}
 .screen{position:relative;width:100%;height:100%;border-radius:calc(var(--u)*62);overflow:hidden;overflow:clip;isolation:isolate;background:var(--scherm);color:#fff;font:400 calc(var(--u)*16)/1.3 var(--app);letter-spacing:-.008em}
@@ -88,9 +88,9 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .merk{display:inline-flex;align-items:center;gap:.36em;font-weight:600;font-size:1.1em;letter-spacing:-.01em;white-space:nowrap}
 .merk svg{width:1.22em;height:1.14em}
 
-/* beginscherm */
+
 .s-home{background:var(--scherm) url(assets/home-veld.webp) center/100% 100% no-repeat;padding:4.4em 1.375em 0}
-/* de plas achter de knop ademt, net als in de app: alleen een fade, 3,2 s heen en 3,2 s terug */
+
 .s-home::before{content:"";position:absolute;left:50%;top:51.2%;width:27.5em;height:27.5em;margin:-13.75em 0 0 -13.75em;border-radius:50%;background:radial-gradient(closest-side,rgba(155,107,240,.095) 0,rgba(155,107,240,.093) 9%,rgba(155,107,240,.086) 18%,rgba(155,107,240,.073) 27%,rgba(155,107,240,.056) 36%,rgba(155,107,240,.037) 45%,rgba(155,107,240,.02) 55%,rgba(155,107,240,.009) 64%,rgba(155,107,240,.003) 73%,rgba(155,107,240,0) 90%);opacity:.5;pointer-events:none}
 @media (prefers-reduced-motion:no-preference){.s-home.adem::before{animation:adem 3.2s ease-in-out infinite alternate}}
 @keyframes adem{from{opacity:0}to{opacity:1}}
@@ -101,14 +101,14 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .h-knop{position:absolute;left:50%;top:51.2%;width:9.25em;height:9.25em;margin:-4.625em 0 0 -4.625em;border-radius:50%;background:radial-gradient(closest-side,rgba(222,198,255,.13) 0,rgba(222,198,255,.125) 88%,rgba(222,198,255,.17) 97%,rgba(222,198,255,.19) 100%);display:grid;place-items:center}
 .h-knop::before{content:"";position:absolute;inset:0;border-radius:50%;background:conic-gradient(#7c59bb 0deg,#5f4887 45deg,#7e59bb 90deg,#885fce 135deg,#7e58bc 180deg,#5f4887 225deg,#7b59bb 270deg,#885fce 315deg,#7c59bb 360deg);-webkit-mask:radial-gradient(closest-side,transparent calc(100% - .07em),#000 calc(100% - .055em));mask:radial-gradient(closest-side,transparent calc(100% - .07em),#000 calc(100% - .055em))}
 .h-knop i{display:block;width:1.375em;height:1.375em;border-radius:50%;background:#ed91d4;box-shadow:0 0 .14em rgba(237,145,212,.55)}
-/* opening: merkteken 165 pt breed, de stip precies op de stip van de knop; zonder script staat alleen de knop er */
+
 .h-intro{position:absolute;left:calc(50% - 8.937em);top:calc(51.2% - 8.019em);width:10.3125em;height:9.622em;overflow:visible;transform-origin:86.66% 83.34%;visibility:hidden;pointer-events:none}
 .h-intro path{fill:none;stroke:#9b6bf0;stroke-width:68.3;stroke-linecap:round;stroke-dasharray:1 1;stroke-dashoffset:1}
 .h-intro circle{fill:#ec8fd0;transform-box:fill-box;transform-origin:center;transform:scale(.01)}
 .h-zoek{position:absolute;left:1.3em;right:1.3em;bottom:2.89em;height:3.125em;display:flex;align-items:center;gap:.62em;padding:0 1.45em;border-radius:99em;background:rgba(255,255,255,.035);box-shadow:inset 0 0 0 .06em rgba(255,255,255,.1);color:#6b6772;font-size:1.06em;white-space:nowrap}
 .h-zoek svg{flex:none;width:1.2em;height:1.2em;color:#9a96a0}
 
-/* opname */
+
 .s-rec{display:flex;flex-direction:column;background:radial-gradient(120% 34% at 50% 20%,rgba(155,107,240,.26),transparent 74%),radial-gradient(100% 26% at 50% 100%,rgba(155,107,240,.16),transparent 70%),var(--scherm);opacity:0}
 .r-top{display:flex;align-items:flex-start;justify-content:space-between}
 .r-mid{display:flex;flex-direction:column;align-items:center;gap:.5em;padding-top:.5em}
@@ -145,7 +145,7 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .stop i{width:.8em;height:.8em;border-radius:.18em;background:#180e1c}
 .stop.druk{filter:brightness(1.18)}
 
-/* samenvatting */
+
 .s-sum{font-size:1.07em;background:#07060b;transform:translateY(102%);will-change:transform;padding:4.27em 1.08em 0}
 .z-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:.6em}
 .z-groep{display:inline-flex;align-items:center;gap:.7em;height:2.875em;padding:0 .85em;border-radius:99em;background:rgba(255,255,255,.05);box-shadow:inset 0 0 0 .06em rgba(255,255,255,.11)}
@@ -175,7 +175,7 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .speelt .drie{width:.72em;height:.8em;margin:0;border:0;border-inline:.2em solid #180e1c}
 .touch{position:absolute;z-index:7;left:0;top:0;width:3.4em;height:3.4em;margin:-1.7em 0 0 -1.7em;border-radius:50%;background:rgba(255,255,255,.3);box-shadow:0 0 0 .1em rgba(255,255,255,.5);opacity:0;pointer-events:none;will-change:transform,opacity}
 
-/* DE OPNAME: de piek. Hij begint precies waar de hero eindigt. */
+
 .demo{height:720svh;margin-top:-100svh;position:relative;background:var(--ink);z-index:2}
 .demo-stage{--pw:min(42svh,620px);position:sticky;top:0;height:100svh;overflow:hidden;overflow:clip;background:var(--ink)}
 .demo-bg{position:absolute;inset:0;overflow:hidden}
@@ -184,7 +184,7 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .d-rec{left:50%;margin-left:calc(var(--pw)/-2);top:calc(50% - var(--u)*450)}
 .demo-stage>.flits{z-index:6}
 
-/* links de grote zin, rechts de kaarten die zich opstapelen */
+
 .caps{position:absolute;left:var(--gut);top:0;bottom:0;width:calc(50vw - var(--pw)/2 - var(--gut) - 3vw)}
 .cap{position:absolute;left:0;right:0;top:50%;translate:0 -50%;opacity:0;visibility:hidden;will-change:opacity,transform}
 .cap h2{font-size:min(var(--t-h2),4.8vw)}
@@ -215,7 +215,7 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .hint:hover{background:rgba(236,143,208,.2)}
 .speelt-af .caps,.speelt-af .kaarten{opacity:0}
 
-/* GESPREKKEN */
+
 .pan{height:420svh;position:relative;background:var(--paper);color:var(--paper-ink);z-index:2}
 .pan-stage{position:sticky;top:0;height:100svh;overflow:hidden;padding-top:clamp(24px,5svh,60px)}
 .pan-kop{padding-inline:var(--gut) var(--gutr);font-size:var(--t-h3);line-height:1.08}
@@ -225,7 +225,7 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .rt h3{margin-top:14px}
 .rt p{margin-top:1px}
 
-/* SCHERMEN: echte schermen uit de app */
+
 .schermen{position:relative;z-index:2;background:var(--paper);color:var(--paper-ink);padding:clamp(70px,13svh,150px) var(--gutr) clamp(70px,13svh,150px) var(--gut)}
 .kop-rij{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:clamp(18px,4vw,70px);align-items:end}
 .rij-t{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:clamp(18px,2.4vw,44px);margin-top:clamp(44px,8svh,90px)}
@@ -237,7 +237,7 @@ figcaption p{margin-top:6px;color:var(--paper-mist)}
 .ook{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:clamp(18px,2.4vw,44px);margin-top:clamp(54px,10svh,110px);padding-top:clamp(20px,3svh,30px);border-top:1px solid rgba(23,19,29,.16)}
 .ook p{margin-top:8px;color:var(--paper-mist)}
 
-/* LUCHT */
+
 .lucht{height:240svh;position:relative;background:var(--ink);z-index:2}
 .lucht-stage{position:sticky;top:0;height:100svh;overflow:hidden;background:#0d0a12}
 .lucht-beeld{position:absolute;left:0;top:-9svh;width:100%;height:118svh;max-width:none;object-fit:cover;object-position:32% 60%;will-change:transform}
@@ -255,14 +255,14 @@ figcaption p{margin-top:6px;color:var(--paper-mist)}
 .schakel-regel.ja{opacity:1;transform:none}
 .feiten{position:absolute;right:var(--gutr);bottom:clamp(30px,5svh,48px);text-align:right;line-height:1.5}
 
-/* SCHRIJF */
+
 .schrijf{position:relative;z-index:2;background:#0b090f;overflow:hidden}
 .schrijf h2{position:absolute;z-index:2;left:var(--gut);top:clamp(40px,7svh,90px);right:var(--gutr)}
 .schrijf .lead{position:absolute;z-index:2;left:var(--gut);bottom:clamp(40px,7svh,90px);max-width:13.5em}
 .schrijf-beeld{overflow:hidden}
 .schrijf-beeld img{width:100%;height:auto;min-height:100svh;object-fit:cover;transform-origin:50% 50%;will-change:transform}
 
-/* BEWIJS */
+
 .bewijs{position:relative;z-index:2;background:var(--paper);color:var(--paper-ink);padding:clamp(80px,15svh,170px) var(--gutr) clamp(80px,15svh,170px) var(--gut)}
 .nullen{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:clamp(18px,2.4vw,44px);padding-bottom:clamp(60px,12svh,130px)}
 .nullen b{display:block;font:800 var(--t-quote)/1 var(--display);color:var(--ink)}
@@ -278,7 +278,7 @@ figcaption p{margin-top:6px;color:var(--paper-mist)}
 .citaten a:hover{color:var(--ink)}
 .citaten p{margin-top:14px;max-width:30em;text-wrap:pretty}
 
-/* PRIJS */
+
 .prijsblok{position:relative;z-index:2;background:var(--paper);color:var(--paper-ink);padding:clamp(80px,15svh,170px) var(--gutr) clamp(70px,13svh,150px) var(--gut)}
 .plannen{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr) minmax(0,1fr);gap:clamp(12px,1.4vw,22px);margin-top:clamp(40px,7svh,80px);align-items:stretch}
 .plan,.ladder{padding:clamp(22px,2.4vw,38px);border-radius:24px;background:#FBF9F5;box-shadow:inset 0 0 0 1px rgba(23,19,29,.1)}
@@ -309,7 +309,7 @@ figcaption p{margin-top:6px;color:var(--paper-mist)}
 .nodig b{font-weight:600}
 .nodig p{margin-top:6px;color:var(--paper-mist);text-wrap:pretty}
 
-/* SLOT */
+
 .slot{position:relative;z-index:2;background:var(--ink);overflow:hidden}
 .slot-tekst{padding:clamp(110px,20svh,220px) var(--gutr) clamp(40px,7svh,80px);text-align:center}
 .slot-tekst h2{max-width:13em;margin-inline:auto}
@@ -329,7 +329,7 @@ form button:active{transform:scale(.97)}
 .e-far,.e-near{z-index:3}
 .e-woord{position:absolute;z-index:2;left:0;right:0;bottom:var(--eb,20%)}
 
-/* VOET */
+
 .voet{position:relative;z-index:2;background:var(--ink);padding:clamp(44px,8svh,80px) var(--gutr) calc(clamp(30px,5svh,50px) + 76px) var(--gut);border-top:1px solid rgba(251,251,250,.12)}
 .v-boven{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:clamp(18px,3vw,50px);align-items:center;padding-bottom:clamp(22px,4svh,38px)}
 .v-merk{padding-block:7px;margin-block:-7px;display:inline-flex;align-items:center;gap:.36em;font-weight:600;font-size:20px;letter-spacing:-.015em}
@@ -347,7 +347,7 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
 .v-klein{font-size:var(--t-small);line-height:1.5;color:var(--mist);max-width:62em}
 .v-klein+.v-klein{margin-top:8px}
 
-/* RAIL MET TAPE: rechts verticaal, geen transform op de vaste balk */
+
 .pil{position:fixed;z-index:20;right:14px;top:0;bottom:0;margin-block:auto;width:54px;height:max-content;display:flex;flex-direction:column;align-items:center;gap:8px;background:rgba(251,251,250,.97);color:var(--ink);border-radius:99px;padding:6px;box-shadow:0 12px 34px -12px rgba(5,2,10,.6);font-size:var(--t-small);white-space:nowrap}
 .pil-merk{display:grid;place-items:center;width:42px;height:42px}
 .pil-merk svg{width:26px;height:24px}
@@ -366,7 +366,7 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
 .pil.weg{opacity:0;pointer-events:none}
 @media (max-height:520px) and (min-width:821px){.pil-cta{display:none}.tape{height:min(44svh,200px)}}
 
-/* STAAND EN SMAL: de telefoon in het midden, de zin erboven */
+
 @media (max-width:960px),(max-width:1180px) and (orientation:portrait){
   .iphone.d-rec{--pw:min(72vw,calc((100svh - 214px)/2.103),470px);top:clamp(118px,15svh,140px)}
   .caps{left:var(--gut);right:var(--gutr);width:auto;top:calc(18px + env(safe-area-inset-top));bottom:auto;height:0;text-align:center}
@@ -385,7 +385,7 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
   .nodig{grid-template-columns:minmax(0,1fr)}
 }
 
-/* TELEFOON EN KLEINE TABLET: de rail wordt weer de pil onderin */
+
 @media (max-width:820px){
   :root{--t-mark:min(15.6vw,30svh);--t-quote:clamp(40px,12vw,84px)}
   .rand{border-radius:36px}
@@ -430,7 +430,7 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
   .pil-cta{width:auto;height:42px;padding:0 18px;writing-mode:horizontal-tb;rotate:none}
 }
 
-/* LAGE HOOGTE: liggende telefoon */
+
 @media (max-height:520px) and (min-width:560px){
   .iphone,.iphone.d-rec{--pw:min(150px,36svh)}
   .hero-side,.cap p{display:none}
@@ -439,8 +439,10 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
   .rt h3{font-size:18px;margin-top:4px}.rt p{font-size:12px}
 }
 
-/* LIGGENDE TELEFOON (elke breedte, lage hoogte): alles past op één scherm, niets botst */
+
 @media (max-height:520px) and (orientation:landscape){
+  
+  .hint{left:calc(22px + env(safe-area-inset-left));margin-left:0;bottom:calc(16px + env(safe-area-inset-bottom))}
   :root{--t-mark:min(11.5vw,27svh);--t-quote:clamp(26px,9.5svh,44px)}
   .wordmark{left:var(--gut);right:var(--gutr)}
   .hero-line{top:auto;bottom:calc(20px + env(safe-area-inset-bottom));font-size:clamp(20px,6.4svh,26px);max-width:15em}
@@ -454,18 +456,18 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
   .schakel-regel{font-size:18px;margin-top:8px}
   .feiten{bottom:calc(16px + env(safe-area-inset-bottom));font-size:var(--t-small)}
 }
-/* liggend en smal: de pil schuift naar rechts onderin, de kop blijft links vrij */
+
 @media (max-height:520px) and (max-width:820px) and (orientation:landscape){
   .pil{left:auto;right:calc(14px + env(safe-area-inset-right));margin:0}
   .hero-line{left:calc(22px + env(safe-area-inset-left));right:auto}
 }
 
-/* SMALSTE TELEFOONS (360 px): de uitleg boven de telefoon krijgt drie regels ruimte */
+
 @media (max-width:380px) and (orientation:portrait){
   .iphone.d-rec{--pw:min(70vw,calc((100svh - 244px)/2.103));top:148px}
 }
 
-/* ZONDER BEWEGING: stil, maar er valt niets weg */
+
 .rm .hero{height:auto}
 .rm .stage{position:relative;height:auto;overflow:visible;padding-bottom:clamp(70px,12svh,140px)}
 .rm .frame{position:relative;inset:auto;height:100svh}
@@ -492,13 +494,13 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
 .rm .lucht-stage{position:relative}
 .rm .schakel-regel{opacity:1;transform:none}
 
-/* Zonder vliegtuigstand (bouw.py VLIEGTUIG = False): geen vliegtuigje, geen kaart Verbinding, geen vliegtuigfoto. */
+
 .zonder-vlucht .g-con,.zonder-vlucht .lucht-beeld,.zonder-vlucht .schakel svg{display:none!important}
 .zonder-vlucht .lucht{height:auto}
 .zonder-vlucht .lucht-stage{position:relative;height:auto;overflow:visible;padding:clamp(96px,16svh,180px) var(--gut) clamp(96px,16svh,180px)}
 .zonder-vlucht .lucht-tekst{position:relative;left:auto;right:auto;top:auto;max-width:34em;margin:0 auto}
 .zonder-vlucht .lucht-tekst h2{max-width:none}
 
-/* opmaak in de telefoon en de kaartjes blijft binnen hun eigen doos: een nieuw woord of een tikkende tijd herberekent niet de hele pagina */
+
 .screen{contain:strict}
 .kaarten{contain:layout style}

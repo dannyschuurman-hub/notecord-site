@@ -1,4 +1,4 @@
-/* NoteCord. Geen framework: echte HTML, GSAP en Lenis voor de scroll. De hele pagina is één opname. */
+
 (() => {
   const C = window.COPY;
   const html = document.documentElement;
@@ -8,9 +8,6 @@
   if (reduced || !window.gsap) html.classList.add('rm');
   const clamp = (a, b, v) => Math.max(a, Math.min(b, v));
   const deel = (p, a, b) => clamp(0, 1, (p - a) / (b - a));
-
-  /* ---------- taal ---------- */
-  /* elke taal heeft een eigen pagina (/ en /en/); ?lang= wisselt ter plekke. Paden altijd vanaf de map van site.js. */
   const ROOT = new URL('.', document.currentScript ? document.currentScript.src : location.href);
   const opRoot = (p) => new URL(p, ROOT).href;
   const vraag = new URLSearchParams(location.search).get('lang');
@@ -19,21 +16,16 @@
   const P = window.NOTECORD_PRIJZEN;
   const bedrag = (n) => (lang === 'nl' ? `€ ${n.toFixed(2).replace('.', ',')}` : `€${n.toFixed(2)}`);
   const esc = (t) => { const d = document.createElement('i'); d.textContent = t; return d.innerHTML; };
-  /* [[woord]] is het luide woord: roze markeerblok in de tekst, kaal in titels */
   const kaal = (t) => t.replace(/\[\[(.+?)\]\]/g, '$1');
   const merk = (t) => esc(t).replace(/\[\[(.+?)\]\]/g, '<mark>$1</mark>');
-
   function zetTeksten() {
     html.lang = lang;
     document.title = kaal(C.meta_title[lang]);
     qsa('[data-t]').forEach((el) => { el.innerHTML = merk(C[el.dataset.t][lang]); });
     qsa('[data-ph]').forEach((el) => { el.placeholder = C[el.dataset.ph][lang]; });
     qsa('[data-prijs]').forEach((el) => { el.textContent = bedrag(P[el.dataset.prijs]); });
-    // EN-schermen met de demozin "Nothing leaves the device" wachten op nieuwe opnames van de iPhone-chat (hoofdchat 12-11).
-    // Tot dan tonen ze de NL-versie. Lijst leeg maken zodra de nieuwe EN-schermen er zijn; ook in _bron/bouw.py (EN_WACHT).
-    const enWacht = [];  // leeg sinds 12-11 09:15: nieuwe EN-schermen van de iPhone-chat
-    // Tijdelijk ander scherm: lines toont "Koppel je Mac", de Mac-app is nog niet te downloaden (hoofdchat 12-11). Ook in _bron/bouw.py (TIJDELIJK).
-    const tijdelijk = {};  // leeg sinds 12-11 09:25: nieuwe lines-schermen
+    const enWacht = [];
+    const tijdelijk = {};
     qsa('[data-shot]').forEach((el) => { const t = lang === 'en' && enWacht.includes(el.dataset.shot) ? 'nl' : lang; const naam = tijdelijk[el.dataset.shot] || el.dataset.shot; el.src = opRoot(`assets/screens/${t}/${naam}.webp`); });
     qs('[data-priv]').href = opRoot(lang === 'en' ? 'en/privacy/' : 'privacy/');
     qs('[data-sup]').href = opRoot(lang === 'en' ? 'en/support/' : 'support/');
@@ -48,7 +40,6 @@
     const knop = qs('#taal');
     knop.textContent = lang === 'nl' ? 'EN' : 'NL';
     knop.setAttribute('aria-label', lang === 'nl' ? 'Switch to English' : 'Naar het Nederlands');
-    /* echte reviews, zodra die er zijn: zolang de lijst leeg is staat het blok niet op de pagina */
     const R = window.NOTECORD_REVIEWS || [];
     const rv = qs('#reviews');
     rv.hidden = !R.length;
@@ -62,13 +53,10 @@
     zetTeksten();
     naTaal();
   });
-
-  /* ---------- formulier: nog geen lijst aangesloten, dus alleen lokaal ---------- */
   qs('#lijst').addEventListener('submit', (ev) => {
     ev.preventDefault();
     const mail = qs('#email');
     if (!mail.checkValidity()) { mail.reportValidity(); return; }
-    try { localStorage.setItem('notecord-lijst', mail.value); } catch (_) {}
     const nl = document.documentElement.lang !== 'en';
     location.href = 'mailto:dannyschuurman@gmail.com?subject=' + encodeURIComponent(nl ? 'NoteCord: bericht bij de lancering' : 'NoteCord: launch notification') + '&body=' + encodeURIComponent((nl ? 'Stuur mij een bericht als NoteCord uit is: ' : 'Let me know when NoteCord is out: ') + mail.value);
     qs('.bedankt').hidden = false;
@@ -76,32 +64,24 @@
     qs('.bedankt').tabIndex = -1;
     qs('.bedankt').focus();
   });
-
-  /* ---------- schakelaar: werkt ook met de hand ---------- */
   const schakel = qs('#schakelaar');
   const zetSchakel = (aan) => { schakel.setAttribute('aria-checked', aan ? 'true' : 'false'); qs('.schakel-regel').classList.toggle('ja', aan); };
   schakel.addEventListener('click', () => zetSchakel(schakel.getAttribute('aria-checked') !== 'true'));
-
-  /* ---------- hero pas tonen als alle lagen er zijn ---------- */
   Promise.race([
     Promise.all(qsa('.plate').map((im) => im.decode().catch(() => {}))),
     new Promise((klaar) => setTimeout(klaar, 5000)),
   ]).then(() => html.classList.remove('laden'));
-
-  /* ---------- horizon: de naam staat op de horizon van de foto; de camera richt op de telefoon ---------- */
   const staand = matchMedia('(max-width:820px) and (orientation:portrait)');
   let horizon = 0;
   const peil = document.createElement('div');
   peil.style.cssText = 'position:fixed;left:0;top:0;width:0;height:100vh;height:100svh;visibility:hidden;pointer-events:none';
   document.body.appendChild(peil);
   function plaats() {
-    /* kleine schermhoogte (svh): verandert niet als de Safari-balk in- of uitklapt, dus de hero verspringt niet */
     const vw = innerWidth; const vh = peil.offsetHeight || innerHeight;
     const st = staand.matches;
     const ar = st ? 0.5627 : 1.7773;
     const hor = st ? 0.56 : 0.6;
     const pw = Math.max(vw, vh * ar); const ph = pw / ar;
-    /* op een smaller scherm schuift de uitsnede naar de twee mensen */
     const fx = !st && vw / vh < 1.55 ? 0.72 : 0.5; const fy = st ? 0.5 : 0.66;
     html.style.setProperty('--fxp', `${fx * 100}%`);
     const px = vw / 2 + (0.5 - fx) * Math.max(0, pw - vw) - pw / 2;
@@ -111,11 +91,9 @@
     s.setProperty('--py', `${py}px`);
     horizon = py + ph * hor;
     s.setProperty('--hz', `${horizon}px`);
-    /* middelpunt van het schermpje, nadat de tafel naar voren is gekomen (schaal 1,24 vanaf onder) */
     const sx = st ? 0.498 : 0.492; const sy = st ? 0.792 : 0.746;
     s.setProperty('--cx', `${px + pw * (0.5 + (sx - 0.5) * 1.24)}px`);
     s.setProperty('--cy', `${py + ph * (1 + (sy - 1) * 1.24)}px`);
-    /* zelfde foto aan het eind: uitsnede onderaan, de naam staat weer op de horizon */
     const eind = qs('.slot-einde'); const woord = qs('.e-woord');
     const eh = eind.offsetHeight; const ih = Math.max(eh, vw / ar);
     const h2 = ih * hor - (ih - eh);
@@ -123,8 +101,6 @@
   }
   plaats();
   addEventListener('resize', plaats);
-
-  /* ---------- golf in de telefoon: violet naar roze, kleur per balk ---------- */
   const golf = qs('.golf');
   const BARS = 42;
   golf.innerHTML = Array.from({ length: BARS }, (_, i) => {
@@ -133,15 +109,11 @@
     return `<i style="background:rgb(${r},${g},${b})"></i>`;
   }).join('');
   const bars = qsa('i', golf);
-
-  /* ---------- tape in de rail: de pagina als golfvorm ---------- */
   const tape = qs('#tape');
   const pil = qs('.pil');
-  /* tijdens typen in het formulier gaat de pil opzij: op de telefoon zou hij het veld of het toetsenbord raken */
   const veld = qs('#email');
   if (veld) { veld.addEventListener('focus', () => pil.classList.add('weg')); veld.addEventListener('blur', () => pil.classList.remove('weg')); }
   let tapeBars = []; let kopNu = -1;
-  /* prijs staat uit tot Danny kiest (AFSPRAKEN §7) */
   const zonderVlucht = document.documentElement.classList.contains('zonder-vlucht');
   const MOMENTEN = ['opname', 'gesprekken', 'schermen', 'lucht', 'schrijf', 'bewijs', 'slot'];
   const STERKTE = { begin: 0.55, opname: 1, gesprekken: 0.6, schermen: 0.5, lucht: 0.3, schrijf: 0.42, bewijs: 0.36, prijs: 0.48, slot: 0.16 };
@@ -167,7 +139,6 @@
     tapeBars.forEach((b, i) => { b.className = i < k ? 'op' : i === k ? 'kop' : ''; });
     kopNu = k;
   }
-  /* rechts loopt de tape omlaag, onderin de telefoon naar rechts */
   const opTape = (ev) => {
     const r = tape.getBoundingClientRect();
     return clamp(0, 1, innerWidth > 820 ? (ev.clientY - r.top) / r.height : (ev.clientX - r.left) / r.width) * (html.scrollHeight - innerHeight);
@@ -175,11 +146,7 @@
   bouwTape();
   addEventListener('load', bouwTape);
   addEventListener('resize', bouwTape);
-
-  /* bij het slot: tape op, knop weg */
   new IntersectionObserver((rijen) => rijen.forEach((r) => pil.classList.toggle('bij-slot', r.isIntersecting)), { rootMargin: '-40% 0px -40% 0px' }).observe(qs('.slot-tekst'));
-
-  /* in de rm-versie zijn alle woorden gewoon zichtbaar */
   if (html.classList.contains('rm')) {
     zetSchakel(true);
     addEventListener('scroll', () => zetKop(scrollY / (html.scrollHeight - innerHeight || 1)), { passive: true });
@@ -188,9 +155,7 @@
     tape.addEventListener('click', (ev) => scrollTo(0, opTape(ev)));
     return;
   }
-
   gsap.registerPlugin(ScrollTrigger);
-  /* een in- of uitklappende adresbalk op de telefoon is geen nieuwe layout */
   ScrollTrigger.config({ ignoreMobileResize: true });
   const lenis = new Lenis({ lerp: 0.11, smoothWheel: true });
   lenis.on('scroll', ({ scroll, limit }) => { ScrollTrigger.update(); zetKop(scroll / (limit || 1)); });
@@ -200,12 +165,8 @@
     ev.preventDefault(); lenis.scrollTo(a.getAttribute('href'), { duration: 1.6 });
   }));
   tape.addEventListener('click', (ev) => lenis.scrollTo(opTape(ev), { duration: 1.6 }));
-
   const mm = gsap.matchMedia();
   const isSmal = () => innerWidth <= 820;
-
-  /* ---------- HERO ---------- */
-  /* muis: elk vlak verschuift een eigen stukje, de marge komt uit een kleine schaal vooraf */
   mm.add('(hover: hover) and (pointer: fine)', () => {
     gsap.set('.far', { scale: 1.015 / 1.1 });
     gsap.set('.near', { scale: 1.03 / 1.3 });
@@ -225,20 +186,16 @@
     defaults: { ease: 'none' },
     scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom bottom', scrub: true, invalidateOnRefresh: true, onUpdate: zetHero, onRefresh: zetHero },
   })
-    /* de rand staat buiten beeld en wordt verkleind naar binnen gehaald: alleen transform */
     .fromTo('.rand', { scaleX: () => { const r = isSmal() ? 6 : 10; return (innerWidth - r * 2) / (innerWidth + 100); }, scaleY: () => { const r = isSmal() ? 6 : 10; return (innerHeight - r * 2) / (innerHeight + 100); } }, { scaleX: 1, scaleY: 1, duration: 0.2 }, 0)
     .to('.wordmark', { y: zak, duration: 0.4 }, 0)
     .to('.hero-line,.hero-side', { autoAlpha: 0, y: -18, duration: 0.08 }, 0.03)
     .to('.sky', { scale: 1.03 / 1.06, y: () => -innerHeight * 0.015, duration: 0.55 }, 0)
     .to('.far', { scale: 1.06 / 1.1, y: () => -innerHeight * 0.03, duration: 0.55 }, 0)
     .to('.near', { scale: 1.24 / 1.3, duration: 0.55 }, 0)
-    /* de camera duikt de telefoon in; de foto wordt donker voordat hij wazig kan worden, en dan ben je in het scherm */
     .to('.cam-near', { scale: 6.6, ease: 'power3.in', duration: 0.4 }, 0.55)
     .to('.cam-far', { scale: 1.9, ease: 'power3.in', duration: 0.4 }, 0.55)
     .to('.cam-sky', { scale: 1.3, ease: 'power3.in', duration: 0.4 }, 0.55)
     .to('.stage .flits', { opacity: 1, duration: 0.19 }, 0.76);
-
-  /* ---------- DE OPNAME: de piek ---------- */
   const stage = qs('.demo-stage');
   const foon = qs('.d-rec');
   const home = qs('.s-home', foon);
@@ -252,15 +209,12 @@
   const caps = qsa('.cap'); const glazen = qsa('.glas');
   const bArts = qs('.b-arts'); const flits2 = qs('.demo-stage>.flits');
   let rgs = []; let rws = []; let kws = []; let v = {}; const fase = { p: 0, q: 0 };
-  /* woordvolgorde in de opname: elke regel eigen stuk van de scroll */
   const REGEL_VAN = [[0.11, 0.18], [0.19, 0.27], [0.28, 0.35], [0.355, 0.385]];
-  /* grote zinnen links: elk zijn eigen stuk van de opname */
   const CAP = [[0, 0.085], [0.085, 0.15], [0.15, 0.215], [0.215, 0.29], [0.29, 0.355], [0.355, 0.425], [0.425, 0.6]];
   function bouw() {
     rgs = qsa('.rg'); rws = rgs.map((r) => qsa('.rw', r)); kws = qsa('.kw'); v = {};
   }
   bouw();
-  /* doelen voor de vinger, in schermpunten: offsets negeren transforms */
   const scherm = qs('.screen', foon);
   const opScherm = (el) => {
     let x = el.offsetWidth / 2; let y = el.offsetHeight / 2; let n = el;
@@ -271,21 +225,17 @@
   const zet = (k, w, f) => { if (v[k] !== w) { f(w); v[k] = w; } };
   const zetOp = (el, a) => { el.style.opacity = a; el.style.visibility = a <= 0 ? 'hidden' : 'visible'; };
   const uit3 = gsap.parseEase('power3.out'); const inUit2 = gsap.parseEase('power2.inOut');
-
   const stapel = matchMedia('(max-width:960px),(max-width:1180px) and (orientation:portrait)');
-  let replay = null; /* eigen beweging na een echte tik */
+  let replay = null;
   let maat = null;
   const meet = () => { const kop = qs('.groot'); maat = { b: foon.offsetWidth, h: foon.offsetHeight, top: foon.offsetTop, kopOnder: kop ? kop.offsetTop + kop.offsetHeight : 0 }; };
   function teken() {
     const p = fase.p; const q = fase.q;
     const breed = !stapel.matches;
-    /* schermen: stil beginscherm, opname, samenvatting van onderaf */
     const tikStart = deel(p, 0.05, 0.075);
     zet('home', p >= 0.085 ? 0 : 1 - deel(p, 0.07, 0.085), (w) => zetOp(home, w));
-    /* pas ademen als de telefoon geland is: tijdens de landing is de laag te groot */
     zet('adem', q >= 0.08 && p < 0.085, (w) => home.classList.toggle('adem', w));
     zet('rec', p > 0.54 ? 0 : deel(p, 0.07, 0.09), (w) => zetOp(rec, w));
-    /* de opening van de app, op de scroll: lijn schrijven, stip aan, dan krimpt het teken op de knop */
     const iSchrijf = inUit2(deel(q, 0.012, 0.058));
     const iAan = deel(q, 0.054, 0.07);
     const iOver = inUit2(deel(q, 0.072, 0.098));
@@ -304,7 +254,6 @@
       const a = deel(p, 0.5 + i * 0.012, 0.52 + i * 0.012);
       zet(`r${i}`, a.toFixed(3), (w) => { r.style.opacity = w; r.style.transform = `translateY(${((1 - w) * 0.9).toFixed(3)}em)`; });
     });
-    /* woorden */
     rgs.forEach((r, i) => {
       const [a, b] = REGEL_VAN[i];
       const d = deel(p, a, b);
@@ -312,14 +261,12 @@
       zet(`rg${i}`, d > 0, (w) => { r.classList.toggle('op', w); });
       zet(`rn${i}`, n, (w) => { rws[i].forEach((el, j) => { el.style.opacity = j < w ? 1 : 0; }); });
     });
-    /* tijd: loopt met de zinnen mee en stopt op 12:00 */
     let s = 0;
     const STAP = [[0.09, 0], [0.11, 32], [0.19, 48], [0.28, 70], [0.355, 82], [0.39, 110], [0.42, 720]];
     for (let i = 0; i < STAP.length - 1; i += 1) {
       if (p >= STAP[i][0]) s = Math.round(STAP[i][1] + (STAP[i + 1][1] - STAP[i][1]) * deel(p, STAP[i][0], STAP[i + 1][0]));
     }
     zet('tijd', fmtKort(s), (w) => { tijd.textContent = w; });
-    /* golf leeft zolang er wordt opgenomen */
     const leeft = p > 0.09 && p < 0.425;
     if (leeft || v.leeft !== false) {
       const t = performance.now() / 260;
@@ -329,12 +276,10 @@
       });
       v.leeft = leeft;
     }
-    /* vlag en notitie */
     zet('vlag', p > 0.225, (w) => { vlagk.classList.toggle('aan', w); n1.style.opacity = w ? 1 : 0; });
     zet('n2', p > 0.325, (w) => { n2.style.opacity = w ? 1 : 0; });
     zet('stop', p > 0.425 && p < 0.47, (w) => { stopk.classList.toggle('druk', w); });
     zet('vlieg', p >= 0.355 && !zonderVlucht, (w) => { foon.classList.toggle('vlieg', w); });
-    /* vinger: tik op de opnameknop, de vlag, stop en de zin */
     const doel = p < 0.08 ? 'h-knop' : p < 0.24 ? 'vlagk' : p < 0.47 ? 'stopk' : 'zin';
     const venster = doel === 'h-knop' ? [0.045, 0.078] : doel === 'vlagk' ? [0.205, 0.238] : doel === 'stopk' ? [0.415, 0.455] : [0.70, 0.74];
     const ta = Math.sin(deel(p, venster[0], venster[1]) * Math.PI);
@@ -346,9 +291,7 @@
       const [x, y] = maat.doel.get(el);
       touch.style.transform = `translate(${x}px,${y}px)`;
     }
-    /* de knop in de telefoon is pas te bereiken als hij te zien is */
     zet('zinTab', p > 0.55 ? 0 : -1, (w) => { zin.tabIndex = w; });
-    /* de zin licht op, de speler springt naar 0:48 en de woorden komen terug */
     const aan = p >= 0.725;
     zet('zinL', aan, (w) => { zin.classList.toggle('licht', w); speler.classList.toggle('speelt', w && p < 0.96); });
     const woordD = deel(p, 0.775, 0.945);
@@ -357,12 +300,9 @@
       zet('kw', n, (w) => { kws.forEach((el, i) => { el.classList.toggle('op', i < w); el.classList.toggle('nu', i === w - 1 && w < kws.length); }); });
       const sp = aan ? 48 + Math.round(5 * woordD) : 0;
       zet('pt', sp, (w) => { ptijd.textContent = `${fmtKort(w)} / 12:00`; });
-      /* eerst de vraag, dan de zin zelf */
       zet('vrA', (deel(p, 0.6, 0.625) * (1 - deel(p, 0.735, 0.755))).toFixed(3), (w) => zetOp(vrWrap, +w));
       zet('grA', deel(p, 0.76, 0.785).toFixed(3), (w) => zetOp(grootP, +w));
     }
-    /* telefoon: landt uit het volle scherm, komt dichterbij, schuift daarna opzij of omlaag */
-    /* maten één keer per refresh, nooit in het frame zelf: lezen na schrijven dwingt een layout af */
     if (!maat) meet();
     const { b, h, top } = maat;
     const vol = Math.max(innerWidth / (b * 0.9), innerHeight / (h * 0.86)) * 1.12;
@@ -376,7 +316,6 @@
       const dx = (innerWidth * 0.71 - innerWidth / 2) * opz;
       stand = `translate(${dx.toFixed(1)}px,${opMidden.toFixed(1)}px) scale(${(basis - 0.03 * opz).toFixed(4)})`;
     } else {
-      /* de zin bovenaan, de hele telefoon eronder: nooit afgesneden */
       const doelOnder = innerHeight - (isSmal() ? 84 : 24);
       const ruimte = doelOnder - (maat.kopOnder + 16);
       const eind = clamp(0.36, 0.74, ruimte / h);
@@ -384,18 +323,14 @@
       stand = `translate(0,${(dy + opMidden).toFixed(1)}px) scale(${(basis - (groei - eind) * opz).toFixed(4)})`;
     }
     if (!replay || fase.p >= 0.62) zet('foon', stand, (w) => { foon.style.transform = w; });
-    /* de landing komt uit dezelfde kleur als de flits */
     zet('fl2', (1 - deel(q, 0, 0.022)).toFixed(3), (w) => { flits2.style.opacity = w; flits2.style.visibility = +w > 0 ? 'visible' : 'hidden'; });
-    /* achter de telefoon: eerst de stad, dan de kamer bij de huisarts */
     zet('arts', deel(p, 0.085, 0.14).toFixed(3), (w) => { bArts.style.opacity = w; });
-    /* zinnen links */
     caps.forEach((c, i) => {
       const [a, e] = CAP[i];
       const inn = i === 0 ? deel(q, 0.05, 0.095) : deel(p, a, a + 0.012);
       const w = inn * (1 - deel(p, e - 0.012, e));
       zet(`c${i}`, `${w.toFixed(3)}`, () => { zetOp(c, w); c.style.transform = `translateY(${((1 - inn) * 18).toFixed(1)}px)`; });
     });
-    /* kaarten rechts stapelen zich op; de nieuwste licht op */
     let laatste = -1;
     const zien = glazen.map((g, i) => { const z = q > 0.05 && p >= +g.dataset.at && p < 0.56; if (z) laatste = i; return z; });
     glazen.forEach((g, i) => {
@@ -412,15 +347,11 @@
     onRefresh: (s) => { zetFase(s); v = {}; meet(); teken(); },
   });
   gsap.fromTo('.demo-bg img', { scale: 1 }, { scale: 1 / 1.1, ease: 'none', scrollTrigger: { trigger: '.demo', start: 'top top', end: 'bottom bottom', scrub: true } });
-  /* de golf blijft bewegen als je even stil staat */
   gsap.ticker.add(() => { if (fase.p > 0.09 && fase.p < 0.425) teken(); });
-
-  /* de zin komt terug: echte tik, op de zin of de knop, speelt de zin opnieuw af */
   function speelAf() {
     if (replay || fase.p < 0.5) return;
     const o = { d: 0 };
     zetOp(vrWrap, 0); zetOp(grootP, 1); stage.classList.add('speelt-af');
-    /* tik je eerder dan de scroll, dan schuift de telefoon zelf opzij */
     if (!stapel.matches && fase.p < 0.62) { foon.style.transition = 'transform .8s cubic-bezier(.2,.7,.1,1)'; foon.style.transform = `translate(${(innerWidth * 0.21).toFixed(1)}px,0) scale(.97)`; v.foon = null; }
     zin.classList.add('licht'); speler.classList.add('speelt');
     replay = gsap.to(o, {
@@ -432,7 +363,6 @@
       },
       onComplete: () => {
         const klaar = () => { replay = null; speler.classList.remove('speelt'); stage.classList.remove('speelt-af'); v = {}; teken(); setTimeout(() => { foon.style.transition = ''; }, 900); };
-        /* scrolde je nog niet zo ver, dan blijft de zin even staan en gaat de telefoon rustig terug */
         if (fase.p >= 0.76) { klaar(); return; }
         gsap.to(grootP, { autoAlpha: 0, duration: 0.6, delay: 1.5, ease: 'power1.in', onStart: () => { foon.style.transition = 'transform .8s cubic-bezier(.2,.7,.1,1)'; v.foon = null; }, onComplete: klaar });
       },
@@ -440,35 +370,22 @@
   }
   zin.addEventListener('click', speelAf);
   hint.addEventListener('click', speelAf);
-
   naTaal = () => { bouw(); bouwTape(); ScrollTrigger.refresh(); teken(); };
-
-  /* ---------- GESPREKKEN ---------- */
   mm.add('(min-width:821px)', () => {
     const track = qs('.track');
     gsap.to(track, { x: () => -(track.scrollWidth - innerWidth + 84), ease: 'none', scrollTrigger: { trigger: '.pan', start: 'top top', end: 'bottom bottom', scrub: true, invalidateOnRefresh: true } });
   });
-
-  /* ---------- LUCHT: de foto schuift mee, de schakelaar gaat om ---------- */
   mm.add('(min-width:821px)', () => {
     gsap.fromTo('.lucht-beeld', { y: () => innerHeight * -0.08 }, { y: () => innerHeight * 0.08, ease: 'none', scrollTrigger: { trigger: '.lucht', start: 'top bottom', end: 'bottom top', scrub: true, invalidateOnRefresh: true } });
   });
   gsap.from('.lucht-tekst', { y: 26, autoAlpha: 0, duration: 1.1, ease: 'power3.out', scrollTrigger: { trigger: '.lucht', start: 'top 45%' } });
   gsap.from('.feiten li', { y: 12, autoAlpha: 0, duration: 0.9, ease: 'power3.out', stagger: 0.12, scrollTrigger: { trigger: '.lucht', start: () => (isSmal() ? 'center 80%' : '30% top'), invalidateOnRefresh: true } });
   ScrollTrigger.create({ trigger: '.lucht', start: () => (isSmal() ? 'center 70%' : '22% top'), invalidateOnRefresh: true, onEnter: () => zetSchakel(true), onLeaveBack: () => zetSchakel(false) });
-
-  /* ---------- SCHRIJF ---------- */
   gsap.fromTo('.schrijf-beeld img', { scale: 1.1 }, { scale: 1, ease: 'none', scrollTrigger: { trigger: '.schrijf', start: 'top bottom', end: 'bottom 70%', scrub: true } });
-
-  /* ---------- SCHERMEN, BEWIJS, PRIJS: rustig opkomen, per blok ---------- */
   qsa('.kop-rij,.rij-t figure,.ook li,.nullen li,.citaten li,.plan,.ladder,.nodig').forEach((el) => {
     gsap.from(el, { y: 22, autoAlpha: 0, duration: 1, ease: 'power3.out', scrollTrigger: { trigger: el, start: 'top 90%' } });
   });
-
-  /* ---------- SLOT: de naam komt weer op boven de stad ---------- */
   gsap.fromTo('.e-woord', { y: () => qs('.e-woord').offsetHeight * (staand.matches ? 2.9 : 1.6) }, { y: 0, ease: 'none', scrollTrigger: { trigger: '.slot-einde', start: 'top 92%', end: 'bottom bottom', scrub: true, invalidateOnRefresh: true } });
-
-  /* beelden vooraf laden en uitpakken, zodat er tijdens het scrollen niets meer hoeft te gebeuren */
   const klaarzetten = () => {
     const rij = qsa('img').filter((im) => im.offsetParent !== null);
     const volgende = () => {

@@ -2,8 +2,18 @@
 <html lang="nl" class="laden nojs zonder-vlucht">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-IiFcSWEiRBlMnfQn3eRQdjsL3As4e/N72uQ7bKY/h0o=' 'sha256-vtyD6o4dIdgWRpwhnUCIAHnSlsS/DOU5iNxt8OVxLJ4='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; media-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:; manifest-src 'self'; worker-src 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<script>if(window.top!==window.self){try{window.top.location.replace(window.location.href)}catch(e){document.documentElement.hidden=true}}</script>
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>NoteCord app | Luister naar het gesprek</title>
+<meta property="og:url" content="https://notecord.nl/">
+<meta property="og:site_name" content="NoteCord">
+<meta property="og:image" content="https://notecord.nl/assets/share.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Twee mensen in gesprek op een dakterras boven een moderne stad bij schemering. Op de stenen tafel ligt een iPhone met NoteCord.">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="description" content="NoteCord app voor iPhone en iPad neemt gesprekken op en schrijft ze uit op je toestel. Zoek in je gesprekken. Samenvattingen vragen Apple Intelligence.">
 <link rel="canonical" href="https://notecord.nl/">
 <link rel="alternate" hreflang="nl" href="https://notecord.nl/">
@@ -18,14 +28,13 @@
 <link rel="icon" href="assets/favicon-32.png" sizes="32x32">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <link rel="preload" href="assets/dm-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="style.css?v=7adbb179">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"NoteCord","alternateName":"NoteCord app","applicationCategory":"ProductivityApplication","operatingSystem":"iOS, iPadOS","description":"NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart.","inLanguage":["nl","en"]}</script>
+<link rel="stylesheet" href="style.css?v=308b5ac7">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","url":"https://notecord.nl/","name":"NoteCord","alternateName":"NoteCord app","applicationCategory":"ProductivityApplication","operatingSystem":"iOS, iPadOS","description":"NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart.","inLanguage":["nl","en"]}</script>
 <script>document.documentElement.classList.remove('nojs')</script>
 </head>
 <body>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
-  <!-- Het echte merkteken: dezelfde lijn als de app (Scribe/Views/NotecordMark.swift) -->
-  <symbol id="logo" viewBox="261.6 273.1 512.1 477.8"><path d="M295.75 716.8V489C295.75 389 363 307.2 443.7 307.2C526 307.2 591.6 389 591.6 500C591.6 615 632 671.3 705.4 671.3" fill="none" stroke="#9b6bf0" stroke-width="68.3" stroke-linecap="round"/><circle cx="705.4" cy="671.3" r="68.3" fill="#ec8fd0"/></symbol>
+    <symbol id="logo" viewBox="261.6 273.1 512.1 477.8"><path d="M295.75 716.8V489C295.75 389 363 307.2 443.7 307.2C526 307.2 591.6 389 591.6 500C591.6 615 632 671.3 705.4 671.3" fill="none" stroke="#9b6bf0" stroke-width="68.3" stroke-linecap="round"/><circle cx="705.4" cy="671.3" r="68.3" fill="#ec8fd0"/></symbol>
   <symbol id="vlag" viewBox="0 0 18 20"><path d="M3 1.500v17M3 2.500c3-1.500 5 .8 8 .2 1.700-.3 3-.9 4-.7v9c-1 0-2.300.5-4 .8-3 .5-5-1.800-8-.3" fill="currentColor" stroke="currentColor" stroke-width="1.700" stroke-linecap="round" stroke-linejoin="round"/></symbol>
   <symbol id="i-x" viewBox="0 0 20 20"><path d="M4.500 4.500l11 11M15.500 4.500l-11 11" fill="none" stroke="currentColor" stroke-width="1.800" stroke-linecap="round"/></symbol>
   <symbol id="i-lijst" viewBox="0 0 20 20"><circle cx="3.500" cy="5" r="1.200" fill="currentColor"/><circle cx="3.500" cy="10" r="1.200" fill="currentColor"/><circle cx="3.500" cy="15" r="1.200" fill="currentColor"/><path d="M7.500 5h10M7.500 10h10M7.500 15h10" stroke="currentColor" stroke-width="1.800" stroke-linecap="round"/></symbol>
@@ -42,11 +51,10 @@
 </defs></svg>
 
 <main>
-<!-- HERO: de naam zakt achter de stad, de camera duikt de telefoon in -->
 <section class="hero" id="begin">
   <div class="stage">
     <div class="frame">
-      <div class="cam cam-sky"><picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-sky.jpg"><img class="plate sky" src="assets/stad-sky.jpg" alt="" width="3007" height="1693" fetchpriority="high"></picture></div>
+      <div class="cam cam-sky"><picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-sky.webp"><img class="plate sky" src="assets/stad-sky.webp" alt="" width="3007" height="1693" fetchpriority="high"></picture></div>
       <h1 class="wordmark" aria-label="NoteCord"><svg aria-hidden="true"><use href="#logo"/></svg><span aria-hidden="true">NoteCord</span></h1>
       <div class="cam cam-far"><picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-far.webp"><img class="plate far" src="assets/stad-far.webp" alt="" width="3007" height="1693"></picture></div>
       <div class="cam cam-near"><picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-near.webp"><img class="plate near" src="assets/stad-near.webp" alt="Twee mensen in gesprek op een dakterras boven een moderne stad bij schemering. Op de stenen tafel ligt een iPhone met NoteCord." width="3007" height="1693"></picture></div>
@@ -58,10 +66,9 @@
   </div>
 </section>
 
-<!-- DE OPNAME: de piek -->
 <section class="demo" id="opname">
   <div class="demo-stage">
-    <div class="demo-bg"><picture><source media="(orientation:portrait)" srcset="assets/demo-bg-p.jpg"><img class="b-stad" src="assets/demo-bg.jpg" alt="" width="2400" height="1350" loading="lazy"></picture><picture><source media="(orientation:portrait)" srcset="assets/demo-arts-p.jpg"><img class="b-arts" src="assets/demo-arts.jpg" alt="" width="2400" height="1600" loading="lazy"></picture></div>
+    <div class="demo-bg"><picture><source media="(orientation:portrait)" srcset="assets/demo-bg-p.webp"><img class="b-stad" src="assets/demo-bg.webp" alt="" width="2400" height="1350" loading="lazy"></picture><picture><source media="(orientation:portrait)" srcset="assets/demo-arts-p.webp"><img class="b-arts" src="assets/demo-arts.webp" alt="" width="2400" height="1600" loading="lazy"></picture></div>
     <div class="caps">
       <article class="cap"><h2 data-t="s1_t">Je schrijft nog. De ander praat verder.</h2><p data-t="s1_p">NoteCord neemt op en schrijft uit op je toestel. Lees later terug wat je tijdens het luisteren niet kon opschrijven.</p></article>
       <article class="cap"><h2 data-t="c1_t">Bewaar het gesprek.</h2><p data-t="c1_p">Neem op met NoteCord. Het geluid blijft op je toestel.</p></article>
@@ -122,7 +129,6 @@
   </div>
 </section>
 
-<!-- GESPREKKEN -->
 <section class="pan" id="gesprekken">
   <div class="pan-stage">
     <h2 class="pan-kop" data-t="pan_kop">Vind elke <mark>zin</mark> terug. In al je gesprekken.</h2>
@@ -136,7 +142,6 @@
   </div>
 </section>
 
-<!-- SCHERMEN: echte screenshots uit de app -->
 <section class="schermen" id="schermen">
   <div class="kop-rij"><h2 data-t="h2_screens">Bekijk de <mark>app</mark>.</h2><p class="lead" data-t="p_screens">Schermen van NoteCord met voorbeeldgesprekken.</p></div>
   <div class="rij-t">
@@ -153,7 +158,6 @@
   </ul>
 </section>
 
-<!-- LUCHT -->
 <section class="lucht" id="lucht">
   <div class="lucht-stage">
     <img class="lucht-beeld" src="assets/vlucht.webp" alt="Bij het vliegtuigraam, boven de wolken in de schemering. Een hand met een Apple Watch naast een iPhone op het tafeltje." data-alt="alt_vlucht" width="2880" height="1620" loading="lazy">
@@ -167,14 +171,12 @@
   </div>
 </section>
 
-<!-- SCHRIJF -->
 <section class="schrijf" id="schrijf">
   <h2 data-t="schrijf_kop">Tik op je <mark>handschrift</mark>. Hoor wat er werd gezegd.</h2>
   <p class="lead" data-t="schrijf_tekst">Je schrijft op je iPad terwijl je luistert. Tik later op je handschrift en hoor dat moment terug.</p>
   <div class="schrijf-beeld"><img src="assets/ipad.webp" alt="Een hand schrijft met Apple Pencil Pro op een iPad Pro, met een Apple Watch om de pols en een iPhone ernaast op zwarte steen." data-alt="alt_ipad" width="2880" height="1920" loading="lazy"></div>
 </section>
 
-<!-- BEWIJS: wat waar is, en wat mensen schrijven over notitie-apps -->
 <section class="bewijs" id="bewijs">
   <ul class="nullen">
     <li><b>0</b><span data-t="n_acc">accounts nodig</span></li>
@@ -193,7 +195,6 @@
   </ul>
 </section>
 
-<!-- PRIJS -->
 <section class="prijsblok" id="prijs">
   <div class="kop-rij"><h2 data-t="h2_price">Gratis beginnen. Meer met Pro.</h2><p class="lead" data-t="p_price">NoteCord blijft gratis te gebruiken. Probeer Pro 7 dagen gratis en kies een maand- of jaarabonnement.</p></div>
   <div class="plannen">
@@ -227,7 +228,6 @@
   </div>
 </section>
 
-<!-- SLOT -->
 <section class="slot" id="slot">
   <div class="slot-tekst">
     <h2 data-t="slot_kop">Geef je volgende gesprek je <mark>aandacht</mark>.</h2>
@@ -241,7 +241,7 @@
     <p class="prijs" data-t="slot_prijs">Tot en met 1 december 2026 krijg je levenslang Pro voor de oprichtersprijs van € 59,99 eenmalig.</p>
   </div>
   <div class="slot-einde" aria-hidden="true">
-    <picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-sky.jpg"><img class="e-sky" src="assets/stad-sky.jpg" alt="" loading="lazy"></picture>
+    <picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-sky.webp"><img class="e-sky" src="assets/stad-sky.webp" alt="" loading="lazy"></picture>
     <p class="e-woord"><svg><use href="#logo"/></svg><span>NoteCord</span></p>
     <picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-far.webp"><img class="e-far" src="assets/stad-far.webp" alt="" loading="lazy"></picture>
     <picture><source media="(max-width:820px) and (orientation:portrait)" srcset="assets/stadp-near.webp"><img class="e-near" src="assets/stad-near.webp" alt="" loading="lazy"></picture>
@@ -267,7 +267,6 @@
   <p class="v-klein">© 2026 NoteCord</p>
 </footer>
 
-<!-- DE RAIL MET TAPE: geen transform op de vaste balk -->
 <nav class="pil" aria-label="NoteCord">
   <a class="pil-merk" href="#begin" aria-label="NoteCord"><svg aria-hidden="true"><use href="#logo"/></svg></a>
   <div class="tape" id="tape" aria-hidden="true"></div>
@@ -280,6 +279,6 @@
 <script src="assets/vendor/lenis.min.js"></script>
 <script src="copy.js?v=2816f43d"></script>
 <script src="reviews.js?v=dea374b0"></script>
-<script src="site.js?v=b210282e"></script>
+<script src="site.js?v=278e1b01"></script>
 </body>
 </html>

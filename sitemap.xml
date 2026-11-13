@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- <url><loc>https://notecord.nl/</loc></url>
- <url><loc>https://notecord.nl/en/</loc></url>
- <url><loc>https://notecord.nl/privacy/</loc></url>
- <url><loc>https://notecord.nl/en/privacy/</loc></url>
- <url><loc>https://notecord.nl/voorwaarden/</loc></url>
- <url><loc>https://notecord.nl/en/terms/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+ <url><loc>https://notecord.nl/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/"/></url>
+ <url><loc>https://notecord.nl/en/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/"/></url>
+ <url><loc>https://notecord.nl/privacy/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/privacy/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/privacy/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/privacy/"/></url>
+ <url><loc>https://notecord.nl/en/privacy/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/privacy/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/privacy/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/privacy/"/></url>
+ <url><loc>https://notecord.nl/voorwaarden/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/voorwaarden/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/terms/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/terms/"/></url>
+ <url><loc>https://notecord.nl/en/terms/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/voorwaarden/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/terms/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/terms/"/></url>
  <url><loc>https://notecord.nl/en/private-ai-note-taker-iphone/</loc></url>
  <url><loc>https://notecord.nl/ai-notitieapp-zonder-cloud/</loc></url>
  <url><loc>https://notecord.nl/en/record-lecture-without-account/</loc></url>
  <url><loc>https://notecord.nl/en/ai-note-taker-that-does-not-collect-data/</loc></url>
- <url><loc>https://notecord.nl/en/check-notecord-privacy-yourself/</loc></url>
- <url><loc>https://notecord.nl/privacy-zelf-controleren/</loc></url>
- <url><loc>https://notecord.nl/support/</loc></url>
- <url><loc>https://notecord.nl/en/support/</loc></url>
- <url><loc>https://notecord.nl/fireflies-alternatief-zonder-bot/</loc></url>
- <url><loc>https://notecord.nl/en/fireflies-alternative-without-bot/</loc></url>
- <url><loc>https://notecord.nl/granola-alternatief/</loc></url>
- <url><loc>https://notecord.nl/en/granola-alternative-on-device/</loc></url>
- <url><loc>https://notecord.nl/otter-alternatief-iphone/</loc></url>
- <url><loc>https://notecord.nl/en/otter-alternative-on-iphone/</loc></url>
- <url><loc>https://notecord.nl/plaud-alternatief/</loc></url>
- <url><loc>https://notecord.nl/en/plaud-alternative-iphone/</loc></url>
- <url><loc>https://notecord.nl/pocket-ai-recorder-alternatief/</loc></url>
- <url><loc>https://notecord.nl/en/pocket-ai-recorder-alternative/</loc></url>
+ <url><loc>https://notecord.nl/en/check-notecord-privacy-yourself/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/privacy-zelf-controleren/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/check-notecord-privacy-yourself/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/check-notecord-privacy-yourself/"/></url>
+ <url><loc>https://notecord.nl/privacy-zelf-controleren/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/privacy-zelf-controleren/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/check-notecord-privacy-yourself/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/check-notecord-privacy-yourself/"/></url>
+ <url><loc>https://notecord.nl/support/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/support/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/support/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/support/"/></url>
+ <url><loc>https://notecord.nl/en/support/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/support/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/support/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/support/"/></url>
+ <url><loc>https://notecord.nl/fireflies-alternatief-zonder-bot/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/fireflies-alternatief-zonder-bot/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/fireflies-alternative-without-bot/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/fireflies-alternative-without-bot/"/></url>
+ <url><loc>https://notecord.nl/en/fireflies-alternative-without-bot/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/fireflies-alternatief-zonder-bot/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/fireflies-alternative-without-bot/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/fireflies-alternative-without-bot/"/></url>
+ <url><loc>https://notecord.nl/granola-alternatief/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/granola-alternatief/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/granola-alternative-on-device/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/granola-alternative-on-device/"/></url>
+ <url><loc>https://notecord.nl/en/granola-alternative-on-device/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/granola-alternatief/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/granola-alternative-on-device/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/granola-alternative-on-device/"/></url>
+ <url><loc>https://notecord.nl/otter-alternatief-iphone/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/otter-alternatief-iphone/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/otter-alternative-on-iphone/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/otter-alternative-on-iphone/"/></url>
+ <url><loc>https://notecord.nl/en/otter-alternative-on-iphone/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/otter-alternatief-iphone/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/otter-alternative-on-iphone/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/otter-alternative-on-iphone/"/></url>
+ <url><loc>https://notecord.nl/plaud-alternatief/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/plaud-alternatief/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/plaud-alternative-iphone/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/plaud-alternative-iphone/"/></url>
+ <url><loc>https://notecord.nl/en/plaud-alternative-iphone/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/plaud-alternatief/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/plaud-alternative-iphone/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/plaud-alternative-iphone/"/></url>
+ <url><loc>https://notecord.nl/pocket-ai-recorder-alternatief/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/pocket-ai-recorder-alternatief/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/pocket-ai-recorder-alternative/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/pocket-ai-recorder-alternative/"/></url>
+ <url><loc>https://notecord.nl/en/pocket-ai-recorder-alternative/</loc><xhtml:link rel="alternate" hreflang="nl" href="https://notecord.nl/pocket-ai-recorder-alternatief/"/><xhtml:link rel="alternate" hreflang="en" href="https://notecord.nl/en/pocket-ai-recorder-alternative/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://notecord.nl/en/pocket-ai-recorder-alternative/"/></url>
 </urlset>
