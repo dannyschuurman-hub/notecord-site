@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>NoteCord: A Granola alternative without cloud processing</title>
+<meta name="description" content="Want meeting notes without cloud processing? NoteCord records and transcribes on your iPhone or iPad. No account or NoteCord server.">
+<link rel="canonical" href="https://notecord.nl/en/granola-alternative-on-device/">
+<meta property="og:title" content="NoteCord: A Granola alternative without cloud processing">
+<meta property="og:description" content="Want meeting notes without cloud processing? NoteCord records and transcribes on your iPhone or iPad. No account or NoteCord server.">
+<meta property="og:locale" content="en_US">
+<link rel="icon" href="../../assets/favicon-32.png">
+<link rel="apple-touch-icon" href="../../assets/apple-touch-icon.png">
+<link rel="stylesheet" href="../../style.css?v=7adbb179">
+<style>
+body{background:var(--paper);color:var(--paper-ink)}
+.vp h1,.vp h2{isolation:isolate}
+.vp mark{position:relative;z-index:-1}
+.vp-bar{display:flex;align-items:center;justify-content:space-between;padding:22px var(--gut);max-width:1240px;margin:auto}
+.vp-merk{padding-block:10px;margin-block:-10px;display:flex;align-items:center;gap:.4em;font:600 var(--t-lead)/1 var(--merk);letter-spacing:-.03em;color:var(--paper-ink);text-decoration:none}
+.vp-merk svg{width:1.05em;height:1em}
+.vp-bar nav a{display:inline-block;padding-block:13px;font-size:var(--t-small);color:var(--paper-mist);text-decoration:none}
+.vp-bar nav a:hover{color:var(--paper-ink)}
+.vp-held{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:clamp(32px,6vw,96px);align-items:center;max-width:1240px;margin:auto;padding:clamp(32px,6svh,80px) var(--gut) clamp(64px,12svh,140px)}
+.vp-held h1{font-size:var(--t-h2);line-height:1.1;letter-spacing:-.028em;text-wrap:balance}
+.vp-held .lead{margin-top:24px;max-width:31em;color:#2A2732}
+.vp-knop{display:inline-flex;align-items:center;height:52px;padding:0 26px;margin-top:34px;border-radius:99px;background:var(--ink);color:var(--ivory);font:600 var(--t-body)/1 var(--sans);text-decoration:none;transition:transform .25s var(--ease),background .25s var(--ease)}
+.vp-knop:hover{background:#1f1c29}
+.vp-knop:active{transform:scale(.97)}
+.vp-foon{display:flex;justify-content:center}
+.vp-foon .iphone{position:relative;--pw:min(58svh,360px);flex:none;box-shadow:inset 0 0 0 calc(var(--u)*.7) rgba(255,255,255,.3),0 calc(var(--u)*40) calc(var(--u)*90) calc(var(--u)*-30) rgba(11,10,18,.34)}
+.vp-moment{max-width:1240px;margin:auto;padding:0 var(--gut) clamp(72px,14svh,160px)}
+.vp-moment figure{margin:0 0 clamp(32px,6svh,64px)}
+.vp-moment img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:20px;background:var(--ink)}
+.vp-moment .tekst{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:clamp(24px,5vw,80px);align-items:start}
+.vp-moment h2{font-size:var(--t-h2);line-height:1.1;letter-spacing:-.028em;text-wrap:balance}
+.vp-moment p{font-size:var(--t-lead);line-height:1.4;color:#2A2732;max-width:30em;text-wrap:pretty}
+.vp-delen{max-width:1240px;margin:auto;padding:0 var(--gut) clamp(72px,14svh,160px);display:grid;gap:clamp(40px,7svh,72px)}
+.vp-delen section{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:clamp(20px,5vw,80px);padding-top:28px;border-top:1px solid rgba(11,10,18,.12)}
+.vp-delen h2{font-size:var(--t-h3);line-height:1.12;letter-spacing:-.02em;text-wrap:balance}
+.vp-delen h2::before{content:"";display:block;width:10px;height:10px;border-radius:50%;background:var(--rose);margin-bottom:16px}
+.vp-delen p{max-width:34em;color:#2A2732;font-size:var(--t-lead);line-height:1.4;text-wrap:pretty}
+.vp-vragen{background:#F3F3F2;padding:clamp(72px,14svh,160px) var(--gut)}
+.vp-vragen>div{max-width:1240px;margin:auto;display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:clamp(32px,6vw,96px)}
+.vp-vragen h2{font-size:var(--t-h2);line-height:1.1;letter-spacing:-.028em;position:sticky;top:48px;align-self:start;text-wrap:balance}
+.vp-vragen dl{border-top:1px solid rgba(11,10,18,.12)}
+.vp-vragen dt{font:800 var(--t-lead)/1.25 var(--display);letter-spacing:-.01em;padding-top:26px}
+.vp-vragen dd{margin:10px 0 0;padding-bottom:26px;border-bottom:1px solid rgba(11,10,18,.12);color:#2A2732;max-width:38em}
+.vp-slot{background:var(--ink);color:var(--ivory);text-align:center;padding:clamp(96px,18svh,200px) var(--gut) clamp(72px,12svh,120px)}
+.vp-slot h2{font-size:var(--t-h2);line-height:1.1;letter-spacing:-.028em;max-width:12em;margin:auto;text-wrap:balance}
+.vp-slot p{margin:22px auto 0;max-width:30em;color:#C9C3D0;font-size:var(--t-lead);line-height:1.4}
+.vp-slot .vp-knop{background:var(--rose);color:var(--ink)}
+.vp-slot .vp-knop:hover{background:#f3a8dc}
+.vp-voet{background:var(--ink);color:#9C95A6;font-size:var(--t-small);padding:0 var(--gut) 44px;text-align:center}
+.vp-voet p+p{margin-top:8px}
+.vp-voet a{color:inherit;display:inline-block;padding-block:12px;margin-block:-12px}
+@keyframes vp-rijs{from{opacity:0;transform:translateY(24px)}}
+@media (prefers-reduced-motion:no-preference){
+ .vp-held>div:first-child{animation:vp-rijs .8s var(--ease) both}
+ .vp-foon{animation:vp-rijs .9s .12s var(--ease) both}
+ @supports (animation-timeline:view()){
+  .vp-moment figure,.vp-moment .tekst,.vp-delen section,.vp-vragen dt,.vp-vragen dd{animation:vp-rijs linear both;animation-timeline:view();animation-range:entry 0% entry 40%}
+ }
+}
+@media (max-width:820px){
+ .vp-held{grid-template-columns:1fr;padding-top:16px}
+ .vp-foon .iphone{--pw:min(64vw,260px)}
+ .vp-moment .tekst,.vp-delen section,.vp-vragen>div{grid-template-columns:1fr}
+ .vp-moment img{border-radius:14px}
+ .vp-vragen h2{position:static}
+ .vp-slot h2{max-width:none}
+}
+@media (prefers-reduced-motion:reduce){.vp-knop{transition:none}}
+</style>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "SoftwareApplication",
+ "name": "NoteCord",
+ "alternateName": "NoteCord app",
+ "applicationCategory": "ProductivityApplication",
+ "operatingSystem": "iOS, iPadOS",
+ "description": "If you want a Granola alternative without cloud processing, NoteCord records and transcribes conversations on your iPhone or iPad itself.",
+ "inLanguage": "en",
+ "featureList": [
+  "The short answer",
+  "How Granola works",
+  "How NoteCord is different",
+  "When Granola is the better choice",
+  "What goes into backups"
+ ],
+ "url": "https://notecord.nl/en/granola-alternative-on-device/"
+}
+</script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "inLanguage": "en",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "Is NoteCord a Granola alternative without cloud processing?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. NoteCord records and transcribes on your iPhone or iPad itself. Summaries with action points also happen on the device and require Apple Intelligence. There is no NoteCord server."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Does Granola store meeting audio?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Granola’s security page says it does not store meeting audio. On mobile, audio is temporarily cached. Transcription and summaries use cloud processing."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Can I use NoteCord without an account?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. NoteCord requires no account. Granola uses a Google Workspace or Microsoft login."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Does NoteCord join Zoom, Meet or Teams calls?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No. NoteCord records through the microphone on your iPhone or iPad."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Does NoteCord put recordings in iCloud backups?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No. Audio is excluded from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is on, in your own iCloud."
+   }
+  }
+ ]
+}
+</script>
+</head>
+<body class="vp">
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="logo" viewBox="261.6 273.1 512.1 477.8"><path d="M295.75 716.8V489C295.75 389 363 307.2 443.7 307.2C526 307.2 591.6 389 591.6 500C591.6 615 632 671.3 705.4 671.3" fill="none" stroke="#9b6bf0" stroke-width="68.3" stroke-linecap="round"/><circle cx="705.4" cy="671.3" r="68.3" fill="#ec8fd0"/></symbol></svg>
+<header class="vp-bar"><a class="vp-merk" href="../../en/"><svg aria-hidden="true"><use href="#logo"/></svg>NoteCord</a><nav><a href="../../en/privacy/">Privacy in detail</a></nav></header>
+<main>
+<section class="vp-held">
+<div><h1>Notes made on your own <mark>device</mark>.</h1><p class="lead">If you want a Granola alternative without cloud processing, NoteCord records and transcribes conversations on your iPhone or iPad itself. It also creates summaries with action points on the device, which require Apple Intelligence. No account needed. There is no NoteCord server.</p><a class="vp-knop" href="../../en/#slot">Join the waitlist</a></div>
+<div class="vp-foon"><div class="iphone"><div class="bezel"><div class="screen foto"><img src="../../assets/screens/en/summary-dark.webp" alt="NoteCord on iPhone: a summary of a conversation with next steps" width="700" height="1520" decoding="async"></div></div></div></div>
+</section>
+
+<div class="vp-delen"><section><h2>The short answer</h2><p>You want to remember the conversation without sending it to a cloud service for processing. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. No account needed. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.</p></section><section><h2>How Granola works</h2><p>According to Granola’s own site, Granola runs on macOS, Windows, iOS and Android without adding a bot to your video call. Its security page says meeting audio is not stored, although mobile audio is temporarily cached. Transcription and summaries use cloud processing: Deepgram and AssemblyAI for transcription, OpenAI and Anthropic for AI. Notes are stored in a US-hosted AWS virtual private cloud. Granola says it does not let third parties such as OpenAI or Anthropic train on your data. Granola itself may use anonymized data, which you can opt out of in Settings. You can sign in with a Google Workspace or Microsoft login.</p></section><section><h2>How NoteCord is different</h2><p>NoteCord uses the iPhone or iPad you already have. It records through the microphone and does not join Zoom, Meet or Teams calls. Recording continues with the screen locked and is visible in Dynamic Island and on the Lock Screen. Search across all your conversations or keep folders for each project or client. On iPad, tap your handwriting to hear what was said at that moment. No account is needed. The App Store privacy label is “Data Not Collected”.</p></section><section><h2>When Granola is the better choice</h2><p>Granola is the better choice if you want notes on your computer during video calls without a bot, chat across many meetings or team workspaces. Its Business plan also includes integrations such as Notion, Zapier and HubSpot.</p></section><section><h2>What goes into backups</h2><p>NoteCord excludes audio from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is turned on, in your own iCloud.</p></section></div>
+<section class="vp-vragen"><div><h2>Questions people ask</h2><dl><dt>Is NoteCord a Granola alternative without cloud processing?</dt><dd>Yes. NoteCord records and transcribes on your iPhone or iPad itself. Summaries with action points also happen on the device and require Apple Intelligence. There is no NoteCord server.</dd><dt>Does Granola store meeting audio?</dt><dd>Granola’s security page says it does not store meeting audio. On mobile, audio is temporarily cached. Transcription and summaries use cloud processing.</dd><dt>Can I use NoteCord without an account?</dt><dd>Yes. NoteCord requires no account. Granola uses a Google Workspace or Microsoft login.</dd><dt>Does NoteCord join Zoom, Meet or Teams calls?</dt><dd>No. NoteCord records through the microphone on your iPhone or iPad.</dd><dt>Does NoteCord put recordings in iCloud backups?</dt><dd>No. Audio is excluded from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is on, in your own iCloud.</dd></dl></div></section>
+<section class="vp-slot"><h2>Your conversations stay on your <mark>iPhone</mark>.</h2><a class="vp-knop" href="../../en/#slot">Join the waitlist</a></section>
+</main>
+<footer class="vp-voet"><p>Granola facts from Granola’s own pages, checked November 12, 2026. Prices and features can change. Summaries with action points require Apple Intelligence.</p><p><a href="../../en/">NoteCord</a></p></footer>
+</body>
+</html>

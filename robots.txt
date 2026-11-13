@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notecord.nl/sitemap.xml
