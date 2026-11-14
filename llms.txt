@@ -4,24 +4,24 @@
 
 ## Pages
 
-- [NoteCord (English)](https://notecord.nl/en/)
-- [NoteCord (Nederlands)](https://notecord.nl/)
-- [Private AI note taker for iPhone](https://notecord.nl/en/private-ai-note-taker-iphone/): Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
-- [AI-notitieapp zonder cloud](https://notecord.nl/ai-notitieapp-zonder-cloud/): Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
-- [Record a lecture without an account](https://notecord.nl/en/record-lecture-without-account/): NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
-- [AI note taker that does not collect your data](https://notecord.nl/en/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”. It requires no account and has no NoteCord server.
-- [Check it yourself](https://notecord.nl/en/check-notecord-privacy-yourself/): Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
-- [Controleer het zelf](https://notecord.nl/privacy-zelf-controleren/): Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
-- [Hulp bij NoteCord](https://notecord.nl/support/): Hulp bij opnemen, uitschrijven, samenvatten en bewaren in NoteCord op iPhone en iPad.
-- [Help with NoteCord](https://notecord.nl/en/support/): Help with recording, transcription, summaries and storage in NoteCord on iPhone and iPad.
-- [Gespreksnotities zonder bot.](https://notecord.nl/fireflies-alternatief-zonder-bot/): Gespreksnotities zonder bot in je vergadering? Vergelijk NoteCord voor iPhone en iPad met Fireflies. Lees hoe opnemen, opslag en back-ups werken.
-- [Meeting notes without a bot.](https://notecord.nl/en/fireflies-alternative-without-bot/): Want meeting notes without a bot joining? Compare NoteCord’s iPhone and iPad recording with Fireflies, including cloud storage and backups.
-- [Notities gemaakt op je eigen toestel.](https://notecord.nl/granola-alternatief/): Gespreksnotities zonder cloudverwerking? NoteCord neemt op en schrijft uit op je iPhone of iPad. Geen account en geen NoteCord-server.
-- [Notes made on your own device.](https://notecord.nl/en/granola-alternative-on-device/): Want meeting notes without cloud processing? NoteCord records and transcribes on your iPhone or iPad. No account or NoteCord server.
-- [Een alternatief voor Otter zonder account.](https://notecord.nl/otter-alternatief-iphone/): Een alternatief voor Otter dat je opnames op je iPhone houdt? NoteCord neemt op en schrijft uit op je toestel, zonder account of NoteCord-server.
-- [An Otter alternative without an account.](https://notecord.nl/en/otter-alternative-on-iphone/): Looking for an Otter alternative that keeps recordings on your iPhone? NoteCord records and transcribes on your device, with no account or NoteCord server.
-- [Een apparaat minder meenemen.](https://notecord.nl/plaud-alternatief/): Zoek je een Plaud-alternatief zonder extra apparaat? NoteCord neemt gesprekken op en schrijft ze uit op de iPhone of iPad die je al hebt.
-- [One less device to carry.](https://notecord.nl/en/plaud-alternative-iphone/): Looking for a Plaud alternative without an extra device? NoteCord records and transcribes conversations on the iPhone or iPad you already have.
-- [Opnemen met de telefoon die je al hebt.](https://notecord.nl/pocket-ai-recorder-alternatief/): Zoek je een alternatief voor de Pocket AI-recorder? Vergelijk Pocket met NoteCord, dat gesprekken op je iPhone of iPad opneemt en uitschrijft.
-- [Record with the phone you have.](https://notecord.nl/en/pocket-ai-recorder-alternative/): Looking for a Pocket AI recorder alternative? Compare Pocket with NoteCord, an iPhone and iPad app that records and transcribes on your device.
-- [Privacy](https://notecord.nl/en/privacy/)
+- [NoteCord (English)](https://notecord.nl/)
+- [NoteCord (Nederlands)](https://notecord.nl/nl/)
+- [Private AI note taker for iPhone](https://notecord.nl/private-ai-note-taker-iphone/): Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
+- [AI-notitieapp zonder cloud](https://notecord.nl/nl/ai-notitieapp-zonder-cloud/): Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
+- [Record a lecture without an account](https://notecord.nl/record-lecture-without-account/): NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
+- [AI note taker that does not collect your data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”. It requires no account and has no NoteCord server.
+- [Check it yourself](https://notecord.nl/check-notecord-privacy-yourself/): Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
+- [Controleer het zelf](https://notecord.nl/nl/privacy-zelf-controleren/): Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
+- [Hulp bij NoteCord](https://notecord.nl/nl/support/): Hulp bij opnemen, uitschrijven, samenvatten en bewaren in NoteCord op iPhone en iPad.
+- [Help with NoteCord](https://notecord.nl/support/): Help with recording, transcription, summaries and storage in NoteCord on iPhone and iPad.
+- [Gespreksnotities zonder bot.](https://notecord.nl/nl/fireflies-alternatief-zonder-bot/): Gespreksnotities zonder bot in je vergadering? Vergelijk NoteCord voor iPhone en iPad met Fireflies. Lees hoe opnemen, opslag en back-ups werken.
+- [Meeting notes without a bot.](https://notecord.nl/fireflies-alternative-without-bot/): Want meeting notes without a bot joining? Compare NoteCord’s iPhone and iPad recording with Fireflies, including cloud storage and backups.
+- [Notities gemaakt op je eigen toestel.](https://notecord.nl/nl/granola-alternatief/): Gespreksnotities zonder cloudverwerking? NoteCord neemt op en schrijft uit op je iPhone of iPad. Geen account en geen NoteCord-server.
+- [Notes made on your own device.](https://notecord.nl/granola-alternative-on-device/): Want meeting notes without cloud processing? NoteCord records and transcribes on your iPhone or iPad. No account or NoteCord server.
+- [Een alternatief voor Otter zonder account.](https://notecord.nl/nl/otter-alternatief-iphone/): Een alternatief voor Otter dat je opnames op je iPhone houdt? NoteCord neemt op en schrijft uit op je toestel, zonder account of NoteCord-server.
+- [An Otter alternative without an account.](https://notecord.nl/otter-alternative-on-iphone/): Looking for an Otter alternative that keeps recordings on your iPhone? NoteCord records and transcribes on your device, with no account or NoteCord server.
+- [Een apparaat minder meenemen.](https://notecord.nl/nl/plaud-alternatief/): Zoek je een Plaud-alternatief zonder extra apparaat? NoteCord neemt gesprekken op en schrijft ze uit op de iPhone of iPad die je al hebt.
+- [One less device to carry.](https://notecord.nl/plaud-alternative-iphone/): Looking for a Plaud alternative without an extra device? NoteCord records and transcribes conversations on the iPhone or iPad you already have.
+- [Opnemen met de telefoon die je al hebt.](https://notecord.nl/nl/pocket-ai-recorder-alternatief/): Zoek je een alternatief voor de Pocket AI-recorder? Vergelijk Pocket met NoteCord, dat gesprekken op je iPhone of iPad opneemt en uitschrijft.
+- [Record with the phone you have.](https://notecord.nl/pocket-ai-recorder-alternative/): Looking for a Pocket AI recorder alternative? Compare Pocket with NoteCord, an iPhone and iPad app that records and transcribes on your device.
+- [Privacy](https://notecord.nl/privacy/)

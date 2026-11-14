@@ -96,28 +96,20 @@ window.COPY={
 "en": "Give your next conversation your [[attention]]."
 },
 "slot_tekst": {
-"nl": "Wil je horen wanneer NoteCord er is? Zet je e-mailadres op de lijst.",
-"en": "Want to know when NoteCord arrives? Add your email to the list."
+"nl": "Download NoteCord en neem je volgende gesprek op.",
+"en": "Download NoteCord and record your next conversation."
 },
 "slot_prijs": {
-"nl": "Tot en met 1 december 2026 krijg je levenslang Pro voor de oprichtersprijs van € 59,99 eenmalig.",
-"en": "Get lifetime Pro for a one-time founders’ price of €59.99 until 1 December 2026, inclusive."
+"nl": "Gratis te downloaden. Pro vanaf € 4,99 per maand.",
+"en": "Free to download. Pro from €4.99 per month."
 },
 "slot_knop": {
-"nl": "Zet me op de lijst",
-"en": "Join the list"
-},
-"slot_veld": {
-"nl": "Je e-mailadres",
-"en": "Your email"
-},
-"slot_bedankt": {
-"nl": "Je staat op de lijst. Je hoort van ons.",
-"en": "You’re on the list. We’ll be in touch."
+"nl": "Download NoteCord",
+"en": "Download NoteCord"
 },
 "u_lijst": {
-"nl": "Zet me op de lijst",
-"en": "Join the list"
+"nl": "Download NoteCord",
+"en": "Download NoteCord"
 },
 "ui_rec": {
 "nl": "Neemt op",
@@ -364,20 +356,20 @@ window.COPY={
 "en": "NoteCord screens with example conversations."
 },
 "h2_price": {
-"nl": "Gratis beginnen. Meer met Pro.",
-"en": "Start free. Get more with Pro."
+"nl": "Begin [[gratis]].",
+"en": "Start [[free]]."
 },
 "p_price": {
-"nl": "NoteCord blijft gratis te gebruiken. Probeer Pro 7 dagen gratis en kies een maand- of jaarabonnement.",
-"en": "NoteCord stays free to use. Try Pro free for 7 days and choose a monthly or yearly subscription."
+"nl": "Neem onbeperkt op en schrijf gratis uit op je toestel, met Pro voor € 4,99 per maand.",
+"en": "Record without limits and transcribe on your device for free, with Pro at €4.99 a month."
 },
 "fr_t": {
 "nl": "Gratis",
 "en": "Free"
 },
 "fr_d": {
-"nl": "Blijft gratis. Zonder limiet.",
-"en": "Free forever. No limits."
+"nl": "Voor al je gesprekken",
+"en": "For all your conversations"
 },
 "fr_p": {
 "nl": "€ 0",
@@ -392,24 +384,24 @@ window.COPY={
 "en": "Unlimited recording"
 },
 "fr_2": {
-"nl": "Snel uitschrijven op je toestel",
-"en": "Fast transcripts on your device"
+"nl": "Uitschrijven op je toestel",
+"en": "Transcription on your device"
 },
 "fr_3": {
-"nl": "Opnames ordenen in mappen",
-"en": "Organize recordings in folders"
+"nl": "Mappen en zoeken",
+"en": "Folders and search"
 },
 "fr_4": {
-"nl": "Alles exporteren",
-"en": "Export everything"
+"nl": "Momenten markeren",
+"en": "Mark moments"
 },
 "pr_t": {
 "nl": "Pro",
 "en": "Pro"
 },
 "pr_d": {
-"nl": "Per maand of per jaar. Altijd opzegbaar.",
-"en": "Monthly or yearly. Cancel anytime."
+"nl": "Samenvatten vraagt Apple Intelligence",
+"en": "Summaries require Apple Intelligence"
 },
 "pr_u": {
 "nl": "per maand",
@@ -420,16 +412,16 @@ window.COPY={
 "en": "Try free for 7 days"
 },
 "pr_1": {
-"nl": "Groot taalmodel dat taalwissels midden in een zin volgt",
-"en": "A large model that follows language switches mid-sentence"
+"nl": "Samenvattingen met taken en besluiten, op je toestel",
+"en": "On-device summaries with tasks and decisions"
 },
 "pr_2": {
-"nl": "Samenvatting met taken en besluiten, op je toestel geschreven",
-"en": "Summaries with tasks and decisions, written on your device"
+"nl": "Pro 7 dagen gratis proberen",
+"en": "Try Pro free for 7 days"
 },
 "pr_3": {
-"nl": "Mappen die namen en termen van een klant leren",
-"en": "Folders that learn a client’s names and terms"
+"nl": "Altijd opzegbaar via je Apple-account",
+"en": "Cancel anytime through your Apple Account"
 },
 "pr_4": {
 "nl": "Toegang tot Pro zolang je abonnement loopt",
@@ -500,8 +492,8 @@ window.COPY={
 "en": "Privacy"
 },
 "meta_title": {
-"nl": "NoteCord app | Luister naar het gesprek",
-"en": "NoteCord app | Stay in the conversation"
+"nl": "NoteCord: privé AI-notitieapp voor iPhone en iPad",
+"en": "NoteCord: private AI note taker for iPhone and iPad"
 },
 "alt_hero": {
 "nl": "Twee mensen in gesprek op een dakterras boven een moderne stad bij schemering. Op de stenen tafel ligt een iPhone met NoteCord.",
@@ -628,8 +620,8 @@ window.COPY={
 "en": "NoteCord has no server of its own. You don’t need an account. We cannot see your conversations."
 },
 "p2_t": {
-"nl": "Je eigen back-up.",
-"en": "Your own backup."
+"nl": "Je eigen back-up",
+"en": "Your own backup"
 },
 "p2_p": {
 "nl": "Geluid blijft op je toestel en gaat in geen enkele back-up mee. Tekst gaat mee in je eigen iCloud als de gewone iCloud-back-up van je iPhone aanstaat.",
@@ -651,14 +643,6 @@ window.COPY={
 "nl": "We gebruiken geen cookies, trackers of scripts van anderen. Je browser bewaart een kopie van de pagina op je toestel, zodat de site offline werkt. Onze webhost ziet IP-adressen in zijn logboek.",
 "en": "We use no cookies, trackers or third-party scripts. Your browser stores a copy of the page on your device so the site works offline. Our web host sees IP addresses in its logs."
 },
-"p5_t": {
-"nl": "Mail bij de lancering",
-"en": "Launch email"
-},
-"p5_p": {
-"nl": "Mail je ons voor bericht bij de lancering, dan gebruiken we je mailadres met jouw toestemming alleen voor dat ene bericht. Daarna wissen we het. Wil je dat eerder? Mail ons.",
-"en": "Email us for a launch notification and we use your email address only for that one message, with your consent. We delete it afterwards. To have it deleted sooner, email us."
-},
 "p6_t": {
 "nl": "Je rechten en wie we zijn",
 "en": "Your rights and who we are"
@@ -676,8 +660,8 @@ window.COPY={
 "en": "NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device."
 },
 "meta_desc": {
-"nl": "NoteCord app voor iPhone en iPad neemt gesprekken op en schrijft ze uit op je toestel. Zoek in je gesprekken. Samenvattingen vragen Apple Intelligence.",
-"en": "NoteCord app records and transcribes conversations on your iPhone or iPad. Search your conversations. Summaries require Apple Intelligence."
+"nl": "Neem gesprekken op en schrijf ze uit op je iPhone of iPad. Gratis, zonder account. Pro vat samen met Apple Intelligence. App Store: Geen gegevens verzameld.",
+"en": "Record and transcribe conversations on iPhone and iPad. Free, with no account. Pro summaries require Apple Intelligence. App Store: Data Not Collected."
 },
 "alt_vlucht": {
 "nl": "Bij het vliegtuigraam, boven de wolken in de schemering. Een hand met een Apple Watch naast een iPhone op het tafeltje.",
@@ -730,5 +714,101 @@ window.COPY={
 "pr_j": {
 "nl": "of € 29,99 per jaar",
 "en": "or €29.99 per year"
+},
+"badge_alt": {
+"nl": "Download in de App Store",
+"en": "Download on the App Store"
+},
+"hero_sub": {
+"nl": "Gratis downloaden. Pro 7 dagen gratis.",
+"en": "Download free. Try Pro free for 7 days."
+},
+"bw_kop": {
+"nl": "Jij luistert. NoteCord doet de [[rest]].",
+"en": "You listen. NoteCord handles the [[rest]]."
+},
+"bw1_t": {
+"nl": "Scherm op slot. Opname [[loopt]].",
+"en": "Screen locked. [[Still]] recording."
+},
+"bw1_p": {
+"nl": "Je opname blijft zichtbaar in Dynamic Island en op je slotscherm. Markeer een moment met het vlaggetje, direct vanaf je slotscherm.",
+"en": "Your recording stays visible in Dynamic Island and on your Lock Screen. Tap the flag on your Lock Screen to mark a moment."
+},
+"bw2_t": {
+"nl": "Eén woord. Die zin weer [[terug]].",
+"en": "One word. [[Find]] that sentence."
+},
+"bw2_p": {
+"nl": "Zoek door al je gesprekken op een woord dat je nog weet. Bewaar ze in mappen per project of klant.",
+"en": "Search all your conversations with a word you remember. Keep them in folders for each project or client."
+},
+"bw3_t": {
+"nl": "Tik op je handschrift. [[Luister]].",
+"en": "Tap your handwriting. [[Listen]]."
+},
+"bw3_p": {
+"nl": "Tik op je iPad op je handgeschreven notitie. Je hoort wat er op dat moment werd gezegd.",
+"en": "On iPad, tap your handwritten note to hear what was being said at that moment."
+},
+"pv_kop": {
+"nl": "Jij bepaalt wie [[meeluistert]].",
+"en": "You decide who [[listens]]."
+},
+"pv_p": {
+"nl": "NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt.",
+"en": "NoteCord never sends your recordings to us. They only reach anyone else when you choose to share them."
+},
+"pv_label": {
+"nl": "Zo staat het in de App Store",
+"en": "As listed on the App Store"
+},
+"pv_meet_t": {
+"nl": "0 verbindingen. [[0 bytes]] verstuurd.",
+"en": "0 connections. [[0 bytes]] sent."
+},
+"pv_meet_p": {
+"nl": "Gemeten in het netwerkverkeer van NoteCord tijdens opnemen, uitschrijven en samenvatten.",
+"en": "Measured in NoteCord’s network traffic during recording, transcription and summarisation."
+},
+"pv_link": {
+"nl": "Controleer het zelf",
+"en": "Check for yourself"
+},
+"pr_jm": {
+"nl": "Of € 29,99 per jaar, omgerekend € 2,50 per maand.",
+"en": "Or €29.99 a year, equivalent to €2.50 a month."
+},
+"pv_l_h": {
+"nl": "App-privacy",
+"en": "App Privacy"
+},
+"pv_l_t": {
+"nl": "Geen gegevens verzameld",
+"en": "Data Not Collected"
+},
+"pv_l_p": {
+"nl": "De ontwikkelaar verzamelt geen gegevens van deze app.",
+"en": "The developer does not collect any data from this app."
+},
+"pr_p": {
+"nl": "€ 4,99",
+"en": "€4.99"
+},
+"w_p": {
+"nl": "€ 59,99",
+"en": "€59.99"
+},
+"alt_lock": {
+"nl": "Slotscherm van een iPhone: NoteCord neemt nog op, met een gemarkeerd moment en knoppen voor pauze en stop.",
+"en": "An iPhone Lock Screen: NoteCord is still recording, with a marked moment and pause and stop buttons."
+},
+"alt_zoek": {
+"nl": "NoteCord met de uitgeschreven tekst van een gesprek, zin voor zin met tijden.",
+"en": "NoteCord showing the transcript of a conversation, line by line with timestamps."
+},
+"fr_5": {
+"nl": "Exporteren",
+"en": "Export"
 }
 };

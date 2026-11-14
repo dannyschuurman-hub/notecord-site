@@ -27,19 +27,22 @@
     const enWacht = [];
     const tijdelijk = {};
     qsa('[data-shot]').forEach((el) => { const t = lang === 'en' && enWacht.includes(el.dataset.shot) ? 'nl' : lang; const naam = tijdelijk[el.dataset.shot] || el.dataset.shot; el.src = opRoot(`assets/screens/${t}/${naam}.webp`); });
-    qs('[data-priv]').href = opRoot(lang === 'en' ? 'en/privacy/' : 'privacy/');
-    qs('[data-sup]').href = opRoot(lang === 'en' ? 'en/support/' : 'support/');
-    qs('[data-vw]').href = opRoot(lang === 'en' ? 'en/terms/' : 'voorwaarden/');
+    const pad = (nl, en) => (html.dataset.wortel === 'en' ? (lang === 'en' ? en.slice(3) : 'nl/' + nl) : (lang === 'en' ? en : nl));
+    qs('[data-priv]').href = opRoot(pad('privacy/', 'en/privacy/'));
+    qs('[data-sup]').href = opRoot(pad('support/', 'en/support/'));
+    qs('[data-vw]').href = opRoot(pad('voorwaarden/', 'en/terms/'));
+    qs('[data-zelf]').href = opRoot(pad('privacy-zelf-controleren/', 'en/check-notecord-privacy-yourself/'));
+    qsa('[data-badge]').forEach((el) => { el.src = opRoot(`assets/appstore-${lang}.svg`); });
     qsa('[data-alt]').forEach((el) => { el.alt = kaal(C[el.dataset.alt][lang]); });
     const lijn = qs('.hero-line');
-    lijn.innerHTML = lijn.textContent.split(/(?<=\.) /).map((z) => `<span class="zin">${z}</span>`).join(' ');
+    lijn.innerHTML = lijn.innerHTML.split(/(?<=\.(?:<\/mark>)?) /).map((z) => `<span class="zin">${z}</span>`).join(' ');
     const q = `“${C.d2[lang]}”`;
     qsa('[data-q]').forEach((el) => { el.textContent = q; });
     qs('#regels').innerHTML = REGELS.map(([id, t]) => `<p class="rg"><time>${t}</time><em>${lang.toUpperCase()}</em><span>${C[id][lang].split(' ').map((w) => `<span class="rw">${w}</span>`).join(' ')}</span></p>`).join('');
     qs('#groot').innerHTML = q.split(' ').map((w) => `<span class="kw">${w}</span>`).join(' ');
     const knop = qs('#taal');
     knop.textContent = lang === 'nl' ? 'EN' : 'NL';
-    knop.setAttribute('aria-label', lang === 'nl' ? 'Switch to English' : 'Naar het Nederlands');
+    knop.setAttribute('aria-label', lang === 'nl' ? 'EN, switch to English' : 'NL, naar het Nederlands');
     const R = window.NOTECORD_REVIEWS || [];
     const rv = qs('#reviews');
     rv.hidden = !R.length;
@@ -53,20 +56,6 @@
     zetTeksten();
     naTaal();
   });
-  qs('#lijst').addEventListener('submit', (ev) => {
-    ev.preventDefault();
-    const mail = qs('#email');
-    if (!mail.checkValidity()) { mail.reportValidity(); return; }
-    const nl = document.documentElement.lang !== 'en';
-    location.href = 'mailto:dannyschuurman@gmail.com?subject=' + encodeURIComponent(nl ? 'NoteCord: bericht bij de lancering' : 'NoteCord: launch notification') + '&body=' + encodeURIComponent((nl ? 'Stuur mij een bericht als NoteCord uit is: ' : 'Let me know when NoteCord is out: ') + mail.value);
-    qs('.bedankt').hidden = false;
-    qsa('#lijst input,#lijst button').forEach((el) => { el.style.display = 'none'; });
-    qs('.bedankt').tabIndex = -1;
-    qs('.bedankt').focus();
-  });
-  const schakel = qs('#schakelaar');
-  const zetSchakel = (aan) => { schakel.setAttribute('aria-checked', aan ? 'true' : 'false'); qs('.schakel-regel').classList.toggle('ja', aan); };
-  schakel.addEventListener('click', () => zetSchakel(schakel.getAttribute('aria-checked') !== 'true'));
   Promise.race([
     Promise.all(qsa('.plate').map((im) => im.decode().catch(() => {}))),
     new Promise((klaar) => setTimeout(klaar, 5000)),
@@ -91,6 +80,7 @@
     s.setProperty('--py', `${py}px`);
     horizon = py + ph * hor;
     s.setProperty('--hz', `${horizon}px`);
+    s.setProperty('--kt', `${Math.round(py + ph * (st ? 0.3 : 0.36))}px`);
     const sx = st ? 0.498 : 0.492; const sy = st ? 0.792 : 0.746;
     s.setProperty('--cx', `${px + pw * (0.5 + (sx - 0.5) * 1.24)}px`);
     s.setProperty('--cy', `${py + ph * (1 + (sy - 1) * 1.24)}px`);
@@ -111,12 +101,10 @@
   const bars = qsa('i', golf);
   const tape = qs('#tape');
   const pil = qs('.pil');
-  const veld = qs('#email');
-  if (veld) { veld.addEventListener('focus', () => pil.classList.add('weg')); veld.addEventListener('blur', () => pil.classList.remove('weg')); }
   let tapeBars = []; let kopNu = -1;
   const zonderVlucht = document.documentElement.classList.contains('zonder-vlucht');
-  const MOMENTEN = ['opname', 'gesprekken', 'schermen', 'lucht', 'schrijf', 'bewijs', 'slot'];
-  const STERKTE = { begin: 0.55, opname: 1, gesprekken: 0.6, schermen: 0.5, lucht: 0.3, schrijf: 0.42, bewijs: 0.36, prijs: 0.48, slot: 0.16 };
+  const MOMENTEN = ['opname', 'gesprekken', 'bewijzen', 'schrijf', 'privacy', 'prijs', 'slot'];
+  const STERKTE = { begin: 0.55, opname: 1, gesprekken: 0.6, bewijzen: 0.5, schrijf: 0.42, privacy: 0.3, prijs: 0.48, slot: 0.16 };
   function bouwTape() {
     const smal = innerWidth <= 820;
     const n = smal ? 16 : Math.round(tape.offsetHeight / 5.5);
@@ -148,7 +136,6 @@
   addEventListener('resize', bouwTape);
   new IntersectionObserver((rijen) => rijen.forEach((r) => pil.classList.toggle('bij-slot', r.isIntersecting)), { rootMargin: '-40% 0px -40% 0px' }).observe(qs('.slot-tekst'));
   if (html.classList.contains('rm')) {
-    zetSchakel(true);
     addEventListener('scroll', () => zetKop(scrollY / (html.scrollHeight - innerHeight || 1)), { passive: true });
     qsa('.kw').forEach((w) => w.classList.add('op'));
     qsa('.rg').forEach((r) => r.classList.add('op'));
@@ -188,7 +175,7 @@
   })
     .fromTo('.rand', { scaleX: () => { const r = isSmal() ? 6 : 10; return (innerWidth - r * 2) / (innerWidth + 100); }, scaleY: () => { const r = isSmal() ? 6 : 10; return (innerHeight - r * 2) / (innerHeight + 100); } }, { scaleX: 1, scaleY: 1, duration: 0.2 }, 0)
     .to('.wordmark', { y: zak, duration: 0.4 }, 0)
-    .to('.hero-line,.hero-side', { autoAlpha: 0, y: -18, duration: 0.08 }, 0.03)
+    .to('.hero-tekst,.hero-side,.hero-merk', { autoAlpha: 0, y: -18, duration: 0.08 }, 0.05)
     .to('.sky', { scale: 1.03 / 1.06, y: () => -innerHeight * 0.015, duration: 0.55 }, 0)
     .to('.far', { scale: 1.06 / 1.1, y: () => -innerHeight * 0.03, duration: 0.55 }, 0)
     .to('.near', { scale: 1.24 / 1.3, duration: 0.55 }, 0)
@@ -327,9 +314,8 @@
     zet('arts', deel(p, 0.085, 0.14).toFixed(3), (w) => { bArts.style.opacity = w; });
     caps.forEach((c, i) => {
       const [a, e] = CAP[i];
-      const inn = i === 0 ? deel(q, 0.05, 0.095) : deel(p, a, a + 0.012);
-      const w = inn * (1 - deel(p, e - 0.012, e));
-      zet(`c${i}`, `${w.toFixed(3)}`, () => { zetOp(c, w); c.style.transform = `translateY(${((1 - inn) * 18).toFixed(1)}px)`; });
+      const aan = (i === 0 ? q >= 0.06 : p >= a) && p < e;
+      zet(`c${i}`, aan, (w) => { c.classList.toggle('zien', w); });
     });
     let laatste = -1;
     const zien = glazen.map((g, i) => { const z = q > 0.05 && p >= +g.dataset.at && p < 0.56; if (z) laatste = i; return z; });
@@ -375,14 +361,8 @@
     const track = qs('.track');
     gsap.to(track, { x: () => -(track.scrollWidth - innerWidth + 84), ease: 'none', scrollTrigger: { trigger: '.pan', start: 'top top', end: 'bottom bottom', scrub: true, invalidateOnRefresh: true } });
   });
-  mm.add('(min-width:821px)', () => {
-    gsap.fromTo('.lucht-beeld', { y: () => innerHeight * -0.08 }, { y: () => innerHeight * 0.08, ease: 'none', scrollTrigger: { trigger: '.lucht', start: 'top bottom', end: 'bottom top', scrub: true, invalidateOnRefresh: true } });
-  });
-  gsap.from('.lucht-tekst', { y: 26, autoAlpha: 0, duration: 1.1, ease: 'power3.out', scrollTrigger: { trigger: '.lucht', start: 'top 45%' } });
-  gsap.from('.feiten li', { y: 12, autoAlpha: 0, duration: 0.9, ease: 'power3.out', stagger: 0.12, scrollTrigger: { trigger: '.lucht', start: () => (isSmal() ? 'center 80%' : '30% top'), invalidateOnRefresh: true } });
-  ScrollTrigger.create({ trigger: '.lucht', start: () => (isSmal() ? 'center 70%' : '22% top'), invalidateOnRefresh: true, onEnter: () => zetSchakel(true), onLeaveBack: () => zetSchakel(false) });
   gsap.fromTo('.schrijf-beeld img', { scale: 1.1 }, { scale: 1, ease: 'none', scrollTrigger: { trigger: '.schrijf', start: 'top bottom', end: 'bottom 70%', scrub: true } });
-  qsa('.kop-rij,.rij-t figure,.ook li,.nullen li,.citaten li,.plan,.ladder,.nodig').forEach((el) => {
+  qsa('.kop-rij,.bw-kop,.bw,.pv-tekst,.pv-kaart,.pv-meet,.plan,.ladder').forEach((el) => {
     gsap.from(el, { y: 22, autoAlpha: 0, duration: 1, ease: 'power3.out', scrollTrigger: { trigger: el, start: 'top 90%' } });
   });
   gsap.fromTo('.e-woord', { y: () => qs('.e-woord').offsetHeight * (staand.matches ? 2.9 : 1.6) }, { y: 0, ease: 'none', scrollTrigger: { trigger: '.slot-einde', start: 'top 92%', end: 'bottom bottom', scrub: true, invalidateOnRefresh: true } });
