@@ -814,5 +814,13 @@ window.COPY={
 "fr_5": {
 "nl": "Exporteren",
 "en": "Export"
+},
+"p_title": {
+"nl": "NoteCord privacy: je gesprekken op je eigen toestel",
+"en": "NoteCord privacy: conversations stay on your device"
+},
+"p_meta": {
+"nl": "Lees hoe NoteCord omgaat met je privacy. Opnames en tekst blijven op je toestel. Geluid gaat nooit mee in een back-up. Een account is niet nodig.",
+"en": "Read how NoteCord handles your privacy. Recordings and text stay on your device. Audio is never backed up. You don’t need an account."
 }
 };

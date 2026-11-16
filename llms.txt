@@ -7,13 +7,17 @@
 - [NoteCord (English)](https://notecord.nl/)
 - [NoteCord (Nederlands)](https://notecord.nl/nl/)
 - [Private AI note taker for iPhone](https://notecord.nl/private-ai-note-taker-iphone/): Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
+- [AI-notitieapp voor iPhone met privacy](https://notecord.nl/nl/privacy-ai-notitieapp-iphone/): NoteCord neemt gesprekken op en schrijft ze uit op je iPhone. Opnames en tekst blijven op je toestel. Je hebt geen account nodig.
 - [AI-notitieapp zonder cloud](https://notecord.nl/nl/ai-notitieapp-zonder-cloud/): Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
+- [AI note-taking app without the cloud](https://notecord.nl/ai-note-taking-app-without-cloud/): Keep your attention on the conversation. NoteCord records and transcribes on your iPhone, with no account to create or NoteCord server.
 - [Record a lecture without an account](https://notecord.nl/record-lecture-without-account/): NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
+- [Een college opnemen zonder account](https://notecord.nl/nl/college-opnemen-zonder-account/): Neem je college op en laat het uitschrijven op je iPhone of iPad, zonder account. Een samenvatting met actiepunten vraagt Apple Intelligence.
 - [AI note taker that does not collect your data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”. It requires no account and has no NoteCord server.
+- [AI-notitieapp die geen data verzamelt](https://notecord.nl/nl/ai-notitieapp-die-geen-data-verzamelt/): NoteCord heeft het App Store-privacylabel “Data Not Collected”. Neem gesprekken op en laat ze uitschrijven op je toestel, zonder account.
 - [Check it yourself](https://notecord.nl/check-notecord-privacy-yourself/): Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
 - [Controleer het zelf](https://notecord.nl/nl/privacy-zelf-controleren/): Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
-- [Hulp bij NoteCord](https://notecord.nl/nl/support/): Hulp bij opnemen, uitschrijven, samenvatten en bewaren in NoteCord op iPhone en iPad.
-- [Help with NoteCord](https://notecord.nl/support/): Help with recording, transcription, summaries and storage in NoteCord on iPhone and iPad.
+- [Hulp bij NoteCord](https://notecord.nl/nl/support/): Hulp nodig met NoteCord op je iPhone of iPad? Hier vind je support voor de app waarmee je gesprekken opneemt, uitschrijft en samenvat.
+- [Help with NoteCord](https://notecord.nl/support/): Need help with NoteCord on your iPhone or iPad? Get support for the app that records, transcribes and summarizes conversations on your device.
 - [Gespreksnotities zonder bot.](https://notecord.nl/nl/fireflies-alternatief-zonder-bot/): Gespreksnotities zonder bot in je vergadering? Vergelijk NoteCord voor iPhone en iPad met Fireflies. Lees hoe opnemen, opslag en back-ups werken.
 - [Meeting notes without a bot.](https://notecord.nl/fireflies-alternative-without-bot/): Want meeting notes without a bot joining? Compare NoteCord’s iPhone and iPad recording with Fireflies, including cloud storage and backups.
 - [Notities gemaakt op je eigen toestel.](https://notecord.nl/nl/granola-alternatief/): Gespreksnotities zonder cloudverwerking? NoteCord neemt op en schrijft uit op je iPhone of iPad. Geen account en geen NoteCord-server.
