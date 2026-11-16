@@ -1,0 +1,1346 @@
+# NoteCord: full text of notecord.nl
+
+# About NoteCord: its maker and privacy promise
+URL: https://notecord.nl/about/
+
+About NoteCord and your privacy
+NoteCord is made by Danny Schuurman, an independent maker in the Netherlands. The app records, transcribes and summarizes conversations on your iPhone or iPad. Recordings and text stay on your device. We cannot see them.
+Download NoteCord
+You want to know who makes the app.
+Before recording a conversation, you want to know who is behind the app and where the recording goes. The App Store lists Danny Schuurman as NoteCord’s seller. The app processes your conversations on your own device.
+Made by Danny Schuurman in the Netherlands
+Danny Schuurman is the independent maker of NoteCord. His name also appears as the seller in the App Store. For questions about the app, email danny@apexpartnerships.nl .
+Your recordings never reach us.
+NoteCord records, transcribes and summarizes on your device. You use the app without an account. There is no NoteCord server. Its App Store privacy label is “Data Not Collected”. Audio is excluded from every backup. Text is included only in your iPhone’s standard iCloud backup if enabled, in your own iCloud.
+Check it yourself.
+Visit notecord.nl/check-notecord-privacy-yourself to read what we measured and what the test covers. The measurement took place on November 12, 2026 in the iPhone simulator on a Mac. The page also explains how to view network activity on your own iPhone using App Privacy Report. You can check the privacy label in the App Store too.
+Get in touch directly.
+Email your question to danny@apexpartnerships.nl . If you need help with the app, briefly describe what you are having trouble with. Find NoteCord on Instagram as @notecordapp.
+Questions people ask
+Who makes NoteCord?
+NoteCord is made by Danny Schuurman, an independent maker in the Netherlands. The App Store lists Danny Schuurman as the seller.
+Where is NoteCord based?
+NoteCord’s maker, Danny Schuurman, is based in the Netherlands. You can reach him at danny@apexpartnerships.nl .
+How do I get in touch?
+Email danny@apexpartnerships.nl . You can also find NoteCord on Instagram as @notecordapp.
+Does NoteCord sell my data?
+No. NoteCord does not collect your data. Its App Store privacy label is “Data Not Collected”. We cannot see your recordings or text. There is no NoteCord server.
+How can I check NoteCord’s privacy promise?
+Read “Check it yourself” at notecord.nl/check-notecord-privacy-yourself. It includes the measurement, the test’s limits and steps to view network activity on your iPhone. Check NoteCord’s privacy label in the App Store too.
+Are my recordings or texts included in a backup?
+Audio is excluded from every backup. Text is included only in your iPhone’s standard iCloud backup if enabled. That backup is stored in your own iCloud.
+Keep conversations on your device .
+Use NoteCord to record, transcribe and summarize conversations on your iPhone or iPad.
+
+---
+
+# NoteCord: AI note taker that does not collect data
+URL: https://notecord.nl/ai-note-taker-that-does-not-collect-data/
+
+AI note taker that does not collect your data
+NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”; summaries with action points require Apple Intelligence.
+Download NoteCord
+Data Not Collected
+NoteCord’s App Store privacy label is “Data Not Collected”. NoteCord requires no account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Your conversations stay on your iPhone.
+NoteCord records and transcribes on your device. It also creates summaries on your device. Summaries with action points require Apple Intelligence.
+Audio stays out of backups.
+Audio stays on your device and is excluded from every backup. Text stays on your device. It is included only in your iPhone’s regular iCloud backup if enabled, in your own iCloud.
+Remember a word. Find the conversation.
+Search across all your conversations on your device. Organize them in folders by project or client. You do not need a NoteCord account.
+Questions people ask
+Is there an AI note-taking app with a Data Not Collected privacy label?
+Yes. NoteCord’s App Store privacy label is “Data Not Collected”.
+Does NoteCord send my recordings to you or anyone else?
+No. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Do I need an account to use NoteCord?
+No. NoteCord records and transcribes on your device without an account.
+Are my recordings included in any backup?
+No. Audio stays on your device and is excluded from every backup. Text is included only in your iPhone’s regular iCloud backup if enabled, in your own iCloud.
+Can NoteCord see my conversations?
+No. There is no NoteCord server and you do not need an account. We cannot see your recordings or text.
+Keep your conversations private .
+
+---
+
+# NoteCord: AI note-taking app without the cloud
+URL: https://notecord.nl/ai-note-taking-app-without-cloud/
+
+AI note-taking app without the cloud
+NoteCord records, transcribes and summarizes conversations on your iPhone or iPad. Recordings and text stay on your device. We have no server or cloud of our own, and you don’t need an account.
+Download NoteCord
+Your eyes are on the keyboard.
+Someone across the table is telling you something important. You start typing so you’ll remember it. They keep talking while you finish the last sentence. You nod, then realise you’ve lost track of what they’re saying.
+Some conversations feel too personal to upload.
+Sending a sensitive conversation to someone else’s cloud can feel wrong. NoteCord records, transcribes and summarizes on your device. There is no NoteCord server, and you don’t need an account. We can’t see your recordings or text. Apple’s App Store privacy label is “Data Not Collected”.
+What goes into my backup?
+Audio is never included in any backup. Text is included only in your iPhone’s standard iCloud backup, if enabled, in your own iCloud. You choose whether to use that backup.
+Lock your phone. Keep recording.
+Your phone sits on the table with its screen dark. You look at the person speaking. Recording continues with the screen locked. You can see it in Dynamic Island and on the lock screen. Mark a moment from the lock screen.
+What did we agree on?
+Read back what you agreed: summaries with action points require Apple Intelligence. Search across all your conversations. Keep a folder for each client or project. Add a typed note to a moment. On iPad, tap your handwriting to hear what was said.
+Questions people ask
+Does NoteCord upload my recordings to the cloud?
+No. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Does NoteCord collect my data?
+No. Apple’s App Store privacy label is “Data Not Collected”. We have no server of our own and can’t see your recordings or text.
+Do I need an account?
+No. You can use NoteCord without an account.
+Does my text go into iCloud?
+Yes, only through your iPhone’s standard iCloud backup, if enabled. Your text is then included in that backup in your own iCloud. Audio is never included in any backup.
+Does NoteCord transcribe on my iPhone or on a server?
+NoteCord transcribes on your iPhone. There is no NoteCord server.
+Can I record a lecture or meeting with my screen locked?
+Yes. Recording continues with the screen locked. You can see it in Dynamic Island and on the lock screen. You can also mark a moment from the lock screen.
+Give the conversation your attention .
+Try NoteCord to record, transcribe and summarise conversations on your iPhone or iPad.
+
+---
+
+# Best private note-taking app for iPhone? NoteCord
+URL: https://notecord.nl/best-private-note-taking-app-iphone/
+
+The best note-taking app for your privacy
+NoteCord is a good choice for a private note-taking app for iPhone if you want to record and transcribe conversations on your device without an account. Recordings and text stay on your device. Its App Store privacy label is “Data Not Collected”. The best fit also depends on whether you need team features, a meeting bot or a separate recorder.
+Download NoteCord
+Where does your conversation go?
+Compare five things before choosing an app: where transcription happens, whether you need an account, whether a bot joins, whether you need an extra device and what data the app collects. An app without a bot can still process your conversation in the cloud. Check storage and the use of data for AI training too.
+NoteCord transcribes on your iPhone.
+NoteCord records, transcribes and summarizes on your iPhone or iPad. You do not need an account or an extra device. It uses your device’s microphone and does not join Zoom, Meet or Teams calls. There is no NoteCord server. Its App Store privacy label is “Data Not Collected”. Audio is excluded from every backup. Text is included only in your iPhone’s standard iCloud backup if enabled, in your own iCloud. Summaries with action points require Apple Intelligence.
+Otter processes recordings in the cloud.
+Otter requires an account. It stores and processes recordings with cloud providers in the United States, including Amazon Web Services. Its privacy policy says it trains its own AI technology on de-identified audio recordings. Otter can join Zoom, Google Meet and Microsoft Teams calls. It suits people who want to work in a browser or on a computer and need shared team workspaces.
+Fireflies and Granola can work without a meeting bot.
+The Fireflies Notetaker can join Zoom, Google Meet and Teams as a participant. With its desktop app, the Notetaker does not join as a participant. Fireflies stores meeting data in its cloud and says it does not use that data to train AI models. It offers automatic notes from calendar meetings and team features. Granola adds no bot to your video call. It uses cloud processing for transcription and summaries and stores notes in a US-hosted AWS virtual private cloud. Mobile audio is temporarily cached. Granola uses a Google Workspace or Microsoft login. Granola says third parties cannot use your data for model training. Granola itself may use anonymized data; you can turn this off.
+Plaud and Pocket are separate recorders.
+Plaud sells separate recording devices. Its privacy policy says uploaded files are sent to and stored in Plaud’s cloud storage. Plaud works with third-party language model providers. It says data is used for model training only with explicit consent in advance. Pocket is a separate recorder that can record independently and offline. Recordings sync when you reconnect. Transcription and AI processing use cloud and AI vendors. You can sign in from any device to view recordings. Pocket says personal recordings are used for model training only with your consent. These recorders suit people who want to record without a phone.
+Questions people ask
+What is the best private note-taking app for iPhone?
+NoteCord is a good choice if privacy comes first and you want to record and transcribe conversations on your iPhone. It requires no account. Its App Store privacy label is “Data Not Collected”. Another app is a better fit for automatically joining video calls or shared team workspaces.
+Which note-taking app transcribes on the iPhone itself?
+NoteCord transcribes on your iPhone or iPad itself. There is no NoteCord server. Summaries also run on the device. Summaries with action points require Apple Intelligence.
+Does a note-taking app without a bot keep my conversation private?
+A bot only tells you about participation in the meeting. Granola works without a bot and uses cloud processing. With the Fireflies desktop app, its Notetaker does not join as a participant; Fireflies stores meeting data in its cloud. NoteCord uses your iPhone or iPad microphone and processes on your device.
+Do I need an account or an extra device?
+NoteCord requires neither an account nor an extra device. Otter requires an account. Granola uses a Google Workspace or Microsoft login. Plaud and Pocket are separate recording devices. Pocket lets you sign in from any device to view your recordings.
+How do I compare what apps do with my data?
+Check the privacy label and read where recordings and text are processed and stored. Check the provider’s statements about AI training too. Cloud storage, model training and data collection are separate questions. NoteCord’s label is “Data Not Collected”.
+How can I check NoteCord myself?
+Read “Check it yourself” at notecord.nl/check-notecord-privacy-yourself. It describes the iPhone simulator measurement, its limits and how to view network activity on your own iPhone.
+Choose where your conversation stays .
+Want to record and transcribe on your iPhone or iPad without an account? Try NoteCord.
+
+---
+
+# Conversations: articles and guides | NoteCord
+URL: https://notecord.nl/blog/conversations/
+
+Blog
+Conversations
+Topic Conversations
+Record a conversation and find the words again later. Mark explanations, check a quote and keep conversations together by project.
+Conversations Record the conversation. Keep the words .
+Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
+Topics
+Topic Studying
+Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+Topic Privacy
+Audio stays on your device and is excluded from all backups. Read how text is stored and how to check privacy yourself.
+
+---
+
+# NoteCord blog: record, transcribe and summarize on iPhone
+URL: https://notecord.nl/blog/
+
+NoteCord / Blog More room to listen .
+Short answers to what people search for about recording, transcribing and summarizing on iPhone and iPad.
+Featured
+Conversations Record the conversation. Keep the words .
+Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
+Topics
+Topic Studying
+Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+Topic Conversations
+Record a conversation and find the words again later. Mark explanations, check a quote and keep conversations together by project.
+Topic Privacy
+Audio stays on your device and is excluded from all backups. Read how text is stored and how to check privacy yourself.
+
+---
+
+# Privacy: articles and guides | NoteCord
+URL: https://notecord.nl/blog/privacy/
+
+Blog
+Privacy
+Topic Privacy
+Audio stays on your device and is excluded from all backups. Read how text is stored and how to check privacy yourself.
+Privacy NoteCord: check that your recordings stay private
+Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
+Privacy NoteCord: private AI note taker for iPhone
+Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
+Privacy NoteCord: AI note taker that does not collect data
+NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”. It requires no account and has no NoteCord server.
+Topics
+Topic Studying
+Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+Topic Conversations
+Record a conversation and find the words again later. Mark explanations, check a quote and keep conversations together by project.
+
+---
+
+# Record and transcribe on iPhone: keep the conversation
+URL: https://notecord.nl/blog/record-and-transcribe-on-iphone/
+
+Blog
+Conversations
+Record the conversation. Keep the words.
+Conversations
+Record the conversation. Keep the words .
+To record and transcribe a conversation on your iPhone, use the NoteCord app to capture audio and turn speech into text on your device. NoteCord can also produce a summary with action items, which requires Apple Intelligence. You can listen during the conversation and read it back afterward.
+November 16, 2026
+How to do it
+Step 1 Start recording
+Open NoteCord on your iPhone and start recording the conversation. You do not need an account.
+Step 2 Lock your screen
+Recording continues while your screen is locked. You can see the recording on the Lock Screen and in Dynamic Island.
+Step 3 Mark an important moment
+Mark a moment you want to find again, including from the Lock Screen or Dynamic Island. In the app, you can add a typed note or a photo to a moment.
+Step 4 Read the conversation
+NoteCord transcribes the conversation on your device. Read the text and search for words from the conversation. Search also finds typed notes attached to moments.
+Step 5 Review the summary
+Use the summary to review what the conversation covered. Check agreements and action items before acting on them. A summary with action items requires Apple Intelligence.
+Make room for clear speech
+Place your iPhone close to the speakers and keep the microphone clear. Choose a quiet spot where possible and take turns speaking. Tell the people involved that you want to record the conversation.
+Know where your recording stays
+NoteCord keeps audio on your device. Audio is excluded from all backups. Text also stays on your device, but is included in your own iCloud if your iPhone’s regular iCloud Backup is enabled. NoteCord has no server of its own.
+Check the details you use
+Compare names, numbers and agreements in the text with the recording before using them. Search the text to find the information you need. Keep conversations together in a folder for each project or client.
+Questions people ask
+Can I record and transcribe a conversation on my iPhone?
+Yes. NoteCord records the conversation and transcribes it on your device, on iPhone and iPad.
+Does recording continue when I lock my iPhone?
+Yes. NoteCord keeps recording with the screen locked. The recording is visible on the Lock Screen and in Dynamic Island.
+Do I need Apple Intelligence for a summary?
+A summary with action items in NoteCord requires Apple Intelligence.
+Does NoteCord send my recordings to a server?
+NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Related
+Conversations ↗
+Studying NoteCord: record a lecture without an account
+NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
+Privacy NoteCord: check that your recordings stay private
+Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
+Privacy NoteCord: private AI note taker for iPhone
+Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
+Listen while you talk
+With NoteCord, you record, mark important moments and read the text afterward. On iPhone and iPad.
+Coming soon to the App Store
+
+---
+
+# Studying: articles and guides | NoteCord
+URL: https://notecord.nl/blog/studying/
+
+Blog
+Studying
+Topic Studying
+Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+Studying NoteCord: record a lecture without an account
+NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
+Topics
+Topic Conversations
+Record a conversation and find the words again later. Mark explanations, check a quote and keep conversations together by project.
+Topic Privacy
+Audio stays on your device and is excluded from all backups. Read how text is stored and how to check privacy yourself.
+
+---
+
+# NoteCord: check that your recordings stay private
+URL: https://notecord.nl/check-notecord-privacy-yourself/
+
+Check it yourself
+NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. NoteCord never sends your recordings to us. They only reach someone else if you share them. You can check that yourself.
+Download NoteCord
+What we promise
+NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server. You don’t need an account. The App Store privacy label is “Data Not Collected”.
+What we measured
+On November 12, 2026, we ran the launch version of NoteCord in Apple’s iPhone simulator on a Mac. Every few seconds, a measurement script checked every network connection of the app and its widget and counted every byte they had sent during recording, transcription, summarization (summaries with action points require Apple Intelligence), “Send to myself,” and recording with the screen locked, including Dynamic Island and the Lock Screen. The result was zero connections and zero bytes sent. As a control, the same script detected an open connection and 14,152 bytes from an ordinary program, showing that it detects traffic when traffic is present.
+What the test leaves open
+This test used the simulator, not a real iPhone; a measurement on a real iPhone will follow. “Send to myself” opens an email or the share sheet. You send it yourself. iOS downloads the speech model for a language once from Apple; no recording is sent with that download.
+Check on your iPhone
+Open Settings > Privacy & Security > App Privacy Report and tap “Turn on App Privacy Report.” Then use NoteCord. Under “App Network Activity,” you see which domains each app contacts. The same steps work for any other app.
+What goes into backups
+Audio is excluded from every backup. Text is included only in your iPhone’s regular iCloud backup if you have it turned on, in your own iCloud.
+Questions people ask
+Does NoteCord send my recordings anywhere?
+No. NoteCord never sends your recordings to us. They only reach someone else if you share them.
+Was the measurement taken on a real iPhone?
+No. We tested the launch version in Apple’s iPhone simulator on a Mac on November 12, 2026. A measurement on a real iPhone will follow.
+Can I check a note-taking app’s network activity myself?
+Yes. Go to Settings > Privacy & Security > App Privacy Report and turn it on, then use the app. Under “App Network Activity” you see which domains it contacts.
+Does NoteCord have an account or its own server?
+No. You don’t need an account, and there is no NoteCord server.
+Does my audio go into an iCloud backup?
+No. Audio is excluded from every backup. Only text is included in your iPhone’s regular iCloud backup if you have it turned on, in your own iCloud.
+Your conversations stay on your iPhone .
+
+---
+
+# NoteCord: Fireflies alternative without a bot
+URL: https://notecord.nl/fireflies-alternative-without-bot/
+
+Meeting notes without a bot .
+NoteCord is a Fireflies alternative for meeting notes without a bot joining your call. It records through your iPhone or iPad microphone. It does not join Zoom, Meet or Teams calls.
+Download NoteCord
+The short answer
+You want notes without another participant appearing in the meeting. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. You do not need an account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+How Fireflies works
+According to Fireflies’ own site, its Notetaker joins Zoom, Google Meet and Teams meetings as a participant. You can set it to join automatically from your calendar, only when invited, or per team member. If even one participant opts out, Fireflies does not join. With the Fireflies desktop app, the Notetaker does not join as a participant. Fireflies stores meeting data in its cloud with AES-256 encryption at rest and TLS in transit. Enterprise customers can store data in their own region. Fireflies says it does not use your meeting data to train AI models. It has a free plan and paid Pro, Business and Enterprise plans.
+How NoteCord is different
+NoteCord uses the microphone on the iPhone or iPad you already have. You do not need an extra device. Its App Store privacy label is “Data Not Collected”. Recording continues with the screen locked and is visible in Dynamic Island and on the Lock Screen. Search through all your conversations and keep folders per project or client. On iPad, tap your handwriting to hear what was said at that moment.
+When Fireflies is the better choice
+Fireflies is the better choice if you want automatic notes for every calendar meeting or need team features. It also offers single sign-on and password-protected share links.
+What goes into backups
+NoteCord excludes audio from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is on. That text is stored in your own iCloud.
+Questions people ask
+Can I use Fireflies without a bot joining?
+Yes. With the Fireflies desktop app, the Notetaker does not join as a participant.
+Does NoteCord join Zoom, Meet or Teams calls?
+No. NoteCord records with your iPhone or iPad microphone.
+Does Fireflies use my meetings to train AI?
+Fireflies says it does not use your meeting data to train AI models.
+Do I need an account for NoteCord?
+No account is needed. NoteCord’s App Store privacy label is “Data Not Collected”.
+Can NoteCord make summaries with action points?
+Yes. NoteCord creates them on the device itself. Summaries with action points require Apple Intelligence.
+Your conversations stay on your iPhone .
+
+---
+
+# NoteCord: A Granola alternative without cloud processing
+URL: https://notecord.nl/granola-alternative-on-device/
+
+Notes made on your own device .
+If you want a Granola alternative without cloud processing, NoteCord records and transcribes conversations on your iPhone or iPad itself. It also creates summaries with action points on the device, which require Apple Intelligence. No account needed. There is no NoteCord server.
+Download NoteCord
+The short answer
+You want to remember the conversation without sending it to a cloud service for processing. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. No account needed. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+How Granola works
+According to Granola’s own site, Granola runs on macOS, Windows, iOS and Android without adding a bot to your video call. Its security page says meeting audio is not stored, although mobile audio is temporarily cached. Transcription and summaries use cloud processing: Deepgram and AssemblyAI for transcription, OpenAI and Anthropic for AI. Notes are stored in a US-hosted AWS virtual private cloud. Granola says it does not let third parties such as OpenAI or Anthropic train on your data. Granola itself may use anonymized data, which you can opt out of in Settings. You can sign in with a Google Workspace or Microsoft login.
+How NoteCord is different
+NoteCord uses the iPhone or iPad you already have. It records through the microphone and does not join Zoom, Meet or Teams calls. Recording continues with the screen locked and is visible in Dynamic Island and on the Lock Screen. Search across all your conversations or keep folders for each project or client. On iPad, tap your handwriting to hear what was said at that moment. No account is needed. The App Store privacy label is “Data Not Collected”.
+When Granola is the better choice
+Granola is the better choice if you want notes on your computer during video calls without a bot, chat across many meetings or team workspaces. Its Business plan also includes integrations such as Notion, Zapier and HubSpot.
+What goes into backups
+NoteCord excludes audio from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is turned on, in your own iCloud.
+Questions people ask
+Is NoteCord a Granola alternative without cloud processing?
+Yes. NoteCord records and transcribes on your iPhone or iPad itself. Summaries with action points also happen on the device and require Apple Intelligence. There is no NoteCord server.
+Does Granola store meeting audio?
+Granola’s security page says it does not store meeting audio. On mobile, audio is temporarily cached. Transcription and summaries use cloud processing.
+Can I use NoteCord without an account?
+Yes. NoteCord requires no account. Granola uses a Google Workspace or Microsoft login.
+Does NoteCord join Zoom, Meet or Teams calls?
+No. NoteCord records through the microphone on your iPhone or iPad.
+Does NoteCord put recordings in iCloud backups?
+No. Audio is excluded from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is on, in your own iCloud.
+Your conversations stay on your iPhone .
+
+---
+
+# NoteCord: private AI note taker for iPhone and iPad
+URL: https://notecord.nl/
+
+Stop taking notes. Start listening .
+NoteCord
+Free to download. Pro from €4.99 per month.
+NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device.
+You’re still writing. They keep talking.
+NoteCord records and transcribes on your device. Read back what you couldn’t write down while listening.
+Keep the conversation.
+Record with NoteCord. The audio stays on your device.
+Read the words again.
+NoteCord transcribes your conversation on your device. Read back what was said.
+Mark the moment
+One tap on the flag during the conversation. Later you tap it and hear it, from just before.
+Write along, if you want
+Type on iPhone, use the Pencil on iPad.
+On your device
+Recording and transcription on your device. No server of ours.
+Meeting over. Next steps ready.
+Read the summary and next steps on your device. Summaries require Apple Intelligence.
+Connection Wi-Fi and 5G None
+NoteCord Recording Still recording
+You type not with coffee! at 01:15 in the conversation
+Your text On this device
+“What exactly did the doctor say?” You sat beside your mum. You heard it all. At home, she asks what the doctor said. You can’t remember the exact words.
+Tap the line
+09:41
+NoteCord
+Search names, words, notes
+NoteCord Recording
+GP, blood test results
+0:00
+saved on this iPhone
+Your notes
+00:48 Marked
+01:15 not with coffee!
+Type a note…
+NoteCord hears First version
+Stop
+NoteCord
+GP, blood test results
+Nov 2, 2026 at 9:54 AM · 12 min
+Personal
+Summary Transcript My notes
+You marked
+0:48
+In short
+Your iron is a little low, the rest is fine. One iron tablet a day for three months, with orange juice, not with coffee or tea. Then another blood test.
+Written by AI on this iPhone. Summaries require Apple Intelligence. Check it before you share it.
+To do
+Pick up iron tablets at the pharmacy
+Another blood test in three months 2:10
+0:00 / 12:00
+Remember a word. Find the conversation .
+The doctor’s appointment
+What the doctor told your mum.
+With a client
+The conversation is over. What did you promise to do?
+During a lecture
+The example that made it click.
+With your parents
+The story your mum told at the table.
+The team meeting
+Who will do what.
+You listen. NoteCord handles the rest .
+Screen locked. Still recording.
+Your recording stays visible in Dynamic Island and on your Lock Screen. Tap the flag on your Lock Screen to mark a moment.
+One word. Find that sentence.
+Search all your conversations with a word you remember. Keep them in folders for each project or client.
+Tap your handwriting. Listen .
+On iPad, tap your handwritten note to hear what was being said at that moment.
+You decide who listens .
+NoteCord never sends your recordings to us. They only reach anyone else when you choose to share them.
+No account needed
+No server of ours
+Audio stays on your device
+Check for yourself
+As listed on the App Store
+App Privacy
+Data Not Collected
+The developer does not collect any data from this app.
+0 connections. 0 bytes sent.
+Measured in NoteCord’s network traffic during recording, transcription and summarisation.
+Start free .
+Record without limits and transcribe on your device for free, with Pro at €4.99 a month.
+Pro
+Summaries require Apple Intelligence
+€4.99 per month
+Or €29.99 a year, equivalent to €2.50 a month.
+On-device summaries with tasks and decisions
+Cancel anytime through your Apple Account
+Download NoteCord
+Free
+For all your conversations
+€0 forever
+Unlimited recording
+Transcription on your device
+Folders and search
+Mark moments
+Export
+Give your next conversation your attention .
+Download NoteCord and record your next conversation.
+Free to download. Pro from €4.99 per month.
+NoteCord
+
+---
+
+# NoteCord: AI-notitieapp die geen data verzamelt
+URL: https://notecord.nl/nl/ai-notitieapp-die-geen-data-verzamelt/
+
+AI-notitieapp die geen data verzamelt
+NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Je opnames en tekst blijven op je toestel. Het privacylabel in de App Store is “Data Not Collected”. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Download NoteCord
+Data Not Collected
+Het privacylabel van NoteCord in de App Store is “Data Not Collected”. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Ze komen alleen bij iemand anders terecht als jij ze deelt. Er is geen NoteCord-server.
+Je gesprekken blijven op je iPhone.
+NoteCord neemt op en schrijft uit op je toestel. Ook samenvatten gebeurt op je toestel. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Geluid gaat nooit mee in een back-up.
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Tekst blijft op je toestel. Die gaat alleen mee via de gewone iCloud-back-up van je iPhone, als die aanstaat. Die back-up staat in je eigen iCloud.
+Zoek een woord en vind je gesprek terug.
+Zoek door alle gesprekken op je toestel. Orden ze in mappen per project of klant. Je hebt geen NoteCord-account nodig.
+Wat mensen vragen
+Is er een AI-notitieapp met het privacylabel Data Not Collected?
+Ja. Het privacylabel van NoteCord in de App Store is “Data Not Collected”.
+Stuurt NoteCord mijn opnames naar jullie of naar iemand anders?
+Nee. NoteCord stuurt je opnames nooit naar ons. Ze komen alleen bij iemand anders terecht als jij ze deelt. Er is geen NoteCord-server.
+Heb ik een account nodig om NoteCord te gebruiken?
+Nee. NoteCord neemt op en schrijft uit op je toestel, zonder account.
+Gaan mijn opnames mee in een back-up?
+Nee. Geluid blijft op je toestel en gaat in geen enkele back-up mee. Tekst gaat alleen mee via de gewone iCloud-back-up van je iPhone, als die aanstaat. Die back-up staat in je eigen iCloud.
+Kan NoteCord mijn gesprekken zien?
+Nee. Er is geen NoteCord-server en je hebt geen account nodig. Wij kunnen je opnames en tekst niet zien.
+Houd je gesprekken privé .
+
+---
+
+# NoteCord: AI-notitieapp zonder cloud
+URL: https://notecord.nl/nl/ai-notitieapp-zonder-cloud/
+
+AI-notitieapp zonder cloud
+NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart. Er is geen server of cloud van ons en je hebt geen account nodig.
+Download NoteCord
+Je kijkt naar je toetsenbord.
+Iemand aan tafel vertelt je iets wat ertoe doet. Je wilt het onthouden, dus je begint te typen. Terwijl je de vorige zin nog afmaakt, praat de ander verder. Je knikt, maar merkt dat je niet meer goed hoort wat diegene zegt.
+Dit gesprek voelt te persoonlijk om door te sturen.
+Een gevoelig gesprek in de cloud van een ander voelt niet goed. NoteCord neemt op, schrijft uit en vat samen op je toestel. Er is geen NoteCord-server. Je hebt geen account nodig. Wij zien niets. Apples App Store-label: “Data Not Collected”.
+Wat komt er in mijn back-up?
+Geluid gaat in geen enkele back-up mee. Tekst gaat alleen mee in je eigen iCloud als de gewone iCloud-back-up van je iPhone aanstaat. Of je die back-up gebruikt, blijft jouw keuze.
+Telefoon op slot. De opname loopt door.
+Je telefoon ligt donker op tafel. Jij kijkt de ander aan. De opname loopt door met het scherm op slot, zichtbaar in Dynamic Island en op het slotscherm. Markeer een moment vanaf het slotscherm.
+Wat hadden we ook alweer afgesproken?
+Je afspraken teruglezen: een samenvatting met actiepunten vraagt Apple Intelligence. Zoek door al je gesprekken. Bewaar een map per klant of project. Typ een notitie bij een moment. Op iPad tik je op je handschrift en hoor je wat er gezegd werd.
+Wat mensen vragen
+Uploadt NoteCord mijn opnames naar de cloud?
+Nee. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Verzamelt NoteCord mijn gegevens?
+Nee. “Data Not Collected” is Apples privacylabel in de App Store. Er is geen server van ons en wij zien je opnames en tekst niet.
+Heb ik een account nodig?
+Nee. Je gebruikt NoteCord zonder account.
+Komt mijn tekst in iCloud?
+Ja, maar alleen via de gewone iCloud-back-up van je iPhone als die aanstaat. Je tekst gaat dan mee in die back-up, in je eigen iCloud. Geluid gaat in geen enkele back-up mee.
+Schrijft NoteCord uit op mijn iPhone of op een server?
+NoteCord schrijft uit op je iPhone. Er is geen NoteCord-server.
+Kan ik een college of vergadering opnemen met mijn scherm op slot?
+Ja. De opname loopt door met je scherm op slot. Je ziet de opname in Dynamic Island en op het slotscherm. Vanaf het slotscherm kun je ook een moment markeren.
+Stop met meeschrijven. Luister naar het gesprek.
+Probeer NoteCord voor opnames, transcripties en samenvattingen op je iPhone of iPad.
+
+---
+
+# Beste privé-notitieapp voor iPhone? NoteCord
+URL: https://notecord.nl/nl/beste-privacy-notitieapp-iphone/
+
+De beste notitieapp voor jouw privacy
+NoteCord is een goede keuze als privé-notitieapp voor iPhone als je gesprekken op je toestel wilt opnemen en uitschrijven zonder account. Opnames en tekst blijven op je toestel. Het App Store-privacylabel is “Data Not Collected”. Welke app het beste past, hangt ook af van je behoefte aan teamfuncties, een vergaderbot of een losse recorder.
+Download NoteCord
+Waar gaat je gesprek heen?
+Vergelijk vijf dingen voordat je een app kiest: waar wordt het gesprek uitgeschreven, is een account nodig, doet er een bot mee, heb je een extra apparaat nodig en welke gegevens verzamelt de app? Een app zonder bot kan je gesprek nog steeds in de cloud verwerken. Kijk daarom ook naar opslag en het gebruik van gegevens voor AI-training.
+NoteCord schrijft uit op je iPhone.
+NoteCord neemt op, schrijft uit en vat samen op je iPhone of iPad. Je hebt geen account of extra apparaat nodig. De app gebruikt de microfoon van je toestel en doet niet mee aan Zoom, Meet of Teams. Er is geen NoteCord-server. Het privacylabel in de App Store is “Data Not Collected”. Geluid gaat in geen enkele back-up mee. Tekst gaat alleen mee via de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Otter verwerkt opnames in de cloud.
+Voor Otter heb je een account nodig. Otter bewaart en verwerkt opnames bij cloudaanbieders in de Verenigde Staten, waaronder Amazon Web Services. Volgens het privacybeleid traint Otter zijn eigen AI-technologie met audio-opnames waaruit identificerende gegevens zijn verwijderd. Otter kan meedoen aan Zoom, Google Meet en Microsoft Teams. Het past bij wie in een browser of op een computer wil werken en gedeelde werkruimtes voor een team nodig heeft.
+Fireflies en Granola kunnen zonder vergaderbot werken.
+De Notetaker van Fireflies kan als deelnemer aansluiten bij Zoom, Google Meet en Teams. Via de desktopapp doet hij niet als deelnemer mee. Fireflies bewaart vergadergegevens in zijn cloud en zegt ze niet te gebruiken om AI-modellen te trainen. Het biedt automatische notities vanuit je agenda en teamfuncties. Granola voegt geen bot toe aan je videogesprek. Het gebruikt cloudverwerking voor uitschrijven en samenvatten en bewaart notities in een virtuele privécloud van AWS in de Verenigde Staten. Mobiele audio wordt tijdelijk gecachet. Granola gebruikt een Google Workspace- of Microsoft-login. Derden mogen volgens Granola je gegevens niet gebruiken voor modeltraining. Granola zelf kan geanonimiseerde gegevens gebruiken; dat kun je uitzetten.
+Plaud en Pocket zijn losse recorders.
+Plaud verkoopt losse opnameapparaten. Volgens het privacybeleid worden geüploade bestanden naar de cloudopslag van Plaud verzonden en daar bewaard. Plaud werkt met externe aanbieders van taalmodellen. Het zegt gegevens alleen met uitdrukkelijke toestemming vooraf voor modeltraining te gebruiken. Pocket is een losse recorder die zelfstandig en offline kan opnemen. Opnames synchroniseren zodra je weer verbinding hebt. Uitschrijven en AI-verwerking verlopen via cloud- en AI-leveranciers. Je kunt op elk apparaat inloggen om opnames te bekijken. Pocket zegt persoonlijke opnames alleen met toestemming voor modeltraining te gebruiken. Deze recorders passen bij wie zonder telefoon wil opnemen.
+Wat mensen vragen
+Wat is de beste privé-notitieapp voor iPhone?
+NoteCord is een goede keuze als je privacy vooropzet en gesprekken op je iPhone wilt opnemen en uitschrijven. Je gebruikt de app zonder account. Het App Store-privacylabel is “Data Not Collected”. Voor automatische deelname aan videogesprekken of gedeelde teamwerkruimtes past een andere app beter.
+Welke notitieapp schrijft gesprekken uit op de iPhone zelf?
+NoteCord schrijft uit op je iPhone of iPad zelf. Er is geen NoteCord-server. Ook samenvatten gebeurt op het toestel. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Betekent een notitieapp zonder bot dat mijn gesprek privé blijft?
+Een bot zegt alleen iets over deelname aan de vergadering. Granola werkt zonder bot en gebruikt cloudverwerking. Met de desktopapp van Fireflies doet de Notetaker niet als deelnemer mee; Fireflies bewaart vergadergegevens in zijn cloud. NoteCord gebruikt de microfoon van je iPhone of iPad en verwerkt op het toestel.
+Heb ik een account of extra apparaat nodig?
+Voor NoteCord heb je geen account of extra apparaat nodig. Otter vereist een account. Granola gebruikt een Google Workspace- of Microsoft-login. Plaud en Pocket zijn losse opnameapparaten. Pocket laat je op elk apparaat inloggen om je opnames te bekijken.
+Hoe vergelijk ik wat een app met mijn gegevens doet?
+Bekijk het privacylabel en lees waar opnames en tekst worden verwerkt en bewaard. Controleer ook wat de aanbieder zegt over AI-training. Cloudopslag, modeltraining en gegevensverzameling zijn afzonderlijke punten. Het label van NoteCord is “Data Not Collected”.
+Hoe controleer ik NoteCord zelf?
+Lees “Controleer het zelf” op notecord.nl/nl/privacy-zelf-controleren. De pagina beschrijft de meting in de iPhone-simulator, de beperkingen daarvan en hoe je netwerkactiviteit op je eigen iPhone bekijkt.
+Kies waar je gesprek blijft .
+Wil je opnemen en uitschrijven op je iPhone of iPad zonder account? Probeer NoteCord.
+
+---
+
+# Gesprek opnemen iPhone: uitschrijven en samenvatten
+URL: https://notecord.nl/nl/blog/gesprek-opnemen-iphone-en-samenvatten/
+
+Blog
+Gesprekken
+Gesprek opnemen en samenvatten
+Gesprekken
+Gesprek opnemen en samenvatten
+Een gesprek opnemen en uitschrijven op je iPhone doe je met de NoteCord-app: die neemt op en zet spraak om in tekst op je toestel. NoteCord kan het gesprek ook samenvatten met actiepunten, waarvoor Apple Intelligence nodig is. Zo kun je luisteren tijdens het gesprek en de inhoud daarna teruglezen.
+16 november 2026
+Zo doe je het
+Stap 1 Start de opname
+Open NoteCord op je iPhone en start een opname van het gesprek. Je hebt daarvoor geen account nodig.
+Stap 2 Zet je scherm op slot
+De opname loopt door met je scherm op slot. Je ziet de opname op het slotscherm en in Dynamic Island.
+Stap 3 Markeer een belangrijk moment
+Markeer een moment dat je later wilt terugvinden. Dat kan ook vanaf het slotscherm of Dynamic Island. In de app kun je bij een moment een notitie typen of een foto toevoegen.
+Stap 4 Lees het gesprek terug
+NoteCord schrijft het gesprek uit op je toestel. Lees de tekst terug en zoek naar woorden uit het gesprek. Ook een getypte notitie bij een moment kun je met zoeken terugvinden.
+Stap 5 Bekijk de samenvatting
+Gebruik de samenvatting om de inhoud van het gesprek te overzien. Controleer afspraken en actiepunten voordat je ermee verdergaat. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Geef het gesprek de ruimte
+Leg je iPhone dicht bij de sprekers en houd de microfoon vrij. Kies waar mogelijk een rustige plek en laat elkaar uitpraten. Vertel vooraf dat je het gesprek wilt opnemen.
+Weet waar je opname blijft
+NoteCord bewaart geluid op je toestel. Het geluid gaat in geen enkele back-up mee. Tekst blijft ook op je toestel, maar gaat mee in je eigen iCloud als de gewone iCloud-back-up van je iPhone aanstaat. NoteCord heeft geen eigen server.
+Controleer wat je gaat gebruiken
+Vergelijk namen, getallen en afspraken in de tekst met de opname voordat je ze overneemt. Gebruik de tekst om terug te zoeken naar de inhoud die je nodig hebt. Bewaar gesprekken in een map per project of klant om ze bij elkaar te houden.
+Wat mensen vragen
+Kan ik op mijn iPhone een gesprek opnemen en uitschrijven?
+Ja. NoteCord neemt het gesprek op en schrijft het uit op je toestel, op iPhone en iPad.
+Blijft de opname lopen als ik mijn iPhone vergrendel?
+Ja. NoteCord neemt door met het scherm op slot. De opname is zichtbaar op het slotscherm en in Dynamic Island.
+Heb ik Apple Intelligence nodig voor een samenvatting?
+Een samenvatting met actiepunten in NoteCord vraagt Apple Intelligence.
+Stuurt NoteCord mijn opnames naar een server?
+NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Meer over Gesprekken
+Gesprekken ↗
+Privacy NoteCord: controleer zelf of je opnames privé blijven
+Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
+Privacy NoteCord: AI-notitieapp zonder cloud
+Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
+Vergaderen NoteCord: Fireflies-alternatief zonder bot
+Gespreksnotities zonder bot in je vergadering? Vergelijk NoteCord voor iPhone en iPad met Fireflies. Lees hoe opnemen, opslag en back-ups werken.
+Luister tijdens het gesprek
+Met NoteCord neem je op, markeer je belangrijke momenten en lees je de tekst later terug. Op iPhone en iPad.
+Binnenkort in de App Store
+
+---
+
+# Gesprekken: artikelen en uitleg | NoteCord
+URL: https://notecord.nl/nl/blog/gesprekken/
+
+Blog
+Gesprekken
+Onderwerp Gesprekken
+Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+Gesprekken Gesprek opnemen en samenvatten
+Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
+Onderwerpen
+Onderwerp Privacy
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
+
+---
+
+# NoteCord blog: opnemen, uitschrijven en samenvatten op iPhone
+URL: https://notecord.nl/nl/blog/
+
+NoteCord / Blog Meer ruimte om te luisteren .
+Korte antwoorden op wat mensen zoeken over opnemen, uitschrijven en samenvatten op iPhone en iPad.
+Uitgelicht
+Gesprekken Gesprek opnemen en samenvatten
+Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
+Onderwerpen
+Onderwerp Gesprekken
+Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+Onderwerp Privacy
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
+
+---
+
+# Privacy: artikelen en uitleg | NoteCord
+URL: https://notecord.nl/nl/blog/privacy/
+
+Blog
+Privacy
+Onderwerp Privacy
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
+Privacy NoteCord: controleer zelf of je opnames privé blijven
+Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
+Privacy NoteCord: AI-notitieapp zonder cloud
+Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
+Onderwerpen
+Onderwerp Gesprekken
+Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+
+---
+
+# NoteCord: een college opnemen zonder account
+URL: https://notecord.nl/nl/college-opnemen-zonder-account/
+
+Een college opnemen zonder account
+NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Opnames en tekst blijven op je toestel. Ook een college neem je op en vat je samen zonder account. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Download NoteCord
+Luister naar de uitleg.
+NoteCord neemt je college op en schrijft het uit op je toestel. Je hebt geen account nodig. Een samenvatting met actiepunten vraagt Apple Intelligence. Markeer tijdens de opname een moment en voeg een notitie of foto toe.
+De opname loopt door met je scherm op slot.
+Als je het scherm van je iPhone vergrendelt, blijft NoteCord opnemen. Je ziet de opname in Dynamic Island en op het slotscherm. Op beide plekken kun je een moment markeren.
+Met één woord vind je het college terug.
+Zoek door al je gesprekken om een college terug te vinden. Bewaar elk vak in een eigen projectmap. Op je iPad tik je op handschrift dat je tijdens de opname hebt geschreven. Je hoort dan wat er op dat moment werd gezegd.
+Je gesprekken blijven op je iPhone.
+NoteCord stuurt je opnames nooit naar ons. Ze komen alleen bij iemand anders terecht als jij ze deelt. Er is geen NoteCord-server. Geluid blijft op je toestel en gaat in geen enkele back-up mee. Tekst blijft op je toestel en gaat alleen mee via de gewone iCloud-back-up van je iPhone, als die aanstaat. Die back-up staat in je eigen iCloud.
+Wat mensen vragen
+Kan ik een college opnemen en samenvatten zonder een account aan te maken?
+Ja. NoteCord neemt op, schrijft uit en vat samen op je toestel, zonder account. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Blijft NoteCord opnemen als ik mijn telefoon vergrendel?
+Ja. De opname loopt door met je scherm op slot. Je ziet de opname in Dynamic Island en op het slotscherm.
+Kan ik een notitie of foto toevoegen aan een bepaald moment in het college?
+Ja. Markeer tijdens de opname een moment en voeg een notitie of foto toe. Je kunt de notitie later terugvinden via de zoekfunctie.
+Kan ik op mijn iPad-handschrift tikken om dat deel van het college te horen?
+Ja. Tik op handschrift dat je tijdens de opname hebt geschreven om te horen wat er op dat moment werd gezegd. Dit werkt alleen met handschrift dat tijdens een opname is geschreven.
+Stuurt NoteCord mijn collegeopnames naar een server?
+Nee. NoteCord stuurt je opnames nooit naar ons. Ze komen alleen bij iemand anders terecht als jij ze deelt. Er is geen NoteCord-server.
+Luister naar het college .
+
+---
+
+# NoteCord: Fireflies-alternatief zonder bot
+URL: https://notecord.nl/nl/fireflies-alternatief-zonder-bot/
+
+Gespreksnotities zonder bot .
+NoteCord is een Fireflies-alternatief voor gespreksnotities zonder dat er een bot meedoet aan je vergadering. De app neemt op via de microfoon van je iPhone of iPad. NoteCord doet niet mee aan gesprekken in Zoom, Meet of Teams.
+Download NoteCord
+Het korte antwoord
+Je wilt gespreksnotities zonder dat er een extra deelnemer in de vergadering verschijnt. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Een samenvatting met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Zo werkt Fireflies
+Volgens de eigen website van Fireflies doet de Notetaker als deelnemer mee aan vergaderingen in Zoom, Google Meet en Teams. Je kunt instellen dat hij automatisch vanuit je agenda aansluit, alleen op uitnodiging of per teamlid. Maakt één deelnemer bezwaar, dan doet Fireflies niet mee. Met de desktopapp van Fireflies doet de Notetaker niet als deelnemer mee. Fireflies bewaart vergadergegevens in zijn cloud met AES-256-versleuteling bij opslag en TLS tijdens de overdracht. Enterprise-klanten kunnen gegevens in hun eigen regio laten opslaan. Fireflies zegt je vergadergegevens niet te gebruiken om AI-modellen te trainen. Er is een gratis pakket en er zijn betaalde Pro-, Business- en Enterprise-pakketten.
+Wat NoteCord anders doet
+NoteCord gebruikt de microfoon van de iPhone of iPad die je al hebt. Je hebt geen extra apparaat nodig. Het privacylabel in de App Store is “Data Not Collected”. De opname loopt door als het scherm op slot staat en is zichtbaar in Dynamic Island en op het slotscherm. Je kunt door al je gesprekken zoeken en mappen per project of klant maken. Op de iPad tik je op je handschrift om te horen wat er op dat moment werd gezegd.
+Wanneer Fireflies beter past
+Fireflies past beter als je automatisch notities wilt van elke vergadering in je agenda of functies voor je team nodig hebt. Het biedt ook single sign-on en deellinks met wachtwoordbeveiliging.
+Wat er in back-ups meegaat
+Bij NoteCord gaat audio in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die back-up aanstaat. Die tekst staat dan in je eigen iCloud.
+Wat mensen vragen
+Kan ik Fireflies gebruiken zonder bot in de vergadering?
+Ja. Met de desktopapp van Fireflies doet de Notetaker niet als deelnemer mee.
+Doet NoteCord mee aan Zoom, Meet of Teams?
+Nee. NoteCord neemt op met de microfoon van je iPhone of iPad.
+Gebruikt Fireflies mijn vergaderingen om AI te trainen?
+Fireflies zegt je vergadergegevens niet te gebruiken om AI-modellen te trainen.
+Heb ik een account nodig voor NoteCord?
+Nee. Je hebt geen account nodig. Het privacylabel van NoteCord in de App Store is “Data Not Collected”.
+Kan NoteCord samenvattingen met actiepunten maken?
+Ja. NoteCord maakt die op het toestel zelf. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Je gesprekken blijven op je iPhone .
+
+---
+
+# NoteCord: Granola-alternatief zonder cloudverwerking
+URL: https://notecord.nl/nl/granola-alternatief/
+
+Notities gemaakt op je eigen toestel .
+Zoek je een Granola-alternatief zonder cloudverwerking, dan neemt NoteCord gesprekken op en schrijft ze uit op je iPhone of iPad zelf. Ook samenvatten met actiepunten gebeurt op je toestel en vraagt Apple Intelligence. Je hebt geen account nodig. Er is geen NoteCord-server.
+Download NoteCord
+Het korte antwoord
+Je wilt terug kunnen lezen wat er is gezegd, zonder het gesprek in de cloud te laten verwerken. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Samenvatten met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Zo werkt Granola
+Volgens de eigen website werkt Granola op macOS, Windows, iOS en Android, zonder een bot aan je videogesprek toe te voegen. Op de beveiligingspagina staat dat Granola geen gespreksaudio bewaart. Op mobiele apparaten wordt audio wel tijdelijk gecachet. Uitschrijven en samenvatten gebeurt via cloudverwerking: Deepgram en AssemblyAI voor transcriptie, OpenAI en Anthropic voor AI. Notities staan in een virtuele privécloud van AWS in de Verenigde Staten. Granola zegt dat derden zoals OpenAI en Anthropic je gegevens niet mogen gebruiken om hun modellen te trainen. Granola zelf kan geanonimiseerde gegevens gebruiken. Dit kun je uitzetten in de instellingen. Je kunt inloggen met een Google Workspace- of Microsoft-login.
+Wat NoteCord anders doet
+NoteCord gebruikt de iPhone of iPad die je al hebt. De app neemt op via de microfoon en doet niet mee aan gesprekken in Zoom, Meet of Teams. De opname loopt door met het scherm op slot en is zichtbaar in Dynamic Island en op het slotscherm. Je zoekt door al je gesprekken en maakt mappen per project of klant. Op de iPad tik je op je handschrift om te horen wat er op dat moment werd gezegd. Je hebt geen account nodig. Het privacylabel in de App Store is “Data Not Collected”.
+Wanneer Granola beter past
+Granola past beter als je tijdens videogesprekken notities op je computer wilt maken zonder een bot, vragen wilt stellen over meerdere gesprekken of met je team in gedeelde werkruimtes wilt werken. Het Business-abonnement biedt ook koppelingen met onder meer Notion, Zapier en HubSpot.
+Wat er in je back-up komt
+NoteCord sluit audio uit van elke back-up. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Wat mensen vragen
+Is NoteCord een Granola-alternatief zonder cloudverwerking?
+Ja. NoteCord neemt op en schrijft uit op je iPhone of iPad zelf. Ook samenvatten met actiepunten gebeurt op je toestel en vraagt Apple Intelligence. Er is geen NoteCord-server.
+Bewaart Granola de audio van gesprekken?
+Volgens de beveiligingspagina bewaart Granola geen gespreksaudio. Op mobiele apparaten wordt audio tijdelijk gecachet. Uitschrijven en samenvatten gebeurt via cloudverwerking.
+Kan ik NoteCord zonder account gebruiken?
+Ja. Voor NoteCord heb je geen account nodig. Bij Granola log je in met een Google Workspace- of Microsoft-login.
+Doet NoteCord mee aan Zoom, Meet of Teams?
+Nee. NoteCord neemt op via de microfoon van je iPhone of iPad.
+Komen mijn NoteCord-opnames in een iCloud-back-up?
+Nee. Audio gaat in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Je gesprekken blijven op je iPhone .
+
+---
+
+# NoteCord: privé AI-notitieapp voor iPhone en iPad
+URL: https://notecord.nl/nl/
+
+Stop met meeschrijven. Luister naar het gesprek.
+NoteCord
+Gratis te downloaden. Pro vanaf € 4,99 per maand.
+NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart.
+Je schrijft nog. De ander praat verder.
+NoteCord neemt op en schrijft uit op je toestel. Lees later terug wat je tijdens het luisteren niet kon opschrijven.
+Bewaar het gesprek.
+Neem op met NoteCord. Het geluid blijft op je toestel.
+Lees de woorden terug.
+NoteCord schrijft je gesprek uit op je toestel. Lees terug wat er werd gezegd.
+Markeer het moment
+Eén tik op het vlaggetje tijdens het gesprek. Later tik je erop en hoor je het, vanaf net ervoor.
+Schrijf mee, als je wilt
+Typ op de iPhone, pak de Pencil op de iPad.
+Op je toestel
+Opnemen en uitschrijven op je toestel. Geen server van ons.
+Gesprek klaar. Actiepunten op een rij.
+Lees de samenvatting en de actiepunten op je toestel. Samenvattingen vragen Apple Intelligence.
+Verbinding Wifi en 5G Geen
+NoteCord Neemt op Neemt nog op
+Jij tikt niet met koffie! op 01:15 in het gesprek
+Je tekst Op dit toestel
+“Wat zei de huisarts nou precies?” Je zat naast je moeder. Je hoorde alles. Thuis vraagt ze wat de huisarts zei. De precieze woorden ben je kwijt.
+Tik op de zin
+09:41
+NoteCord
+Zoek op namen, woorden, notities
+NoteCord Neemt op
+Huisarts, uitslag bloedonderzoek
+0:00
+bewaard op deze iPhone
+Jouw aantekeningen
+00:48 Gemarkeerd
+01:15 niet met koffie!
+Typ een aantekening…
+NoteCord hoort Eerste versie
+Stop
+NoteCord
+Huisarts, uitslag bloedonderzoek
+2 nov 2026, 9:54 · 12 min
+Privé
+Samenvatting Transcriptie Mijn notities
+Door jou gemarkeerd
+0:48
+De kern
+De ijzerwaarde is wat laag, de rest is goed. Drie maanden lang één ijzertablet per dag, met sinaasappelsap en niet met koffie of thee. Daarna opnieuw bloed prikken.
+Geschreven door AI op deze iPhone. Samenvattingen vragen Apple Intelligence. Kijk het na voordat je het deelt.
+Te doen
+IJzertabletten ophalen bij de apotheek
+Over drie maanden opnieuw prikken 2:10
+0:00 / 12:00
+Vind elke zin terug. In al je gesprekken.
+Bij de huisarts
+Wat de huisarts tegen je moeder zei.
+Met een klant
+Het gesprek is voorbij. Wat had jij ook alweer beloofd?
+Tijdens college
+Het voorbeeld waardoor je het ineens snapte.
+Bij je ouders
+Het verhaal dat je moeder aan tafel vertelde.
+In het overleg
+Wie wat gaat doen.
+Jij luistert. NoteCord doet de rest .
+Scherm op slot. Opname loopt .
+Je opname blijft zichtbaar in Dynamic Island en op je slotscherm. Markeer een moment met het vlaggetje, direct vanaf je slotscherm.
+Eén woord. Die zin weer terug .
+Zoek door al je gesprekken op een woord dat je nog weet. Bewaar ze in mappen per project of klant.
+Tik op je handschrift. Luister .
+Tik op je iPad op je handgeschreven notitie. Je hoort wat er op dat moment werd gezegd.
+Jij bepaalt wie meeluistert .
+NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt.
+Geen account nodig
+Geen server van ons
+Geluid blijft op je toestel
+Controleer het zelf
+Zo staat het in de App Store
+App-privacy
+Geen gegevens verzameld
+De ontwikkelaar verzamelt geen gegevens van deze app.
+0 verbindingen. 0 bytes verstuurd.
+Gemeten in het netwerkverkeer van NoteCord tijdens opnemen, uitschrijven en samenvatten.
+Begin gratis .
+Neem onbeperkt op en schrijf gratis uit op je toestel, met Pro voor € 4,99 per maand.
+Pro
+Samenvatten vraagt Apple Intelligence
+€ 4,99 per maand
+Of € 29,99 per jaar, omgerekend € 2,50 per maand.
+Samenvattingen met taken en besluiten, op je toestel
+Altijd opzegbaar via je Apple-account
+Download NoteCord
+Gratis
+Voor al je gesprekken
+€ 0 voor altijd
+Onbeperkt opnemen
+Uitschrijven op je toestel
+Mappen en zoeken
+Momenten markeren
+Exporteren
+Geef je volgende gesprek je aandacht .
+Download NoteCord en neem je volgende gesprek op.
+Gratis te downloaden. Pro vanaf € 4,99 per maand.
+NoteCord
+
+---
+
+# NoteCord: een alternatief voor Otter op je iPhone
+URL: https://notecord.nl/nl/otter-alternatief-iphone/
+
+Een alternatief voor Otter zonder account .
+Ja. NoteCord is een alternatief voor Otter dat je opnames op je iPhone houdt. De app neemt gesprekken op en schrijft ze uit op het toestel zelf. Ook samenvattingen met actiepunten worden op je toestel gemaakt en vragen Apple Intelligence.
+Download NoteCord
+Het korte antwoord
+NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Samenvattingen met actiepunten vragen Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Hoe Otter werkt
+Voor Otter heb je een account nodig. Otter bewaart en verwerkt opnames bij cloudaanbieders, waaronder Amazon Web Services, in de Verenigde Staten. In het privacybeleid staat dat Otter zijn eigen AI-technologie traint met audio-opnames waaruit identificerende gegevens zijn verwijderd.
+Wat NoteCord anders doet
+NoteCord neemt op en schrijft uit op je toestel, zonder account. Het privacylabel in de App Store is “Data Not Collected”. De opname loopt door met het scherm op slot en is zichtbaar in Dynamic Island en op het slotscherm. Zoek door al je gesprekken en bewaar ze in mappen per project of klant. Op de iPad tik je op je handschrift om te horen wat er op dat moment werd gezegd.
+Wanneer Otter beter past
+Otter past beter als je wilt dat een app meedoet met gesprekken in Zoom, Google Meet en Microsoft Teams, als je in een browser en op een computer wilt werken, of als je gedeelde werkruimtes voor je team nodig hebt. NoteCord biedt deze functies niet. De app neemt op met de microfoon van je iPhone of iPad.
+Wat er in je back-up komt
+Audio van NoteCord gaat in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die back-up aanstaat. Die tekst staat dan in je eigen iCloud.
+Wat mensen vragen
+Heb ik een account nodig voor NoteCord?
+Nee. Je kunt NoteCord zonder account gebruiken.
+Stuurt NoteCord mijn opnames naar een server?
+NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Traint Otter zijn AI met opnames?
+In het privacybeleid van Otter staat dat het zijn eigen AI-technologie traint met audio-opnames waaruit identificerende gegevens zijn verwijderd.
+Kan NoteCord meedoen met mijn Zoom-gesprekken?
+Nee. NoteCord neemt op met de microfoon van je iPhone of iPad.
+Gaat mijn audio mee in een iCloud-back-up?
+Nee. Audio van NoteCord gaat in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die back-up aanstaat, in je eigen iCloud.
+Je gesprekken blijven op je iPhone .
+
+---
+
+# Over NoteCord: de maker en onze privacybelofte
+URL: https://notecord.nl/nl/over-ons/
+
+Over NoteCord en je privacy
+NoteCord wordt gemaakt door Danny Schuurman, een onafhankelijke maker in Nederland. De app neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Opnames en tekst blijven op je toestel. Wij kunnen ze niet zien.
+Download NoteCord
+Je wilt weten wie je je gesprek toevertrouwt.
+Voor je een gesprek opneemt, wil je weten wie de app maakt en waar de opname terechtkomt. In de App Store staat Danny Schuurman als verkoper van NoteCord. De app verwerkt je gesprekken op je eigen toestel.
+Gemaakt door Danny Schuurman in Nederland
+Danny Schuurman is de onafhankelijke maker van NoteCord. Zijn naam staat ook als verkoper in de App Store. Voor vragen over de app kun je mailen naar danny@apexpartnerships.nl .
+Je opnames komen niet bij ons terecht.
+NoteCord neemt op, schrijft uit en vat samen op je toestel. Je gebruikt de app zonder account. Er is geen NoteCord-server. Het privacylabel in de App Store is “Data Not Collected”. Geluid gaat in geen enkele back-up mee. Tekst gaat alleen mee via de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Controleer het zelf.
+Op notecord.nl/nl/privacy-zelf-controleren lees je wat we hebben gemeten en wat die test dekt. De meting was op 12 november 2026 in de iPhone-simulator op een Mac. De pagina legt ook uit hoe je op je eigen iPhone de netwerkactiviteit bekijkt via het Rapport over privacy van apps. Je kunt daarnaast het privacylabel in de App Store bekijken.
+Je kunt ons rechtstreeks bereiken.
+Mail je vraag naar danny@apexpartnerships.nl . Voor hulp met de app kun je kort beschrijven waar je tegenaan loopt. Op Instagram vind je NoteCord als @notecordapp.
+Wat mensen vragen
+Wie maakt NoteCord?
+NoteCord wordt gemaakt door Danny Schuurman, een onafhankelijke maker in Nederland. In de App Store staat Danny Schuurman als verkoper.
+Waar zit NoteCord?
+De maker van NoteCord, Danny Schuurman, zit in Nederland. Je bereikt hem via danny@apexpartnerships.nl .
+Hoe neem ik contact op?
+Mail naar danny@apexpartnerships.nl . Je vindt NoteCord ook op Instagram als @notecordapp.
+Verkoopt NoteCord mijn gegevens?
+Nee. NoteCord verzamelt je gegevens niet. Het App Store-privacylabel is “Data Not Collected”. Wij kunnen je opnames en tekst niet zien. Er is geen NoteCord-server.
+Hoe controleer ik de privacybelofte van NoteCord?
+Lees “Controleer het zelf” op notecord.nl/nl/privacy-zelf-controleren. Daar staan de meting, de beperkingen van de test en de stappen om netwerkactiviteit op je iPhone te bekijken. Bekijk ook het privacylabel van NoteCord in de App Store.
+Gaan mijn opnames of teksten mee in een back-up?
+Geluid gaat in geen enkele back-up mee. Tekst gaat alleen mee via de gewone iCloud-back-up van je iPhone als die aanstaat. Die back-up staat in je eigen iCloud.
+Houd je gesprekken op je toestel .
+Gebruik NoteCord om gesprekken op te nemen, uit te schrijven en samen te vatten op je iPhone of iPad.
+
+---
+
+# NoteCord: Plaud-alternatief zonder extra apparaat
+URL: https://notecord.nl/nl/plaud-alternatief/
+
+Een apparaat minder meenemen .
+NoteCord is een Plaud-alternatief zonder extra apparaat: je gebruikt de iPhone of iPad die je al hebt. Wil je een gesprek opnemen zonder een losse recorder mee te nemen, dan gebruikt NoteCord de microfoon van je toestel.
+Download NoteCord
+Het korte antwoord
+Je wilt het gesprek onthouden zonder daar een extra apparaat voor te kopen en mee te nemen. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Een samenvatting met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Zo werkt Plaud
+Volgens de eigen website verkoopt Plaud losse opnameapparaten: NotePin, Note en Note Pro. Je koopt ze en neemt ze naast je telefoon mee. Het gratis Starter-plan bevat 300 transcriptieminuten per maand. Voor meer minuten heb je een betaald maand- of jaarplan nodig. In het privacybeleid staat dat geüploade bestanden naar de cloudopslagdienst van Plaud worden verzonden en daar worden opgeslagen. Voor de web- en desktopapps is cloudsynchronisatie nodig. Plaud heeft servers in de Verenigde Staten, Duitsland, Japan en Singapore en werkt met externe aanbieders van grote taalmodellen. Het privacybeleid zegt ook dat Plaud je gegevens niet gebruikt om eigen AI-modellen of die van derden te trainen zonder jouw uitdrukkelijke toestemming vooraf.
+Wat NoteCord anders doet
+NoteCord gebruikt je iPhone of iPad. Je hebt dus geen extra apparaat nodig. Het privacylabel in de App Store is “Data Not Collected”. De opname loopt door met het scherm op slot en is zichtbaar in Dynamic Island en op het slotscherm. Je kunt door al je gesprekken zoeken en mappen maken per project of klant. Op de iPad tik je op je handschrift om te horen wat er op dat moment werd gezegd. NoteCord neemt op met de microfoon van je iPhone of iPad. De app doet niet mee aan gesprekken in Zoom, Meet of Teams.
+Wanneer Plaud beter bij je past
+Wil je een aparte, draagbare recorder die opneemt zonder dat je je telefoon erbij pakt? Dan past Plaud beter bij je. Plaud heeft ook web- en desktopapps en plannen voor teams.
+Wat er in een back-up komt
+De audio van NoteCord gaat in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Wat mensen vragen
+Is er een Plaud-alternatief zonder extra apparaat?
+Ja. NoteCord gebruikt de iPhone of iPad die je al hebt. De app neemt gesprekken op en schrijft ze uit op het toestel zelf.
+Hoeveel gratis transcriptieminuten krijg je bij Plaud?
+Het gratis Starter-plan van Plaud bevat 300 transcriptieminuten per maand. Voor meer minuten heb je een betaald maand- of jaarplan nodig.
+Heb ik voor NoteCord een account nodig en waar gaan mijn opnames heen?
+Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Kan NoteCord een gesprek samenvatten met actiepunten?
+Ja, op het toestel zelf. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Gebruikt Plaud mijn gegevens om AI te trainen?
+Volgens het privacybeleid gebruikt Plaud je gegevens niet om eigen AI-modellen of die van derden te trainen zonder jouw uitdrukkelijke toestemming vooraf.
+Je gesprekken blijven op je iPhone .
+
+---
+
+# NoteCord: alternatief voor de Pocket AI-recorder
+URL: https://notecord.nl/nl/pocket-ai-recorder-alternatief/
+
+Opnemen met de telefoon die je al hebt .
+NoteCord is een alternatief voor de Pocket AI-recorder als je gesprekken wilt opnemen met je iPhone of iPad, zonder een extra apparaat te kopen. Wil je weten waar je opnames terechtkomen? NoteCord neemt gesprekken op en schrijft ze uit op het toestel zelf. Ook samenvatten met actiepunten gebeurt op het toestel en vraagt Apple Intelligence.
+Download NoteCord
+Het korte antwoord
+Je wilt een gesprek kunnen terughalen, maar daar misschien geen extra apparaat voor meenemen. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Samenvatten met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Hoe Pocket werkt
+Volgens de eigen website van Pocket is het een losse AI-voicerecorder met een clip, met een vermelde prijs van $139 en 64 GB opslag. Pocket neemt zelfstandig op. In het privacybeleid staat dat Pocket pas geluid opneemt als je de opname start. Opnemen kan offline. Zodra je weer verbinding hebt, worden de opnames gesynchroniseerd. Het uitschrijven en de verwerking door AI-modellen verlopen via cloud- en AI-leveranciers. Pocket zegt je persoonlijke opnames niet zonder jouw toestemming te gebruiken om zijn modellen te trainen. Je kunt op elk apparaat inloggen om je opnames te bekijken.
+Wat NoteCord anders doet
+NoteCord gebruikt de iPhone of iPad die je al hebt. Opnemen en uitschrijven gebeurt op het toestel zelf. Ook samenvatten met actiepunten gebeurt op het toestel en vraagt Apple Intelligence. Het privacylabel in de App Store is “Data Not Collected”. De opname loopt door met het scherm op slot en is zichtbaar in Dynamic Island en op het slotscherm. Je kunt zoeken door al je gesprekken en mappen gebruiken per project of klant. Op de iPad tik je op je handschrift om te horen wat er op dat moment werd gezegd. NoteCord neemt op met de microfoon van je iPhone of iPad. De app doet niet mee aan gesprekken in Zoom, Meet of Teams.
+Wanneer Pocket beter bij je past
+Pocket past beter bij je als je wilt opnemen zonder je telefoon. Het apparaat heeft eigen microfoons en een eigen batterij. Pocket synchroniseert ook tussen apparaten. Je kunt op elk apparaat inloggen om je opnames te bekijken.
+Wat er in je back-up komt
+Geluid uit NoteCord gaat in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Wat mensen vragen
+Wat is een alternatief voor de Pocket AI-recorder?
+NoteCord neemt gesprekken op en schrijft ze uit op je iPhone of iPad zelf. Je hebt geen extra apparaat of account nodig.
+Verwerkt Pocket mijn opnames in de cloud?
+Volgens het privacybeleid verlopen het uitschrijven en de verwerking door AI-modellen via cloud- en AI-leveranciers. Pocket zegt je persoonlijke opnames niet zonder jouw toestemming te gebruiken om zijn modellen te trainen.
+Stuurt NoteCord mijn opnames naar een server?
+NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
+Kan NoteCord gesprekken samenvatten op mijn iPhone?
+Ja. NoteCord vat gesprekken samen op het toestel zelf. Samenvatten met actiepunten vraagt Apple Intelligence.
+Komen mijn NoteCord-opnames in een iCloud-back-up?
+Geluid gaat in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Je gesprekken blijven op je iPhone .
+
+---
+
+# NoteCord privacy: je gesprekken op je eigen toestel
+URL: https://notecord.nl/nl/privacy/
+
+Jouw gesprekken blijven van jou
+We houden je geluid, tekst en samenvattingen op je toestel.
+De app
+NoteCord heeft geen eigen server. Je hebt geen account nodig. Wij zien je gesprekken niet.
+Je eigen back-up
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Tekst gaat mee in je eigen iCloud als de gewone iCloud-back-up van je iPhone aanstaat.
+Kopen en downloaden
+Aankopen lopen via Apple. We zien geen betaalgegevens en niet wie er koopt. Als je een spraakmodel downloadt, ziet de server die het levert je IP-adres, zoals bij elke download.
+De website
+We gebruiken geen cookies, trackers of scripts van anderen. Je browser bewaart een kopie van de pagina op je toestel, zodat de site offline werkt. Onze webhost ziet IP-adressen in zijn logboek.
+Je rechten en wie we zijn
+Mail ons voor inzage, correctie of verwijdering van je persoonsgegevens. Je kunt ook een klacht indienen bij de Autoriteit Persoonsgegevens.
+Danny Schuurman Nederland danny@apexpartnerships.nl
+Terug naar de homepage
+
+---
+
+# NoteCord: AI-notitieapp voor iPhone met privacy
+URL: https://notecord.nl/nl/privacy-ai-notitieapp-iphone/
+
+AI-notitieapp voor iPhone met privacy
+NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Je opnames en tekst blijven op je toestel. We hebben geen eigen server of cloud. Je hebt geen account nodig.
+Download NoteCord
+Jij kijkt naar je scherm. De ander praat verder.
+Een klant vertelt iets belangrijks. Je begint te typen om het te onthouden. Als je weer opkijkt, is de ander al verder. Je hebt een paar zinnen vastgelegd, maar de blik op het gezicht van je klant gemist.
+Sommige gesprekken houd je liever bij je.
+Een gevoelig gesprek stuur je liever niet naar de cloud van een ander. NoteCord neemt op, schrijft uit en vat samen op je toestel. Er is geen NoteCord-server en je hebt geen account nodig. Wij zien je opnames en tekst niet. Het privacylabel in de App Store is “Data Not Collected”.
+Wat komt er in je back-up?
+Geluid gaat in geen enkele back-up mee. Tekst gaat alleen mee via de gewone iCloud-back-up van je iPhone, als die aanstaat. Die back-up staat in je eigen iCloud. Je kiest zelf of je deze back-up gebruikt.
+Scherm op slot. De opname loopt door.
+Je telefoon ligt met een donker scherm op tafel. Jij kijkt de ander aan. De opname loopt door met het scherm op slot. Je ziet de opname in Dynamic Island en op het slotscherm. Vanaf het slotscherm kun je een moment markeren.
+Lees terug wat je hebt afgesproken.
+Een samenvatting met actiepunten vraagt Apple Intelligence. Zoek door al je gesprekken en bewaar een map per klant of project. Typ een notitie bij een moment. Op je iPad tik je op je handschrift om te horen wat er werd gezegd.
+Wat mensen vragen
+Uploadt NoteCord mijn opnames naar de cloud?
+Nee. NoteCord stuurt je opnames nooit naar ons. Ze komen alleen bij iemand anders terecht als jij ze deelt. Er is geen NoteCord-server.
+Verzamelt NoteCord mijn gegevens?
+Nee. Het privacylabel van Apple in de App Store is “Data Not Collected”. We hebben geen eigen server en kunnen je opnames en tekst niet zien.
+Heb ik een account nodig?
+Nee. Je gebruikt NoteCord zonder account.
+Komt mijn tekst in iCloud?
+Ja, alleen via de gewone iCloud-back-up van je iPhone als die aanstaat. Je tekst gaat dan mee in die back-up, in je eigen iCloud. Geluid gaat in geen enkele back-up mee.
+Schrijft NoteCord uit op mijn iPhone of op een server?
+NoteCord schrijft uit op je iPhone. Er is geen NoteCord-server.
+Kan ik een college of vergadering opnemen met mijn scherm op slot?
+Ja. De opname loopt door met je scherm op slot. Je ziet de opname in Dynamic Island en op het slotscherm. Vanaf het slotscherm kun je een moment markeren.
+Geef het gesprek je aandacht .
+Probeer NoteCord om gesprekken op te nemen, uit te schrijven en samen te vatten op je iPhone of iPad.
+
+---
+
+# NoteCord: controleer zelf of je opnames privé blijven
+URL: https://notecord.nl/nl/privacy-zelf-controleren/
+
+Controleer het zelf
+NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Dat kun je zelf nakijken.
+Download NoteCord
+Wat we beloven
+NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server. Je hebt geen account nodig. Het privacylabel in de App Store is “Data Not Collected”.
+Wat we hebben gemeten
+Op 12 november 2026 draaide de lanceringsversie van NoteCord in de iPhone-simulator van Apple op een Mac. Een meetscript keek om de paar seconden naar elke netwerkverbinding van de app en de widget en telde elke byte die ze hadden verstuurd tijdens opnemen, uitschrijven, samenvatten (een samenvatting met actiepunten vraagt Apple Intelligence), “Mail naar mezelf” en opnemen met het scherm op slot, inclusief Dynamic Island en het slotscherm. De uitslag was nul verbindingen en nul verstuurde bytes. Als controle zag hetzelfde script bij een gewoon programma een open verbinding en 14.152 bytes, dus de meting ziet verkeer als het er is.
+Wat nog openstaat
+Deze test was in de simulator, nog niet op een echte iPhone; een meting op een echte iPhone volgt. “Mail naar mezelf” opent een mail of het deelmenu. Jij verstuurt het zelf. iOS haalt het spraakmodel voor een taal één keer bij Apple op; daar gaat geen opname mee.
+Kijk op je iPhone
+Ga naar Instellingen > Privacy en beveiliging > Rapport over privacy van apps en tik op “Schakel privacyrapport in”. Gebruik daarna NoteCord. Bij “Netwerkactiviteit van apps” zie je welke domeinen elke app benadert. Zo kun je elke andere app ook nakijken.
+Wat je back-up bewaart
+Geluid gaat in geen enkele back-up mee. Tekst gaat alleen mee in de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Wat mensen vragen
+Stuurt NoteCord mijn opnames ergens heen?
+Nee. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt.
+Was de meting op een echte iPhone?
+Nee. We testten de lanceringsversie op 12 november 2026 in de iPhone-simulator van Apple op een Mac. Een meting op een echte iPhone volgt.
+Kan ik de netwerkactiviteit van een notitieapp zelf controleren?
+Ja. Ga naar Instellingen > Privacy en beveiliging > Rapport over privacy van apps, zet het aan en gebruik daarna de app. Bij “Netwerkactiviteit van apps” zie je welke domeinen de app benadert.
+Heeft NoteCord een account of een eigen server?
+Nee. Je hebt geen account nodig en er is geen NoteCord-server.
+Gaat mijn geluid mee in een iCloud-back-up?
+Nee. Geluid gaat in geen enkele back-up mee. Alleen tekst gaat mee in de gewone iCloud-back-up van je iPhone als die aanstaat, in je eigen iCloud.
+Je gesprekken blijven op je iPhone .
+
+---
+
+# NoteCord support: hulp bij de app voor iPhone en iPad
+URL: https://notecord.nl/nl/support/
+
+Hulp bij NoteCord
+Hier vind je antwoorden op veelgestelde vragen over NoteCord op iPhone en iPad. Staat je vraag er niet bij? Neem gerust contact op.
+Download NoteCord
+Wat mensen vragen
+Hoe start en stop ik een opname?
+Tik op de opnameknop om te beginnen, of vraag Siri om een opname te starten of te stoppen. De opname loopt door als je het scherm op slot zet. Je ziet de opname op het slotscherm en op een geschikte iPhone ook in het Dynamic Island.
+Hoe vind ik een belangrijk moment terug?
+Tik tijdens de opname op de vlag om een moment te markeren. Later kun je vanaf vlak voor dat moment luisteren. Op iPad kun je ook met Apple Pencil schrijven en later op je handschrift tikken om dat moment te horen.
+Waar wordt mijn opname uitgeschreven?
+Het uitschrijven gebeurt op je toestel. iOS kan hiervoor eenmalig een spraakmodel van Apple downloaden en vraagt daar toestemming voor.
+Waarom krijg ik geen samenvatting?
+Samenvattingen met actiepunten hebben Apple Intelligence nodig. Daarvoor moet je toestel geschikt zijn, Apple Intelligence aanstaan en het model klaar zijn. Werkt het niet, controleer dit dan in Instellingen.
+Heb ik een account nodig?
+Nee, je hebt geen account nodig. NoteCord heeft geen eigen server.
+Worden mijn opnames bewaard in een back-up?
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Tekst gaat wel mee in de gewone back-up van je iPhone, als die aanstaat. Verwijder je de app of wis je het toestel zonder eerst te exporteren, dan is het geluid weg.
+Hoe kan ik een opname of transcript delen?
+Je kunt audio en het transcript zelf delen of mailen, bijvoorbeeld met “Mail naar mezelf”. Je eigen notities en handschrift gaan niet mee in een export.
+Hoe vind ik een gesprek terug?
+Je kunt door al je gesprekken zoeken op woorden, namen en notities. Met mappen kun je gesprekken ordenen per klant, project of onderwerp.
+Hoe zeg ik mijn Pro-abonnement op?
+Pro is een maand- of jaarabonnement via Apple. Opzeggen doe je op je iPhone of iPad via Instellingen > je naam > Abonnementen > NoteCord, minstens 24 uur voor het einde van je betaalperiode om verlenging te voorkomen. Je houdt Pro tot het einde van die periode; daarna blijft de gratis versie werken en blijft alles wat je maakte op je toestel.
+Hoe vraag ik mijn geld terug?
+Aankopen gaan via Apple. Een terugbetaling vraag je aan bij Apple op reportaproblem.apple.com.
+Staat je vraag er niet bij?
+Kom je er niet uit? Mail naar danny@apexpartnerships.nl en beschrijf kort waar je tegenaan loopt.
+Stop met meeschrijven. Luister naar het gesprek.
+Probeer NoteCord voor opnames, transcripties en samenvattingen op je iPhone of iPad.
+
+---
+
+# NoteCord: gebruiksvoorwaarden voor iPhone en iPad
+URL: https://notecord.nl/nl/voorwaarden/
+
+Gebruiks­voorwaarden
+Deze voorwaarden gelden voor het gebruik van NoteCord op iPhone en iPad.
+Voorwaarden van Apple
+Voor NoteCord gelden de standaard gebruiksvoorwaarden van Apple voor apps: de Licensed Application End User License Agreement. Lees ze op www.apple.com/legal/internet-services/itunes/dev/stdeula/ .
+NoteCord Pro
+NoteCord Pro is beschikbaar als maand- of jaarabonnement via Apple, met een gratis proefperiode. Na de proefperiode wordt het abonnement betaald. Betaling loopt via je Apple-account. Het abonnement wordt automatisch verlengd, tenzij je minstens 24 uur voor het einde van de proefperiode of de lopende abonnementsperiode opzegt. Beheren of opzeggen kan via Instellingen op je iPhone: tik op je naam en daarna op Abonnementen. Tot en met 1 december 2026 kun je ook kiezen voor een eenmalige oprichtersaankoop. Daarmee krijg je levenslang Pro, zonder abonnement.
+Terugbetalingen
+Apple regelt terugbetalingen. Een terugbetaling aanvragen kan via reportaproblem.apple.com .
+Opnames en toestemming
+NoteCord bewaart je opnames en tekst op je toestel. Jij bent verantwoordelijk voor toestemming van de mensen die je opneemt, volgens de regels die gelden waar je bent.
+Privacy
+Lees de privacypagina .
+Contact
+Vragen over deze voorwaarden? Neem contact op via danny@apexpartnerships.nl .
+Terug naar de homepage
+
+---
+
+# NoteCord: an Otter alternative for iPhone
+URL: https://notecord.nl/otter-alternative-on-iphone/
+
+An Otter alternative without an account .
+Yes. NoteCord is an Otter alternative that keeps recordings on your iPhone. It records and transcribes conversations on the device itself. Summaries with action points also run on the device and require Apple Intelligence.
+Download NoteCord
+The short answer
+NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. You do not need an account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+How Otter works
+Otter requires an account. Otter stores and processes recordings with cloud providers, including Amazon Web Services, in the United States. Its privacy policy says it trains its own AI technology on de-identified audio recordings.
+How NoteCord is different
+NoteCord records and transcribes on your device, with no account needed. Its App Store privacy label is “Data Not Collected”. Recording continues with the screen locked and is visible in Dynamic Island and on the Lock Screen. Search through all your conversations and keep them in folders per project or client. On iPad, tap your handwriting to hear what was said at that moment.
+When Otter is the better choice
+Otter is the better choice if you want an app that joins Zoom, Google Meet and Microsoft Teams calls, works in a browser and on a computer, or offers shared team workspaces. NoteCord does not offer these features. It records with the iPhone or iPad microphone.
+What goes into backups
+NoteCord audio is excluded from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is turned on. That text is stored in your own iCloud.
+Questions people ask
+Does NoteCord need an account?
+No. You can use NoteCord without an account.
+Does NoteCord send my recordings to a server?
+NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Does Otter train its AI on recordings?
+Otter’s privacy policy says it trains its own AI technology on de-identified audio recordings.
+Can NoteCord join my Zoom calls?
+No. NoteCord records with the iPhone or iPad microphone.
+Does my audio go into an iCloud backup?
+No. NoteCord audio is excluded from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is turned on, in your own iCloud.
+Your conversations stay on your iPhone .
+
+---
+
+# NoteCord: Plaud alternative without an extra device
+URL: https://notecord.nl/plaud-alternative-iphone/
+
+One less device to carry .
+NoteCord is a Plaud alternative without an extra device, using the iPhone or iPad you already have. If you want to record a conversation without carrying another recorder, NoteCord uses your device’s microphone.
+Download NoteCord
+The short answer
+You want to remember the conversation without buying another device to carry. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. No account is needed. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+How Plaud works
+According to Plaud’s own site, Plaud sells separate recording devices: NotePin, Note and Note Pro. You buy and carry them alongside your phone. The free Starter plan includes 300 transcription minutes per month. More minutes need a paid monthly or yearly plan. Plaud’s privacy policy says uploaded files are transmitted to and stored in its cloud storage service. Cloud sync is required for its web and desktop apps. Plaud operates servers in the United States, Germany, Japan and Singapore and works with third-party LLM service providers. Its policy says it does not use your data to train its own or third-party AI models without your explicit consent in advance.
+How NoteCord is different
+NoteCord uses your iPhone or iPad, so you do not need an extra device. Its App Store privacy label is “Data Not Collected”. Recording continues with the screen locked and is visible in Dynamic Island and on the Lock Screen. You can search through all your conversations and keep folders for each project or client. On iPad, tap your handwriting to hear what was said at that moment. NoteCord records with the iPhone or iPad microphone. It does not join Zoom, Meet or Teams calls.
+When Plaud is the better choice
+If you want a dedicated wearable recorder that records without taking out your phone, Plaud is the better fit. It also offers web and desktop apps and team plans.
+What goes into backups
+NoteCord audio is excluded from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is on, in your own iCloud.
+Questions people ask
+Is there a Plaud alternative iPhone app without an extra device?
+Yes. NoteCord uses the iPhone or iPad you already have to record and transcribe conversations on the device itself.
+How many free transcription minutes does Plaud include?
+Plaud’s free Starter plan includes 300 transcription minutes per month. More minutes need a paid monthly or yearly plan.
+Does NoteCord need an account or send recordings to a server?
+No account is needed. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Can NoteCord summarize conversations with action points?
+Yes, on the device itself. Summaries with action points require Apple Intelligence.
+Does Plaud use my data to train AI models?
+Plaud’s privacy policy says it does not use your data to train its own or third-party AI models without your explicit consent in advance.
+Your conversations stay on your iPhone .
+
+---
+
+# NoteCord: Pocket AI recorder alternative for iPhone
+URL: https://notecord.nl/pocket-ai-recorder-alternative/
+
+Record with the phone you have .
+NoteCord is a Pocket AI recorder alternative for iPhone and iPad if you want to record conversations without buying another device. If you’re concerned about where your recordings go, NoteCord records and transcribes on the device itself. Summaries with action points also run on the device and require Apple Intelligence.
+Download NoteCord
+The short answer
+Another device to carry may be more than you want just to remember a conversation. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. You don’t need an account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+How Pocket works
+According to Pocket’s own site, Pocket is a separate clip-on AI voice recorder listed at $139, with 64 GB of storage. It records on its own. Its privacy policy says audio is captured only when you start recording. You can record offline, and recordings sync when you reconnect. Transcription and model processing run with cloud and AI vendors. Pocket says it will not use your personal recordings to train its models without your consent. You can sign in from any device to see your recordings.
+How NoteCord is different
+NoteCord uses the iPhone or iPad you already have. It records and transcribes on the device itself. Summaries with action points require Apple Intelligence and also run on the device. Its App Store privacy label is “Data Not Collected”. Recording continues with the screen locked and is visible in Dynamic Island and on the Lock Screen. You can search through all your conversations and use folders per project or client. On iPad, tap your handwriting to hear what was said at that moment. NoteCord records with your iPhone or iPad microphone. It does not join Zoom, Meet or Teams calls.
+When Pocket is the better choice
+Pocket is the better choice if you want a recorder that records without your phone. It has its own microphones and battery. It also offers sync across devices, with recordings you can see by signing in from any device.
+What goes into backups
+NoteCord audio is excluded from every backup. Text goes into your iPhone’s regular iCloud backup only if that backup is on, in your own iCloud.
+Questions people ask
+Is there a Pocket AI recorder alternative for iPhone?
+Yes. NoteCord records and transcribes on your iPhone or iPad itself. You don’t need an extra device or an account.
+Does Pocket process recordings in the cloud?
+Pocket’s privacy policy says transcription and model processing run with cloud and AI vendors. It says personal recordings will not be used to train its models without your consent.
+Does NoteCord send my recordings to a server?
+NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Can NoteCord summarize conversations on my iPhone?
+Yes. NoteCord summarizes on the device itself. Summaries with action points require Apple Intelligence.
+Are NoteCord recordings included in iCloud backups?
+Audio is excluded from every backup. Text is included in your iPhone’s regular iCloud backup only if that backup is on, in your own iCloud.
+Your conversations stay on your iPhone .
+
+---
+
+# NoteCord privacy: conversations stay on your device
+URL: https://notecord.nl/privacy/
+
+Your conversations stay yours
+We keep your audio, transcripts and summaries on your device.
+The app
+NoteCord has no server of its own. You don’t need an account. We cannot see your conversations.
+Your own backup
+Audio stays on your device and is excluded from every backup. Text is included in your own iCloud if your iPhone’s regular iCloud backup is on.
+Purchases and downloads
+Apple handles purchases. We see neither payment details nor who bought the app. When you download a speech model, the server delivering it sees your IP address, as with any download.
+The website
+We use no cookies, trackers or third-party scripts. Your browser stores a copy of the page on your device so the site works offline. Our web host sees IP addresses in its logs.
+Your rights and who we are
+Email us to access, correct or delete your personal data. You can also lodge a complaint with the Dutch Data Protection Authority, the Autoriteit Persoonsgegevens.
+Danny Schuurman Nederland danny@apexpartnerships.nl
+Back to home
+
+---
+
+# NoteCord: private AI note taker for iPhone
+URL: https://notecord.nl/private-ai-note-taker-iphone/
+
+Private AI note taker for iPhone
+NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. There is no server or cloud of ours, and you don’t need an account.
+Download NoteCord
+You look down. They keep talking.
+A client is telling you something that matters. You start typing so you won’t forget it. When you look up, they’ve moved on. You have the words you managed to catch, but you missed the look on their face.
+Some conversations feel too personal to send.
+Someone else’s cloud feels wrong for a sensitive conversation. NoteCord records, transcribes and summarizes on your device. There is no NoteCord server. You don’t need an account. We see nothing. Apple’s App Store privacy label is “Data Not Collected”.
+What goes into a backup?
+Audio is never included in any backup. Text goes into your own iCloud only through your iPhone’s standard iCloud backup, if that backup is enabled. Whether to use that backup stays your choice.
+Screen locked. Still recording.
+Your phone lies dark on the table. You look at the person speaking. Recording continues with the screen locked, visible in Dynamic Island and on the lock screen. Mark a moment from the lock screen.
+Keep track of what you agreed.
+Keep what you agreed: a summary with action points requires Apple Intelligence. Search all your conversations. Keep a folder per client or project. Type a note beside a moment. On iPad, tap your handwriting to hear what was said.
+Questions people ask
+Does NoteCord upload my recordings to the cloud?
+No. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Does NoteCord collect my data?
+No. “Data Not Collected” is Apple’s App Store privacy label. We have no server of our own and cannot see your recordings or text.
+Do I need an account?
+No. You can use NoteCord without an account.
+Does my text go into iCloud?
+Yes, but only through your iPhone’s standard iCloud backup, if it is enabled. Your text is then included in that backup in your own iCloud. Audio is never included in any backup.
+Does NoteCord transcribe on my iPhone or on a server?
+NoteCord transcribes on your iPhone. There is no NoteCord server.
+Can I record a lecture or meeting with my screen locked?
+Yes. Recording continues with your screen locked. You can see it in Dynamic Island and on the lock screen, and mark a moment from the lock screen.
+Stop taking notes. Start listening .
+Try NoteCord for recordings, transcripts and summaries on your iPhone or iPad.
+
+---
+
+# NoteCord: record a lecture without an account
+URL: https://notecord.nl/record-lecture-without-account/
+
+Record a lecture without an account
+NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. You can record a lecture and get a summary without an account; summaries with action points require Apple Intelligence.
+Download NoteCord
+Stop taking notes. Start listening.
+NoteCord records and transcribes your lecture on your device without an account. Summaries with action points require Apple Intelligence. Mark a moment during the recording and add a note or photo.
+Screen locked. Still recording.
+The recording continues when you lock your iPhone screen. You can see it in Dynamic Island and on the lock screen. You can also mark a moment from either place.
+Remember a word. Find the conversation.
+Search across all your conversations to find a lecture again. Keep each subject in its own project folder. On iPad, tap handwriting written during a recording to hear what was said at that moment.
+Your conversations stay on your iPhone.
+NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server. Audio stays on your device and is excluded from every backup. Text stays on your device and is included only in your iPhone’s regular iCloud backup if enabled, in your own iCloud.
+Questions people ask
+Can I record a lecture and get a summary without creating an account?
+Yes. NoteCord records, transcribes and summarizes on your device without an account. Summaries with action points require Apple Intelligence.
+Will NoteCord keep recording if I lock my phone?
+Yes. Recording continues with the screen locked and is visible in Dynamic Island and on the lock screen.
+Can I add a note or photo at a specific moment in a lecture?
+Yes. Mark a moment during the recording and add a note or photo. You can find the note later through search.
+Can I tap my iPad handwriting to hear that part of the lecture?
+Yes. Tap handwriting written during the recording to hear what was said at that moment. This applies only to handwriting written during a recording.
+Does NoteCord send my lecture recordings to a server?
+No. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
+Listen to the lecture .
+
+---
+
+# NoteCord support: help with the iPhone and iPad app
+URL: https://notecord.nl/support/
+
+Help with NoteCord
+Find answers to common questions about NoteCord on iPhone and iPad. If your question isn’t covered, get in touch.
+Download NoteCord
+Questions people ask
+How do I start and stop a recording?
+Tap the record button to begin, or ask Siri to start or stop a recording. Recording continues when you lock the screen. You can see the recording on the Lock Screen and in the Dynamic Island on a supported iPhone.
+How do I find an important moment again?
+Tap the flag during a recording to mark a moment. Later, you can listen from just before that moment. On iPad, you can also write with Apple Pencil and tap your handwriting later to hear that moment.
+Where is my recording transcribed?
+Transcription happens on your device. iOS may ask for permission to download an Apple speech model once.
+Why am I not getting a summary?
+Summaries with action items need Apple Intelligence. You need a supported device, Apple Intelligence turned on and its model ready to use. If summaries aren’t working, check these in Settings.
+Do I need an account?
+No account is needed. NoteCord has no server of its own.
+Are my recordings included in a backup?
+Audio stays on your device and is never included in any backup. Text is included in your iPhone’s regular backup if it’s turned on. If you delete the app or erase your device without exporting first, the audio is lost.
+How can I share a recording or transcript?
+You can share or email audio and transcripts yourself, including with “Send to myself”. Your own notes and handwriting aren’t included in an export.
+How do I find a conversation?
+You can search all your conversations for words, names and notes. Use folders to organise conversations by client, project or topic.
+How do I cancel my Pro subscription?
+Pro is a monthly or yearly subscription through Apple. On your iPhone or iPad, go to Settings > your name > Subscriptions > NoteCord and cancel at least 24 hours before your billing period ends to prevent renewal. You keep Pro until the end of that period; after that, the free version keeps working and everything you created stays on your device.
+How do I request a refund?
+Purchases are handled by Apple. You can request a refund from Apple at reportaproblem.apple.com.
+Is your question not here?
+Need help? Email danny@apexpartnerships.nl and briefly describe what you’re having trouble with.
+Stop taking notes. Start listening .
+Try NoteCord for recordings, transcripts and summaries on your iPhone or iPad.
+
+---
+
+# NoteCord: terms of use for the iPhone and iPad app
+URL: https://notecord.nl/terms/
+
+Terms of Use
+These terms apply to your use of NoteCord on iPhone and iPad.
+Apple’s terms
+NoteCord is covered by Apple’s standard terms for apps: the Licensed Application End User License Agreement. Read them at www.apple.com/legal/internet-services/itunes/dev/stdeula/ .
+NoteCord Pro
+NoteCord Pro is available as a monthly or yearly subscription through Apple, with a free trial. After the trial, the subscription becomes paid. Payment is charged to your Apple Account. The subscription renews automatically unless you cancel at least 24 hours before the end of the trial or current subscription period. To manage or cancel it, open Settings on your iPhone, tap your name, then tap Subscriptions. A one-time founders’ purchase is also available until 1 December 2026, inclusive. This gives you lifetime Pro without a subscription.
+Refunds
+Apple handles refunds. You can request a refund at reportaproblem.apple.com .
+Recordings and consent
+NoteCord keeps your recordings and text on your device. You are responsible for obtaining consent from the people you record, in accordance with the rules that apply where you are.
+Privacy
+Read the privacy page .
+Contact
+Questions about these terms? Contact us at danny@apexpartnerships.nl .
+Back to home

@@ -2,6 +2,16 @@
 
 > NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device.
 
+## Key facts
+
+- Platform: iPhone and iPad (iOS, iPadOS). Seller in the App Store: Danny Schuurman.
+- Recording, transcription and summaries happen on the device. There is no NoteCord server and no account.
+- App Store privacy label: Data Not Collected.
+- Audio is excluded from every backup. Text is only included in the iPhone's own iCloud backup when that backup is on.
+- Summaries with action points require Apple Intelligence.
+- Made by Danny Schuurman, an independent maker in the Netherlands. Contact: danny@apexpartnerships.nl. Instagram: @notecordapp.
+- Full text of every page: https://notecord.nl/llms-full.txt
+
 ## Pages
 
 - [NoteCord (English)](https://notecord.nl/)
@@ -28,6 +38,10 @@
 - [One less device to carry.](https://notecord.nl/plaud-alternative-iphone/): Looking for a Plaud alternative without an extra device? NoteCord records and transcribes conversations on the iPhone or iPad you already have.
 - [Opnemen met de telefoon die je al hebt.](https://notecord.nl/nl/pocket-ai-recorder-alternatief/): Zoek je een alternatief voor de Pocket AI-recorder? Vergelijk Pocket met NoteCord, dat gesprekken op je iPhone of iPad opneemt en uitschrijft.
 - [Record with the phone you have.](https://notecord.nl/pocket-ai-recorder-alternative/): Looking for a Pocket AI recorder alternative? Compare Pocket with NoteCord, an iPhone and iPad app that records and transcribes on your device.
+- [Over NoteCord en je privacy](https://notecord.nl/nl/over-ons/): NoteCord wordt gemaakt door Danny Schuurman in Nederland. Lees wat we beloven over je opnames, hoe je dat controleert en hoe je ons bereikt.
+- [About NoteCord and your privacy](https://notecord.nl/about/): NoteCord is made by Danny Schuurman in the Netherlands. Read our privacy promise, check it yourself and find our email and Instagram details.
+- [De beste notitieapp voor jouw privacy](https://notecord.nl/nl/beste-privacy-notitieapp-iphone/): Welke notitieapp houdt gesprekken op je iPhone? Vergelijk NoteCord met Otter, Fireflies, Granola, Plaud en Pocket op verwerking en privacy.
+- [The best note-taking app for your privacy](https://notecord.nl/best-private-note-taking-app-iphone/): Which note-taking app keeps conversations on your iPhone? Compare NoteCord with Otter, Fireflies, Granola, Plaud and Pocket on processing and privacy.
 - [Privacy](https://notecord.nl/privacy/)
 
 ## Blog
