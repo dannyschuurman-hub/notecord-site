@@ -30,6 +30,7 @@
     const pad = (nl, en) => (html.dataset.wortel === 'en' ? (lang === 'en' ? en.slice(3) : 'nl/' + nl) : (lang === 'en' ? en : nl));
     qs('[data-priv]').href = opRoot(pad('privacy/', 'en/privacy/'));
     qs('[data-sup]').href = opRoot(pad('support/', 'en/support/'));
+    qs('[data-blog]').href = opRoot(pad('blog/', 'en/blog/'));
     qs('[data-vw]').href = opRoot(pad('voorwaarden/', 'en/terms/'));
     qs('[data-zelf]').href = opRoot(pad('privacy-zelf-controleren/', 'en/check-notecord-privacy-yourself/'));
     qsa('[data-badge]').forEach((el) => { el.src = opRoot(`assets/appstore-${lang}.svg`); });

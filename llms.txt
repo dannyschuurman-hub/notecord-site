@@ -25,3 +25,36 @@
 - [Opnemen met de telefoon die je al hebt.](https://notecord.nl/nl/pocket-ai-recorder-alternatief/): Zoek je een alternatief voor de Pocket AI-recorder? Vergelijk Pocket met NoteCord, dat gesprekken op je iPhone of iPad opneemt en uitschrijft.
 - [Record with the phone you have.](https://notecord.nl/pocket-ai-recorder-alternative/): Looking for a Pocket AI recorder alternative? Compare Pocket with NoteCord, an iPhone and iPad app that records and transcribes on your device.
 - [Privacy](https://notecord.nl/privacy/)
+
+## Blog
+
+- [NoteCord Blog (en)](https://notecord.nl/blog/)
+
+### Studying (en)
+
+- [Studying](https://notecord.nl/blog/studying/): Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+- [NoteCord: record a lecture without an account](https://notecord.nl/record-lecture-without-account/): NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
+
+### Conversations (en)
+
+- [Conversations](https://notecord.nl/blog/conversations/): Record a conversation and find the words again later. Mark explanations, check a quote and keep conversations together by project.
+- [Record the conversation. Keep the words.](https://notecord.nl/blog/record-and-transcribe-on-iphone/): Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
+
+### Privacy (en)
+
+- [Privacy](https://notecord.nl/blog/privacy/): Audio stays on your device and is excluded from all backups. Read how text is stored and how to check privacy yourself.
+- [NoteCord: check that your recordings stay private](https://notecord.nl/check-notecord-privacy-yourself/): Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
+- [NoteCord: private AI note taker for iPhone](https://notecord.nl/private-ai-note-taker-iphone/): Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
+- [NoteCord: AI note taker that does not collect data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app with the App Store privacy label "Data Not Collected". It requires no account and has no NoteCord server.
+- [NoteCord Blog (nl)](https://notecord.nl/nl/blog/)
+
+### Gesprekken (nl)
+
+- [Gesprekken](https://notecord.nl/nl/blog/gesprekken/): Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+- [Gesprek opnemen en samenvatten](https://notecord.nl/nl/blog/gesprek-opnemen-iphone-en-samenvatten/): Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
+
+### Privacy (nl)
+
+- [Privacy](https://notecord.nl/nl/blog/privacy/): Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
+- [NoteCord: controleer zelf of je opnames privé blijven](https://notecord.nl/nl/privacy-zelf-controleren/): Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
+- [NoteCord: AI-notitieapp zonder cloud](https://notecord.nl/nl/ai-notitieapp-zonder-cloud/): Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.

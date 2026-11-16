@@ -707,6 +707,10 @@ window.COPY={
 "nl": "Hulp",
 "en": "Help"
 },
+"f_blog": {
+"nl": "Blog",
+"en": "Blog"
+},
 "f_terms": {
 "nl": "Voorwaarden",
 "en": "Terms"
