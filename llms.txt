@@ -48,6 +48,11 @@
 
 - [NoteCord Blog (en)](https://notecord.nl/blog/)
 
+### Meetings (en)
+
+- [Meetings](https://notecord.nl/blog/meetings/): Record the discussion and review what was said. Check decisions and action items before sharing the minutes.
+- [Listen now. Review the meeting later.](https://notecord.nl/blog/meeting-minutes-app-iphone/): Use NoteCord to record and transcribe meetings on your iPhone. Summaries with action items require Apple Intelligence.
+
 ### Studying (en)
 
 - [Studying](https://notecord.nl/blog/studying/): Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
@@ -65,6 +70,11 @@
 - [NoteCord: private AI note taker for iPhone](https://notecord.nl/private-ai-note-taker-iphone/): Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
 - [NoteCord: AI note taker that does not collect data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app with the App Store privacy label "Data Not Collected". It requires no account and has no NoteCord server.
 - [NoteCord Blog (nl)](https://notecord.nl/nl/blog/)
+
+### Vergaderen (nl)
+
+- [Vergaderen](https://notecord.nl/nl/blog/vergaderen/): Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
+- [Notulen maken zonder meeschrijven](https://notecord.nl/nl/blog/notulen-maken-met-ai/): Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
 
 ### Gesprekken (nl)
 

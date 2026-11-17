@@ -141,6 +141,8 @@ Record a conversation and find the words again later. Mark explanations, check a
 Conversations Record the conversation. Keep the words .
 Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
 Topics
+Topic Meetings
+Record the discussion and review what was said. Check decisions and action items before sharing the minutes.
 Topic Studying
 Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
 Topic Privacy
@@ -154,8 +156,80 @@ URL: https://notecord.nl/blog/
 NoteCord / Blog More room to listen .
 Short answers to what people search for about recording, transcribing and summarizing on iPhone and iPad.
 Featured
+Meetings Listen now. Review the meeting later.
+Use NoteCord to record and transcribe meetings on your iPhone. Summaries with action items require Apple Intelligence.
+More stories
 Conversations Record the conversation. Keep the words .
 Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
+Topics
+Topic Meetings
+Record the discussion and review what was said. Check decisions and action items before sharing the minutes.
+Topic Studying
+Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+Topic Conversations
+Record a conversation and find the words again later. Mark explanations, check a quote and keep conversations together by project.
+Topic Privacy
+Audio stays on your device and is excluded from all backups. Read how text is stored and how to check privacy yourself.
+
+---
+
+# Meeting minutes app iPhone: capture what was agreed
+URL: https://notecord.nl/blog/meeting-minutes-app-iphone/
+
+Blog
+Meetings
+Listen now. Review the meeting later.
+Meetings
+Listen now. Review the meeting later.
+For meeting minutes on iPhone, the NoteCord app records the discussion and transcribes it on your device. With Apple Intelligence, you can create a summary with action items to check before writing up your minutes.
+November 17, 2026
+How to do it
+Step 1 Record the discussion
+Tell everyone beforehand that you are recording. Start recording in NoteCord so you can revisit the discussion after the meeting.
+Step 2 Mark decisions
+Mark the moment a decision is made. Add a short typed note with the topic or project name.
+Step 3 Review the summary
+Use the summary to see which topics were discussed. Check any decisions you plan to include against the recording.
+Step 4 Check the action items
+Check what was agreed, who will do it and which deadline was mentioned. Follow up on missing details before sharing the minutes.
+Turn the discussion into useful minutes
+Organize your minutes around topics, decisions and next steps. Use the transcript as your source and include what the record needs. This keeps decisions easy to find after a long discussion.
+Check whether a proposal was agreed
+An idea raised in a meeting may still be undecided. If you are unsure, listen again to the wording and the responses. Keep unresolved questions marked as unresolved.
+Keep project meetings together
+Store conversations in a folder for each project or client. Search across your conversations to find a topic discussed earlier. Typed notes attached to marked moments are searchable too.
+Questions people ask
+How do I make meeting minutes from a recording?
+Record the meeting with NoteCord and use the transcript to write up topics and decisions. Check agreements against the recording.
+Does NoteCord automatically create final meeting minutes?
+NoteCord records, transcribes and can produce a summary with action items. Review the content and shape it into the record you need.
+Do action items require Apple Intelligence?
+Yes. A summary with action items requires Apple Intelligence.
+Can I find agreements from an earlier meeting?
+Yes. You can search across all your conversations and typed notes attached to marked moments.
+Related
+Meetings ↗
+Conversations Record the conversation. Keep the words .
+Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
+Studying NoteCord: record a lecture without an account
+NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
+Privacy NoteCord: check that your recordings stay private
+Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
+Keep a clear record of decisions
+Use the recording as the source for your minutes and check decisions and next steps. NoteCord is coming soon to the App Store for iPhone and iPad.
+Coming soon to the App Store
+
+---
+
+# Meetings: articles and guides | NoteCord
+URL: https://notecord.nl/blog/meetings/
+
+Blog
+Meetings
+Topic Meetings
+Record the discussion and review what was said. Check decisions and action items before sharing the minutes.
+Meetings Listen now. Review the meeting later.
+Use NoteCord to record and transcribe meetings on your iPhone. Summaries with action items require Apple Intelligence.
 Topics
 Topic Studying
 Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
@@ -180,6 +254,8 @@ Typing means missing part of the conversation. NoteCord records and transcribes 
 Privacy NoteCord: AI note taker that does not collect data
 NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”. It requires no account and has no NoteCord server.
 Topics
+Topic Meetings
+Record the discussion and review what was said. Check decisions and action items before sharing the minutes.
 Topic Studying
 Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
 Topic Conversations
@@ -225,12 +301,12 @@ Does NoteCord send my recordings to a server?
 NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 Related
 Conversations ↗
+Meetings Listen now. Review the meeting later.
+Use NoteCord to record and transcribe meetings on your iPhone. Summaries with action items require Apple Intelligence.
 Studying NoteCord: record a lecture without an account
 NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
 Privacy NoteCord: check that your recordings stay private
 Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
-Privacy NoteCord: private AI note taker for iPhone
-Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
 Listen while you talk
 With NoteCord, you record, mark important moments and read the text afterward. On iPhone and iPad.
 Coming soon to the App Store
@@ -247,6 +323,8 @@ Read a lecture again and search the transcript for a concept. Use your own notes
 Studying NoteCord: record a lecture without an account
 NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
 Topics
+Topic Meetings
+Record the discussion and review what was said. Check decisions and action items before sharing the minutes.
 Topic Conversations
 Record a conversation and find the words again later. Mark explanations, check a quote and keep conversations together by project.
 Topic Privacy
@@ -590,12 +668,12 @@ Stuurt NoteCord mijn opnames naar een server?
 NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
 Meer over Gesprekken
 Gesprekken ↗
+Vergaderen Notulen maken zonder meeschrijven
+Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
 Privacy NoteCord: controleer zelf of je opnames privé blijven
 Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
 Privacy NoteCord: AI-notitieapp zonder cloud
 Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
-Vergaderen NoteCord: Fireflies-alternatief zonder bot
-Gespreksnotities zonder bot in je vergadering? Vergelijk NoteCord voor iPhone en iPad met Fireflies. Lees hoe opnemen, opslag en back-ups werken.
 Luister tijdens het gesprek
 Met NoteCord neem je op, markeer je belangrijke momenten en lees je de tekst later terug. Op iPhone en iPad.
 Binnenkort in de App Store
@@ -612,6 +690,8 @@ Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer e
 Gesprekken Gesprek opnemen en samenvatten
 Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
 Onderwerpen
+Onderwerp Vergaderen
+Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
 Onderwerp Privacy
 Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
 
@@ -623,13 +703,66 @@ URL: https://notecord.nl/nl/blog/
 NoteCord / Blog Meer ruimte om te luisteren .
 Korte antwoorden op wat mensen zoeken over opnemen, uitschrijven en samenvatten op iPhone en iPad.
 Uitgelicht
+Vergaderen Notulen maken zonder meeschrijven
+Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Meer verhalen
 Gesprekken Gesprek opnemen en samenvatten
 Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
 Onderwerpen
+Onderwerp Vergaderen
+Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
 Onderwerp Gesprekken
 Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
 Onderwerp Privacy
 Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
+
+---
+
+# Notulen maken met AI: van gesprek naar overzicht
+URL: https://notecord.nl/nl/blog/notulen-maken-met-ai/
+
+Blog
+Vergaderen
+Notulen maken zonder meeschrijven
+Vergaderen
+Notulen maken zonder meeschrijven
+Notulen maken met AI begint met een opname van het overleg: NoteCord neemt op je iPhone het gesprek op en schrijft het uit op je toestel. Met Apple Intelligence kun je een samenvatting met actiepunten maken, die je controleert voordat je de notulen uitwerkt.
+17 november 2026
+Zo doe je het
+Stap 1 Neem het overleg op
+Vertel vooraf dat je opneemt. Start de opname in NoteCord, zodat je na het overleg kunt teruglezen wat er besproken is.
+Stap 2 Markeer besluiten
+Markeer het moment waarop een besluit valt. Typ er een korte notitie bij, zoals het onderwerp of de naam van het project.
+Stap 3 Bekijk de samenvatting
+Gebruik de samenvatting om de besproken onderwerpen te overzien. Vergelijk de besluiten die je wilt overnemen met de opname.
+Stap 4 Controleer de actiepunten
+Controleer per actie wat er is afgesproken, wie het oppakt en welke termijn is genoemd. Vraag ontbrekende informatie na voordat je de notulen deelt.
+Van gesprek naar bruikbare notulen
+Werk de notulen uit rond onderwerpen, besluiten en vervolgafspraken. Gebruik de uitgeschreven tekst als bron en neem alleen over wat voor het verslag nodig is. Zo blijft ook bij een lang overleg duidelijk wat er is besloten.
+Een voorstel is nog geen besluit
+Controleer of een idee tijdens het overleg ook is aangenomen. Luister bij twijfel terug naar de formulering en de reactie daarop. Noteer een open vraag als open vraag.
+Houd overleg per project bij elkaar
+Bewaar gesprekken in een map per project of klant. Met zoeken door je gesprekken kun je een eerder besproken onderwerp terugvinden. Ook getypte notities bij gemarkeerde momenten zijn doorzoekbaar.
+Wat mensen vragen
+Hoe maak ik notulen van een opname?
+Neem het overleg op met NoteCord en gebruik de uitgeschreven tekst om onderwerpen en besluiten uit te werken. Controleer de afspraken aan de hand van de opname.
+Maakt NoteCord automatisch definitieve notulen?
+NoteCord neemt op, schrijft uit en kan samenvatten met actiepunten. Controleer de inhoud en werk die uit tot het verslag dat je nodig hebt.
+Heb ik Apple Intelligence nodig voor actiepunten?
+Ja. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Kan ik afspraken uit een vorig overleg terugvinden?
+Ja. Je kunt zoeken door al je gesprekken en door getypte notities bij gemarkeerde momenten.
+Meer over Vergaderen
+Vergaderen ↗
+Gesprekken Gesprek opnemen en samenvatten
+Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
+Privacy NoteCord: controleer zelf of je opnames privé blijven
+Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
+Privacy NoteCord: AI-notitieapp zonder cloud
+Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
+Leg vast wat er is afgesproken
+Gebruik de opname als bron voor je notulen en controleer besluiten en vervolgafspraken. NoteCord komt binnenkort in de App Store voor iPhone en iPad.
+Binnenkort in de App Store
 
 ---
 
@@ -645,8 +778,27 @@ Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test 
 Privacy NoteCord: AI-notitieapp zonder cloud
 Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
 Onderwerpen
+Onderwerp Vergaderen
+Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
 Onderwerp Gesprekken
 Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+
+---
+
+# Vergaderen: artikelen en uitleg | NoteCord
+URL: https://notecord.nl/nl/blog/vergaderen/
+
+Blog
+Vergaderen
+Onderwerp Vergaderen
+Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
+Vergaderen Notulen maken zonder meeschrijven
+Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Onderwerpen
+Onderwerp Gesprekken
+Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+Onderwerp Privacy
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
 
 ---
 
