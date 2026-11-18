@@ -104,8 +104,8 @@ window.COPY={
 "en": "You’ll see the price in the App Store soon, in your own currency."
 },
 "slot_knop": {
-"nl": "Download NoteCord",
-"en": "Download NoteCord"
+"nl": "Volg de release",
+"en": "Follow the release"
 },
 "u_lijst": {
 "nl": "Volg de release",
@@ -648,8 +648,8 @@ window.COPY={
 "en": "NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device."
 },
 "meta_desc": {
-"nl": "Neem gesprekken op en schrijf ze uit op je iPhone of iPad. Gratis, zonder account. Pro vat samen met Apple Intelligence. App Store: Geen gegevens verzameld.",
-"en": "Record and transcribe conversations on iPhone and iPad. Free, with no account. Pro summaries require Apple Intelligence. App Store: Data Not Collected."
+"nl": "Neem gesprekken op en schrijf ze uit op je iPhone of iPad. Gratis, zonder account. Pro vat samen met Apple Intelligence. Bij Apple opgegeven privacylabel: Geen gegevens verzameld.",
+"en": "Record and transcribe conversations on iPhone and iPad. Free, with no account. Pro summaries require Apple Intelligence. Privacy label submitted to Apple: Data Not Collected."
 },
 "alt_vlucht": {
 "nl": "Bij het vliegtuigraam, boven de wolken in de schemering. Een hand met een Apple Watch naast een iPhone op het tafeltje.",
@@ -748,8 +748,8 @@ window.COPY={
 "en": "NoteCord never sends your recordings to us. They only reach anyone else when you choose to share them."
 },
 "pv_label": {
-"nl": "Zo staat het in de App Store",
-"en": "As listed on the App Store"
+"nl": "Zo is het bij Apple opgegeven",
+"en": "As submitted to Apple"
 },
 "pv_meet_t": {
 "nl": "0 verbindingen. [[0 bytes]] verstuurd.",

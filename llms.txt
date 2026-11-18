@@ -4,9 +4,9 @@
 
 ## Key facts
 
-- Platform: iPhone and iPad (iOS, iPadOS). Seller in the App Store: Danny Schuurman.
+- Platform: iPhone and iPad (iOS, iPadOS). Seller in the App Store at launch: Danny Schuurman.
 - Recording, transcription and summaries happen on the device. There is no NoteCord server and no account.
-- App Store privacy label: Data Not Collected.
+- Privacy label submitted to Apple: Data Not Collected.
 - Audio is excluded from every backup. Text is only included in the iPhone's own iCloud backup when that backup is on.
 - Summaries with action points require Apple Intelligence.
 - Made by Danny Schuurman, an independent maker in the Netherlands. Contact: danny@apexpartnerships.nl. Instagram: @notecordapp.
@@ -22,8 +22,8 @@
 - [AI note-taking app without the cloud](https://notecord.nl/ai-note-taking-app-without-cloud/): Keep your attention on the conversation. NoteCord records and transcribes on your iPhone, with no account to create or NoteCord server.
 - [Record a lecture without an account](https://notecord.nl/record-lecture-without-account/): NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
 - [Een college opnemen zonder account](https://notecord.nl/nl/college-opnemen-zonder-account/): Neem je college op en laat het uitschrijven op je iPhone of iPad, zonder account. Een samenvatting met actiepunten vraagt Apple Intelligence.
-- [AI note taker that does not collect your data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”. It requires no account and has no NoteCord server.
-- [AI-notitieapp die geen data verzamelt](https://notecord.nl/nl/ai-notitieapp-die-geen-data-verzamelt/): NoteCord heeft het App Store-privacylabel “Data Not Collected”. Neem gesprekken op en laat ze uitschrijven op je toestel, zonder account.
+- [AI note taker that does not collect your data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app submitted to Apple with the privacy label “Data Not Collected”. It requires no account and has no NoteCord server.
+- [AI-notitieapp die geen data verzamelt](https://notecord.nl/nl/ai-notitieapp-die-geen-data-verzamelt/): NoteCord is bij Apple aangemeld met het privacylabel “Data Not Collected”. Neem gesprekken op en laat ze uitschrijven op je toestel, zonder account.
 - [Check it yourself](https://notecord.nl/check-notecord-privacy-yourself/): Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
 - [Controleer het zelf](https://notecord.nl/nl/privacy-zelf-controleren/): Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
 - [Hulp bij NoteCord](https://notecord.nl/nl/support/): Hulp nodig met NoteCord op je iPhone of iPad? Hier vind je support voor de app waarmee je gesprekken opneemt, uitschrijft en samenvat.
@@ -69,7 +69,7 @@
 - [Privacy](https://notecord.nl/blog/privacy/): Audio stays on your device and is excluded from all backups. Read how text is stored and how to check privacy yourself.
 - [NoteCord: check that your recordings stay private](https://notecord.nl/check-notecord-privacy-yourself/): Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
 - [NoteCord: private AI note taker for iPhone](https://notecord.nl/private-ai-note-taker-iphone/): Typing means missing part of the conversation. NoteCord records and transcribes on your iPhone, without a server of our own or an account.
-- [NoteCord: AI note taker that does not collect data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app with the App Store privacy label "Data Not Collected". It requires no account and has no NoteCord server.
+- [NoteCord: AI note taker that does not collect data](https://notecord.nl/ai-note-taker-that-does-not-collect-data/): NoteCord is an AI note-taking app submitted to Apple with the privacy label "Data Not Collected". It requires no account and has no NoteCord server.
 - [NoteCord Blog (nl)](https://notecord.nl/nl/blog/)
 
 ### Vergaderen (nl)
