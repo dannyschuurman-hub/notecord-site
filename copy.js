@@ -96,20 +96,20 @@ window.COPY={
 "en": "Give your next conversation your [[attention]]."
 },
 "slot_tekst": {
-"nl": "Download NoteCord en neem je volgende gesprek op.",
-"en": "Download NoteCord and record your next conversation."
+"nl": "NoteCord ligt nog bij Apple. Volg de release en neem straks je volgende gesprek op.",
+"en": "NoteCord is awaiting Apple review. Follow the release and record your next conversation soon."
 },
 "slot_prijs": {
-"nl": "Gratis te downloaden. Pro vanaf € 4,99 per maand.",
-"en": "Free to download. Pro from €4.99 per month."
+"nl": "De prijs zie je straks in de App Store, in je eigen valuta.",
+"en": "You’ll see the price in the App Store soon, in your own currency."
 },
 "slot_knop": {
 "nl": "Download NoteCord",
 "en": "Download NoteCord"
 },
 "u_lijst": {
-"nl": "Download NoteCord",
-"en": "Download NoteCord"
+"nl": "Volg de release",
+"en": "Follow the release"
 },
 "ui_rec": {
 "nl": "Neemt op",
@@ -360,8 +360,8 @@ window.COPY={
 "en": "Start [[free]]."
 },
 "p_price": {
-"nl": "Neem onbeperkt op en schrijf gratis uit op je toestel, met Pro voor € 4,99 per maand.",
-"en": "Record without limits and transcribe on your device for free, with Pro at €4.99 a month."
+"nl": "Neem onbeperkt op en schrijf gratis uit op je toestel. Pro voegt samenvattingen op je toestel toe.",
+"en": "Record without limits and transcribe on your device for free. Pro adds on-device summaries."
 },
 "fr_t": {
 "nl": "Gratis",
@@ -370,14 +370,6 @@ window.COPY={
 "fr_d": {
 "nl": "Voor al je gesprekken",
 "en": "For all your conversations"
-},
-"fr_p": {
-"nl": "€ 0",
-"en": "€0"
-},
-"fr_u": {
-"nl": "voor altijd",
-"en": "forever"
 },
 "fr_1": {
 "nl": "Onbeperkt opnemen",
@@ -402,10 +394,6 @@ window.COPY={
 "pr_d": {
 "nl": "Samenvatten vraagt Apple Intelligence",
 "en": "Summaries require Apple Intelligence"
-},
-"pr_u": {
-"nl": "per maand",
-"en": "per month"
 },
 "trial": {
 "nl": "7 dagen gratis proberen",
@@ -715,17 +703,13 @@ window.COPY={
 "nl": "Voorwaarden",
 "en": "Terms"
 },
-"pr_j": {
-"nl": "of € 29,99 per jaar",
-"en": "or €29.99 per year"
-},
 "badge_alt": {
-"nl": "Download in de App Store",
-"en": "Download on the App Store"
+"nl": "Binnenkort in de App Store",
+"en": "Coming soon to the App Store"
 },
 "hero_sub": {
-"nl": "Gratis downloaden. Pro 7 dagen gratis.",
-"en": "Download free. Try Pro free for 7 days."
+"nl": "Binnenkort in de App Store.",
+"en": "Coming soon to the App Store."
 },
 "bw_kop": {
 "nl": "Jij luistert. NoteCord doet de [[rest]].",
@@ -780,8 +764,8 @@ window.COPY={
 "en": "Check for yourself"
 },
 "pr_jm": {
-"nl": "Of € 29,99 per jaar, omgerekend € 2,50 per maand.",
-"en": "Or €29.99 a year, equivalent to €2.50 a month."
+"nl": "De prijs zie je straks in de App Store, in je eigen valuta.",
+"en": "You’ll see the price in the App Store soon, in your own currency."
 },
 "pv_l_h": {
 "nl": "App-privacy",
@@ -794,14 +778,6 @@ window.COPY={
 "pv_l_p": {
 "nl": "De ontwikkelaar verzamelt geen gegevens van deze app.",
 "en": "The developer does not collect any data from this app."
-},
-"pr_p": {
-"nl": "€ 4,99",
-"en": "€4.99"
-},
-"w_p": {
-"nl": "€ 59,99",
-"en": "€59.99"
 },
 "alt_lock": {
 "nl": "Slotscherm van een iPhone: NoteCord neemt nog op, met een gemarkeerd moment en knoppen voor pauze en stop.",

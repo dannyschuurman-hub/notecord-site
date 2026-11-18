@@ -5,7 +5,7 @@ URL: https://notecord.nl/about/
 
 About NoteCord and your privacy
 NoteCord is made by Danny Schuurman, an independent maker in the Netherlands. The app records, transcribes and summarizes conversations on your iPhone or iPad. Recordings and text stay on your device. We cannot see them.
-Download NoteCord
+Follow the release
 You want to know who makes the app.
 Before recording a conversation, you want to know who is behind the app and where the recording goes. The App Store lists Danny Schuurman as NoteCord’s seller. The app processes your conversations on your own device.
 Made by Danny Schuurman in the Netherlands
@@ -39,7 +39,7 @@ URL: https://notecord.nl/ai-note-taker-that-does-not-collect-data/
 
 AI note taker that does not collect your data
 NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. NoteCord is an AI note-taking app with the App Store privacy label “Data Not Collected”; summaries with action points require Apple Intelligence.
-Download NoteCord
+Follow the release
 Data Not Collected
 NoteCord’s App Store privacy label is “Data Not Collected”. NoteCord requires no account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 Your conversations stay on your iPhone.
@@ -68,7 +68,7 @@ URL: https://notecord.nl/ai-note-taking-app-without-cloud/
 
 AI note-taking app without the cloud
 NoteCord records, transcribes and summarizes conversations on your iPhone or iPad. Recordings and text stay on your device. We have no server or cloud of our own, and you don’t need an account.
-Download NoteCord
+Follow the release
 Your eyes are on the keyboard.
 Someone across the table is telling you something important. You start typing so you’ll remember it. They keep talking while you finish the last sentence. You nod, then realise you’ve lost track of what they’re saying.
 Some conversations feel too personal to upload.
@@ -102,7 +102,7 @@ URL: https://notecord.nl/best-private-note-taking-app-iphone/
 
 The best note-taking app for your privacy
 NoteCord is a good choice for a private note-taking app for iPhone if you want to record and transcribe conversations on your device without an account. Recordings and text stay on your device. Its App Store privacy label is “Data Not Collected”. The best fit also depends on whether you need team features, a meeting bot or a separate recorder.
-Download NoteCord
+Follow the release
 Where does your conversation go?
 Compare five things before choosing an app: where transcription happens, whether you need an account, whether a bot joins, whether you need an extra device and what data the app collects. An app without a bot can still process your conversation in the cloud. Check storage and the use of data for AI training too.
 NoteCord transcribes on your iPhone.
@@ -387,7 +387,7 @@ URL: https://notecord.nl/check-notecord-privacy-yourself/
 
 Check it yourself
 NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. NoteCord never sends your recordings to us. They only reach someone else if you share them. You can check that yourself.
-Download NoteCord
+Follow the release
 What we promise
 NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server. You don’t need an account. The App Store privacy label is “Data Not Collected”.
 What we measured
@@ -418,7 +418,7 @@ URL: https://notecord.nl/fireflies-alternative-without-bot/
 
 Meeting notes without a bot .
 NoteCord is a Fireflies alternative for meeting notes without a bot joining your call. It records through your iPhone or iPad microphone. It does not join Zoom, Meet or Teams calls.
-Download NoteCord
+Follow the release
 The short answer
 You want notes without another participant appearing in the meeting. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. You do not need an account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 How Fireflies works
@@ -449,7 +449,7 @@ URL: https://notecord.nl/granola-alternative-on-device/
 
 Notes made on your own device .
 If you want a Granola alternative without cloud processing, NoteCord records and transcribes conversations on your iPhone or iPad itself. It also creates summaries with action points on the device, which require Apple Intelligence. No account needed. There is no NoteCord server.
-Download NoteCord
+Follow the release
 The short answer
 You want to remember the conversation without sending it to a cloud service for processing. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. No account needed. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 How Granola works
@@ -480,7 +480,7 @@ URL: https://notecord.nl/
 
 Stop taking notes. Start listening .
 NoteCord
-Free to download. Pro from €4.99 per month.
+You’ll see the price in the App Store soon, in your own currency.
 NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device.
 You’re still writing. They keep talking.
 NoteCord records and transcribes on your device. Read back what you couldn’t write down while listening.
@@ -560,25 +560,23 @@ The developer does not collect any data from this app.
 0 connections. 0 bytes sent.
 Measured in NoteCord’s network traffic during recording, transcription and summarisation.
 Start free .
-Record without limits and transcribe on your device for free, with Pro at €4.99 a month.
+Record without limits and transcribe on your device for free. Pro adds on-device summaries.
 Pro
 Summaries require Apple Intelligence
-€4.99 per month
-Or €29.99 a year, equivalent to €2.50 a month.
+You’ll see the price in the App Store soon, in your own currency.
 On-device summaries with tasks and decisions
 Cancel anytime through your Apple Account
-Download NoteCord
+Follow the release
 Free
 For all your conversations
-€0 forever
 Unlimited recording
 Transcription on your device
 Folders and search
 Mark moments
 Export
 Give your next conversation your attention .
-Download NoteCord and record your next conversation.
-Free to download. Pro from €4.99 per month.
+NoteCord is awaiting Apple review. Follow the release and record your next conversation soon.
+You’ll see the price in the App Store soon, in your own currency.
 NoteCord
 
 ---
@@ -588,7 +586,7 @@ URL: https://notecord.nl/nl/ai-notitieapp-die-geen-data-verzamelt/
 
 AI-notitieapp die geen data verzamelt
 NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Je opnames en tekst blijven op je toestel. Het privacylabel in de App Store is “Data Not Collected”. Een samenvatting met actiepunten vraagt Apple Intelligence.
-Download NoteCord
+Volg de release
 Data Not Collected
 Het privacylabel van NoteCord in de App Store is “Data Not Collected”. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Ze komen alleen bij iemand anders terecht als jij ze deelt. Er is geen NoteCord-server.
 Je gesprekken blijven op je iPhone.
@@ -617,7 +615,7 @@ URL: https://notecord.nl/nl/ai-notitieapp-zonder-cloud/
 
 AI-notitieapp zonder cloud
 NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart. Er is geen server of cloud van ons en je hebt geen account nodig.
-Download NoteCord
+Volg de release
 Je kijkt naar je toetsenbord.
 Iemand aan tafel vertelt je iets wat ertoe doet. Je wilt het onthouden, dus je begint te typen. Terwijl je de vorige zin nog afmaakt, praat de ander verder. Je knikt, maar merkt dat je niet meer goed hoort wat diegene zegt.
 Dit gesprek voelt te persoonlijk om door te sturen.
@@ -651,7 +649,7 @@ URL: https://notecord.nl/nl/beste-privacy-notitieapp-iphone/
 
 De beste notitieapp voor jouw privacy
 NoteCord is een goede keuze als privé-notitieapp voor iPhone als je gesprekken op je toestel wilt opnemen en uitschrijven zonder account. Opnames en tekst blijven op je toestel. Het App Store-privacylabel is “Data Not Collected”. Welke app het beste past, hangt ook af van je behoefte aan teamfuncties, een vergaderbot of een losse recorder.
-Download NoteCord
+Volg de release
 Waar gaat je gesprek heen?
 Vergelijk vijf dingen voordat je een app kiest: waar wordt het gesprek uitgeschreven, is een account nodig, doet er een bot mee, heb je een extra apparaat nodig en welke gegevens verzamelt de app? Een app zonder bot kan je gesprek nog steeds in de cloud verwerken. Kijk daarom ook naar opslag en het gebruik van gegevens voor AI-training.
 NoteCord schrijft uit op je iPhone.
@@ -932,7 +930,7 @@ URL: https://notecord.nl/nl/college-opnemen-zonder-account/
 
 Een college opnemen zonder account
 NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Opnames en tekst blijven op je toestel. Ook een college neem je op en vat je samen zonder account. Een samenvatting met actiepunten vraagt Apple Intelligence.
-Download NoteCord
+Volg de release
 Luister naar de uitleg.
 NoteCord neemt je college op en schrijft het uit op je toestel. Je hebt geen account nodig. Een samenvatting met actiepunten vraagt Apple Intelligence. Markeer tijdens de opname een moment en voeg een notitie of foto toe.
 De opname loopt door met je scherm op slot.
@@ -961,7 +959,7 @@ URL: https://notecord.nl/nl/fireflies-alternatief-zonder-bot/
 
 Gespreksnotities zonder bot .
 NoteCord is een Fireflies-alternatief voor gespreksnotities zonder dat er een bot meedoet aan je vergadering. De app neemt op via de microfoon van je iPhone of iPad. NoteCord doet niet mee aan gesprekken in Zoom, Meet of Teams.
-Download NoteCord
+Volg de release
 Het korte antwoord
 Je wilt gespreksnotities zonder dat er een extra deelnemer in de vergadering verschijnt. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Een samenvatting met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
 Zo werkt Fireflies
@@ -992,7 +990,7 @@ URL: https://notecord.nl/nl/granola-alternatief/
 
 Notities gemaakt op je eigen toestel .
 Zoek je een Granola-alternatief zonder cloudverwerking, dan neemt NoteCord gesprekken op en schrijft ze uit op je iPhone of iPad zelf. Ook samenvatten met actiepunten gebeurt op je toestel en vraagt Apple Intelligence. Je hebt geen account nodig. Er is geen NoteCord-server.
-Download NoteCord
+Volg de release
 Het korte antwoord
 Je wilt terug kunnen lezen wat er is gezegd, zonder het gesprek in de cloud te laten verwerken. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Samenvatten met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
 Zo werkt Granola
@@ -1023,7 +1021,7 @@ URL: https://notecord.nl/nl/
 
 Stop met meeschrijven. Luister naar het gesprek.
 NoteCord
-Gratis te downloaden. Pro vanaf € 4,99 per maand.
+De prijs zie je straks in de App Store, in je eigen valuta.
 NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart.
 Je schrijft nog. De ander praat verder.
 NoteCord neemt op en schrijft uit op je toestel. Lees later terug wat je tijdens het luisteren niet kon opschrijven.
@@ -1103,25 +1101,23 @@ De ontwikkelaar verzamelt geen gegevens van deze app.
 0 verbindingen. 0 bytes verstuurd.
 Gemeten in het netwerkverkeer van NoteCord tijdens opnemen, uitschrijven en samenvatten.
 Begin gratis .
-Neem onbeperkt op en schrijf gratis uit op je toestel, met Pro voor € 4,99 per maand.
+Neem onbeperkt op en schrijf gratis uit op je toestel. Pro voegt samenvattingen op je toestel toe.
 Pro
 Samenvatten vraagt Apple Intelligence
-€ 4,99 per maand
-Of € 29,99 per jaar, omgerekend € 2,50 per maand.
+De prijs zie je straks in de App Store, in je eigen valuta.
 Samenvattingen met taken en besluiten, op je toestel
 Altijd opzegbaar via je Apple-account
-Download NoteCord
+Volg de release
 Gratis
 Voor al je gesprekken
-€ 0 voor altijd
 Onbeperkt opnemen
 Uitschrijven op je toestel
 Mappen en zoeken
 Momenten markeren
 Exporteren
 Geef je volgende gesprek je aandacht .
-Download NoteCord en neem je volgende gesprek op.
-Gratis te downloaden. Pro vanaf € 4,99 per maand.
+NoteCord ligt nog bij Apple. Volg de release en neem straks je volgende gesprek op.
+De prijs zie je straks in de App Store, in je eigen valuta.
 NoteCord
 
 ---
@@ -1131,7 +1127,7 @@ URL: https://notecord.nl/nl/otter-alternatief-iphone/
 
 Een alternatief voor Otter zonder account .
 Ja. NoteCord is een alternatief voor Otter dat je opnames op je iPhone houdt. De app neemt gesprekken op en schrijft ze uit op het toestel zelf. Ook samenvattingen met actiepunten worden op je toestel gemaakt en vragen Apple Intelligence.
-Download NoteCord
+Volg de release
 Het korte antwoord
 NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Samenvattingen met actiepunten vragen Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
 Hoe Otter werkt
@@ -1162,7 +1158,7 @@ URL: https://notecord.nl/nl/over-ons/
 
 Over NoteCord en je privacy
 NoteCord wordt gemaakt door Danny Schuurman, een onafhankelijke maker in Nederland. De app neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Opnames en tekst blijven op je toestel. Wij kunnen ze niet zien.
-Download NoteCord
+Volg de release
 Je wilt weten wie je je gesprek toevertrouwt.
 Voor je een gesprek opneemt, wil je weten wie de app maakt en waar de opname terechtkomt. In de App Store staat Danny Schuurman als verkoper van NoteCord. De app verwerkt je gesprekken op je eigen toestel.
 Gemaakt door Danny Schuurman in Nederland
@@ -1196,7 +1192,7 @@ URL: https://notecord.nl/nl/plaud-alternatief/
 
 Een apparaat minder meenemen .
 NoteCord is een Plaud-alternatief zonder extra apparaat: je gebruikt de iPhone of iPad die je al hebt. Wil je een gesprek opnemen zonder een losse recorder mee te nemen, dan gebruikt NoteCord de microfoon van je toestel.
-Download NoteCord
+Volg de release
 Het korte antwoord
 Je wilt het gesprek onthouden zonder daar een extra apparaat voor te kopen en mee te nemen. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Een samenvatting met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
 Zo werkt Plaud
@@ -1227,11 +1223,11 @@ URL: https://notecord.nl/nl/pocket-ai-recorder-alternatief/
 
 Opnemen met de telefoon die je al hebt .
 NoteCord is een alternatief voor de Pocket AI-recorder als je gesprekken wilt opnemen met je iPhone of iPad, zonder een extra apparaat te kopen. Wil je weten waar je opnames terechtkomen? NoteCord neemt gesprekken op en schrijft ze uit op het toestel zelf. Ook samenvatten met actiepunten gebeurt op het toestel en vraagt Apple Intelligence.
-Download NoteCord
+Volg de release
 Het korte antwoord
 Je wilt een gesprek kunnen terughalen, maar daar misschien geen extra apparaat voor meenemen. NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat op het toestel zelf. Samenvatten met actiepunten vraagt Apple Intelligence. Je hebt geen account nodig. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
 Hoe Pocket werkt
-Volgens de eigen website van Pocket is het een losse AI-voicerecorder met een clip, met een vermelde prijs van $139 en 64 GB opslag. Pocket neemt zelfstandig op. In het privacybeleid staat dat Pocket pas geluid opneemt als je de opname start. Opnemen kan offline. Zodra je weer verbinding hebt, worden de opnames gesynchroniseerd. Het uitschrijven en de verwerking door AI-modellen verlopen via cloud- en AI-leveranciers. Pocket zegt je persoonlijke opnames niet zonder jouw toestemming te gebruiken om zijn modellen te trainen. Je kunt op elk apparaat inloggen om je opnames te bekijken.
+Volgens de eigen website van Pocket is het een losse AI-voicerecorder met een clip, met 64 GB opslag. Pocket neemt zelfstandig op. In het privacybeleid staat dat Pocket pas geluid opneemt als je de opname start. Opnemen kan offline. Zodra je weer verbinding hebt, worden de opnames gesynchroniseerd. Het uitschrijven en de verwerking door AI-modellen verlopen via cloud- en AI-leveranciers. Pocket zegt je persoonlijke opnames niet zonder jouw toestemming te gebruiken om zijn modellen te trainen. Je kunt op elk apparaat inloggen om je opnames te bekijken.
 Wat NoteCord anders doet
 NoteCord gebruikt de iPhone of iPad die je al hebt. Opnemen en uitschrijven gebeurt op het toestel zelf. Ook samenvatten met actiepunten gebeurt op het toestel en vraagt Apple Intelligence. Het privacylabel in de App Store is “Data Not Collected”. De opname loopt door met het scherm op slot en is zichtbaar in Dynamic Island en op het slotscherm. Je kunt zoeken door al je gesprekken en mappen gebruiken per project of klant. Op de iPad tik je op je handschrift om te horen wat er op dat moment werd gezegd. NoteCord neemt op met de microfoon van je iPhone of iPad. De app doet niet mee aan gesprekken in Zoom, Meet of Teams.
 Wanneer Pocket beter bij je past
@@ -1278,7 +1274,7 @@ URL: https://notecord.nl/nl/privacy-ai-notitieapp-iphone/
 
 AI-notitieapp voor iPhone met privacy
 NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Je opnames en tekst blijven op je toestel. We hebben geen eigen server of cloud. Je hebt geen account nodig.
-Download NoteCord
+Volg de release
 Jij kijkt naar je scherm. De ander praat verder.
 Een klant vertelt iets belangrijks. Je begint te typen om het te onthouden. Als je weer opkijkt, is de ander al verder. Je hebt een paar zinnen vastgelegd, maar de blik op het gezicht van je klant gemist.
 Sommige gesprekken houd je liever bij je.
@@ -1312,7 +1308,7 @@ URL: https://notecord.nl/nl/privacy-zelf-controleren/
 
 Controleer het zelf
 NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart. NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Dat kun je zelf nakijken.
-Download NoteCord
+Volg de release
 Wat we beloven
 NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server. Je hebt geen account nodig. Het privacylabel in de App Store is “Data Not Collected”.
 Wat we hebben gemeten
@@ -1343,7 +1339,7 @@ URL: https://notecord.nl/nl/support/
 
 Hulp bij NoteCord
 Hier vind je antwoorden op veelgestelde vragen over NoteCord op iPhone en iPad. Staat je vraag er niet bij? Neem gerust contact op.
-Download NoteCord
+Volg de release
 Wat mensen vragen
 Hoe start en stop ik een opname?
 Tik op de opnameknop om te beginnen, of vraag Siri om een opname te starten of te stoppen. De opname loopt door als je het scherm op slot zet. Je ziet de opname op het slotscherm en op een geschikte iPhone ook in het Dynamic Island.
@@ -1398,7 +1394,7 @@ URL: https://notecord.nl/otter-alternative-on-iphone/
 
 An Otter alternative without an account .
 Yes. NoteCord is an Otter alternative that keeps recordings on your iPhone. It records and transcribes conversations on the device itself. Summaries with action points also run on the device and require Apple Intelligence.
-Download NoteCord
+Follow the release
 The short answer
 NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. You do not need an account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 How Otter works
@@ -1429,7 +1425,7 @@ URL: https://notecord.nl/plaud-alternative-iphone/
 
 One less device to carry .
 NoteCord is a Plaud alternative without an extra device, using the iPhone or iPad you already have. If you want to record a conversation without carrying another recorder, NoteCord uses your device’s microphone.
-Download NoteCord
+Follow the release
 The short answer
 You want to remember the conversation without buying another device to carry. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. No account is needed. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 How Plaud works
@@ -1460,11 +1456,11 @@ URL: https://notecord.nl/pocket-ai-recorder-alternative/
 
 Record with the phone you have .
 NoteCord is a Pocket AI recorder alternative for iPhone and iPad if you want to record conversations without buying another device. If you’re concerned about where your recordings go, NoteCord records and transcribes on the device itself. Summaries with action points also run on the device and require Apple Intelligence.
-Download NoteCord
+Follow the release
 The short answer
 Another device to carry may be more than you want just to remember a conversation. NoteCord is an iPhone and iPad app that records, transcribes and summarizes conversations on the device itself. Summaries with action points require Apple Intelligence. You don’t need an account. NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 How Pocket works
-According to Pocket’s own site, Pocket is a separate clip-on AI voice recorder listed at $139, with 64 GB of storage. It records on its own. Its privacy policy says audio is captured only when you start recording. You can record offline, and recordings sync when you reconnect. Transcription and model processing run with cloud and AI vendors. Pocket says it will not use your personal recordings to train its models without your consent. You can sign in from any device to see your recordings.
+According to Pocket’s own site, Pocket is a separate clip-on AI voice recorder with 64 GB of storage. It records on its own. Its privacy policy says audio is captured only when you start recording. You can record offline, and recordings sync when you reconnect. Transcription and model processing run with cloud and AI vendors. Pocket says it will not use your personal recordings to train its models without your consent. You can sign in from any device to see your recordings.
 How NoteCord is different
 NoteCord uses the iPhone or iPad you already have. It records and transcribes on the device itself. Summaries with action points require Apple Intelligence and also run on the device. Its App Store privacy label is “Data Not Collected”. Recording continues with the screen locked and is visible in Dynamic Island and on the Lock Screen. You can search through all your conversations and use folders per project or client. On iPad, tap your handwriting to hear what was said at that moment. NoteCord records with your iPhone or iPad microphone. It does not join Zoom, Meet or Teams calls.
 When Pocket is the better choice
@@ -1511,7 +1507,7 @@ URL: https://notecord.nl/private-ai-note-taker-iphone/
 
 Private AI note taker for iPhone
 NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. There is no server or cloud of ours, and you don’t need an account.
-Download NoteCord
+Follow the release
 You look down. They keep talking.
 A client is telling you something that matters. You start typing so you won’t forget it. When you look up, they’ve moved on. You have the words you managed to catch, but you missed the look on their face.
 Some conversations feel too personal to send.
@@ -1545,7 +1541,7 @@ URL: https://notecord.nl/record-lecture-without-account/
 
 Record a lecture without an account
 NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device. You can record a lecture and get a summary without an account; summaries with action points require Apple Intelligence.
-Download NoteCord
+Follow the release
 Stop taking notes. Start listening.
 NoteCord records and transcribes your lecture on your device without an account. Summaries with action points require Apple Intelligence. Mark a moment during the recording and add a note or photo.
 Screen locked. Still recording.
@@ -1574,7 +1570,7 @@ URL: https://notecord.nl/support/
 
 Help with NoteCord
 Find answers to common questions about NoteCord on iPhone and iPad. If your question isn’t covered, get in touch.
-Download NoteCord
+Follow the release
 Questions people ask
 How do I start and stop a recording?
 Tap the record button to begin, or ask Siri to start or stop a recording. Recording continues when you lock the screen. You can see the recording on the Lock Screen and in the Dynamic Island on a supported iPhone.

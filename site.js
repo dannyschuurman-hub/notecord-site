@@ -13,8 +13,6 @@
   const vraag = new URLSearchParams(location.search).get('lang');
   let lang = vraag === 'en' || vraag === 'nl' ? vraag : (html.lang === 'en' ? 'en' : 'nl');
   const REGELS = [['d1', '00:32'], ['d2', '00:48'], ['d3', '01:10'], ['d4', '01:22']];
-  const P = window.NOTECORD_PRIJZEN;
-  const bedrag = (n) => (lang === 'nl' ? `€ ${n.toFixed(2).replace('.', ',')}` : `€${n.toFixed(2)}`);
   const esc = (t) => { const d = document.createElement('i'); d.textContent = t; return d.innerHTML; };
   const kaal = (t) => t.replace(/\[\[(.+?)\]\]/g, '$1');
   const merk = (t) => esc(t).replace(/\[\[(.+?)\]\]/g, '<mark>$1</mark>');
@@ -23,7 +21,6 @@
     document.title = kaal(C.meta_title[lang]);
     qsa('[data-t]').forEach((el) => { el.innerHTML = merk(C[el.dataset.t][lang]); });
     qsa('[data-ph]').forEach((el) => { el.placeholder = C[el.dataset.ph][lang]; });
-    qsa('[data-prijs]').forEach((el) => { el.textContent = bedrag(P[el.dataset.prijs]); });
     const enWacht = [];
     const tijdelijk = {};
     qsa('[data-shot]').forEach((el) => { const t = lang === 'en' && enWacht.includes(el.dataset.shot) ? 'nl' : lang; const naam = tijdelijk[el.dataset.shot] || el.dataset.shot; el.src = opRoot(`assets/screens/${t}/${naam}.webp`); });
