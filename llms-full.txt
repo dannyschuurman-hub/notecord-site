@@ -150,15 +150,63 @@ Audio stays on your device and is excluded from all backups. Read how text is st
 
 ---
 
+# How to transcribe a lecture on iPhone or iPad
+URL: https://notecord.nl/blog/how-to-transcribe-a-lecture/
+
+Blog
+Studying
+Hear the lecture. Read it again.
+Studying
+Hear the lecture. Read it again.
+To transcribe a lecture, record it with NoteCord on your iPhone or iPad. The app turns the spoken explanation into text on your device, giving you material to reread and search while studying.
+November 18, 2026
+How to do it
+Step 1 Start the lecture recording
+Tell the lecturer beforehand that you are recording. Open NoteCord and start recording before the explanation begins.
+Step 2 Mark difficult explanations
+Mark a moment when a concept is unclear. Add a short typed question so you know what to work through later.
+Step 3 Read the explanation again
+Use the transcript to follow the reasoning a second time. Check technical terms and figures against the recording before adding them to your own notes.
+Step 4 Search for a concept
+Search for a term from the lecture to find relevant text. Keep recordings in a folder for each study project.
+Write down your questions
+Use your own notes for questions, connections and examples you want to remember. The transcript gives you text to revisit later. Listen to the recording again when a topic needs more attention.
+Follow the full reasoning
+When you find a concept, read the surrounding sentences too. A definition, example or exception may appear elsewhere in the explanation. After reviewing it, write down what you understand in your own words.
+Questions people ask
+How do I record and transcribe a lecture?
+Start recording in NoteCord on your iPhone or iPad. The app transcribes the spoken explanation on your device.
+Can I take my own notes during the lecture?
+Yes. In NoteCord, you can mark moments and attach typed notes, such as a question about the explanation.
+Can I search across several lectures?
+Yes. NoteCord searches across all your conversations. Use a term from the lecture to find relevant text.
+What if I do not recognize a technical term in the transcript?
+Listen to the explanation again and compare the term with your course materials. Check the wording before using it in your own notes.
+Related
+Studying ↗
+Studying NoteCord: record a lecture without an account
+NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
+Meetings Listen now. Review the meeting later.
+Use NoteCord to record and transcribe meetings on your iPhone. Summaries with action items require Apple Intelligence.
+Conversations Record the conversation. Keep the words .
+Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
+Return to the part you found difficult
+Keep the explanation and mark the questions you want to work through after class. NoteCord is coming soon to the App Store for iPhone and iPad.
+Coming soon to the App Store
+
+---
+
 # NoteCord blog: record, transcribe and summarize on iPhone
 URL: https://notecord.nl/blog/
 
 NoteCord / Blog More room to listen .
 Short answers to what people search for about recording, transcribing and summarizing on iPhone and iPad.
 Featured
+Studying Hear the lecture. Read it again.
+Learn how to record and transcribe a lecture with NoteCord on iPhone or iPad. Read the text and search for words across your recordings.
+More stories
 Meetings Listen now. Review the meeting later.
 Use NoteCord to record and transcribe meetings on your iPhone. Summaries with action items require Apple Intelligence.
-More stories
 Conversations Record the conversation. Keep the words .
 Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
 Topics
@@ -209,12 +257,12 @@ Can I find agreements from an earlier meeting?
 Yes. You can search across all your conversations and typed notes attached to marked moments.
 Related
 Meetings ↗
+Studying Hear the lecture. Read it again.
+Learn how to record and transcribe a lecture with NoteCord on iPhone or iPad. Read the text and search for words across your recordings.
 Conversations Record the conversation. Keep the words .
 Record and transcribe on iPhone with NoteCord. Keep recordings on your device, mark key moments and find words across your conversations.
 Studying NoteCord: record a lecture without an account
 NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
-Privacy NoteCord: check that your recordings stay private
-Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
 Keep a clear record of decisions
 Use the recording as the source for your minutes and check decisions and next steps. NoteCord is coming soon to the App Store for iPhone and iPad.
 Coming soon to the App Store
@@ -301,12 +349,12 @@ Does NoteCord send my recordings to a server?
 NoteCord never sends your recordings to us. They only reach someone else if you share them. There is no NoteCord server.
 Related
 Conversations ↗
+Studying Hear the lecture. Read it again.
+Learn how to record and transcribe a lecture with NoteCord on iPhone or iPad. Read the text and search for words across your recordings.
 Meetings Listen now. Review the meeting later.
 Use NoteCord to record and transcribe meetings on your iPhone. Summaries with action items require Apple Intelligence.
 Studying NoteCord: record a lecture without an account
 NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
-Privacy NoteCord: check that your recordings stay private
-Does NoteCord send your recordings anywhere? See what we measured, what the test covers, and how to check app network activity on your iPhone.
 Listen while you talk
 With NoteCord, you record, mark important moments and read the text afterward. On iPhone and iPad.
 Coming soon to the App Store
@@ -320,6 +368,8 @@ Blog
 Studying
 Topic Studying
 Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+Studying Hear the lecture. Read it again.
+Learn how to record and transcribe a lecture with NoteCord on iPhone or iPad. Read the text and search for words across your recordings.
 Studying NoteCord: record a lecture without an account
 NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
 Topics
@@ -630,6 +680,52 @@ Wil je opnemen en uitschrijven op je iPhone of iPad zonder account? Probeer Note
 
 ---
 
+# College opnemen AI: luister en lees het terug
+URL: https://notecord.nl/nl/blog/college-opnemen-ai/
+
+Blog
+Studeren
+College opnemen. De uitleg teruglezen.
+Studeren
+College opnemen. De uitleg teruglezen .
+Een college opnemen en met AI uitschrijven doe je met NoteCord op je iPhone of iPad. De app zet de gesproken uitleg om in tekst op je toestel, zodat je die bij het studeren kunt teruglezen en op woorden kunt doorzoeken.
+18 november 2026
+Zo doe je het
+Stap 1 Start de collegeopname
+Vertel de docent vooraf dat je opneemt. Open NoteCord en start de opname voordat de uitleg begint.
+Stap 2 Markeer lastige uitleg
+Markeer een moment waarop je een begrip nog niet begrijpt. Typ er een korte vraag bij, zodat je weet wat je later wilt uitzoeken.
+Stap 3 Lees de uitleg terug
+Gebruik de uitgeschreven tekst om de redenering opnieuw te volgen. Controleer vaktermen en getallen die je in je eigen aantekeningen overneemt met de opname.
+Stap 4 Zoek een begrip terug
+Zoek op een term uit het college om relevante tekst terug te vinden. Bewaar opnames per studieproject in een map.
+Schrijf je vragen op
+Gebruik je eigen aantekeningen voor vragen, verbanden en voorbeelden die je wilt onthouden. De uitgeschreven uitleg geeft je tekst om later op terug te komen. Bij een lastig onderwerp kun je de opname erbij beluisteren.
+Volg de hele redenering
+Lees bij een gevonden begrip ook de zinnen ervoor en erna. Een definitie, voorbeeld of uitzondering kan op een ander moment in de uitleg staan. Noteer na het teruglezen in je eigen woorden wat je hebt begrepen.
+Wat mensen vragen
+Hoe kan ik een college opnemen en uitschrijven?
+Start een opname in NoteCord op je iPhone of iPad. De app schrijft de gesproken uitleg uit op je toestel.
+Kan ik tijdens het college eigen aantekeningen maken?
+Ja. Je kunt in NoteCord momenten markeren en daar een notitie bij typen, bijvoorbeeld een vraag over de uitleg.
+Kan ik zoeken in meerdere colleges?
+Ja. NoteCord kan door al je gesprekken zoeken. Gebruik een begrip uit de les om relevante tekst terug te vinden.
+Wat als ik een vakterm niet herken in de tekst?
+Luister de uitleg terug en vergelijk de term met je lesmateriaal. Controleer de formulering voordat je die in je eigen aantekeningen gebruikt.
+Meer over Studeren
+Studeren ↗
+Vergaderen Notulen maken zonder meeschrijven
+Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
+Gesprekken Gesprek opnemen en samenvatten
+Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
+Privacy NoteCord: controleer zelf of je opnames privé blijven
+Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
+Lees verder waar je vastliep
+Bewaar de uitleg en markeer de vragen die je na het college wilt uitzoeken. NoteCord komt binnenkort in de App Store voor iPhone en iPad.
+Binnenkort in de App Store
+
+---
+
 # Gesprek opnemen iPhone: uitschrijven en samenvatten
 URL: https://notecord.nl/nl/blog/gesprek-opnemen-iphone-en-samenvatten/
 
@@ -668,12 +764,12 @@ Stuurt NoteCord mijn opnames naar een server?
 NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt. Er is geen NoteCord-server.
 Meer over Gesprekken
 Gesprekken ↗
+Studeren College opnemen. De uitleg teruglezen .
+Een college opnemen en uitschrijven met NoteCord op iPhone of iPad. Lees de tekst terug en zoek woorden in je gesprekken.
 Vergaderen Notulen maken zonder meeschrijven
 Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
 Privacy NoteCord: controleer zelf of je opnames privé blijven
 Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
-Privacy NoteCord: AI-notitieapp zonder cloud
-Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
 Luister tijdens het gesprek
 Met NoteCord neem je op, markeer je belangrijke momenten en lees je de tekst later terug. Op iPhone en iPad.
 Binnenkort in de App Store
@@ -692,6 +788,8 @@ Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en same
 Onderwerpen
 Onderwerp Vergaderen
 Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
+Onderwerp Studeren
+Lees de uitleg uit een college terug en zoek een begrip op in de tekst. Gebruik je eigen aantekeningen voor vragen en verbanden.
 Onderwerp Privacy
 Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
 
@@ -703,14 +801,18 @@ URL: https://notecord.nl/nl/blog/
 NoteCord / Blog Meer ruimte om te luisteren .
 Korte antwoorden op wat mensen zoeken over opnemen, uitschrijven en samenvatten op iPhone en iPad.
 Uitgelicht
+Studeren College opnemen. De uitleg teruglezen .
+Een college opnemen en uitschrijven met NoteCord op iPhone of iPad. Lees de tekst terug en zoek woorden in je gesprekken.
+Meer verhalen
 Vergaderen Notulen maken zonder meeschrijven
 Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
-Meer verhalen
 Gesprekken Gesprek opnemen en samenvatten
 Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
 Onderwerpen
 Onderwerp Vergaderen
 Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
+Onderwerp Studeren
+Lees de uitleg uit een college terug en zoek een begrip op in de tekst. Gebruik je eigen aantekeningen voor vragen en verbanden.
 Onderwerp Gesprekken
 Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
 Onderwerp Privacy
@@ -754,12 +856,12 @@ Kan ik afspraken uit een vorig overleg terugvinden?
 Ja. Je kunt zoeken door al je gesprekken en door getypte notities bij gemarkeerde momenten.
 Meer over Vergaderen
 Vergaderen ↗
+Studeren College opnemen. De uitleg teruglezen .
+Een college opnemen en uitschrijven met NoteCord op iPhone of iPad. Lees de tekst terug en zoek woorden in je gesprekken.
 Gesprekken Gesprek opnemen en samenvatten
 Een gesprek opnemen op je iPhone? Lees hoe NoteCord opneemt, tekst maakt en samenvat op je toestel. De opname loopt door met je scherm op slot.
 Privacy NoteCord: controleer zelf of je opnames privé blijven
 Stuurt NoteCord je opnames ergens heen? Lees wat we hebben gemeten, wat de test dekt en hoe je zelf netwerkactiviteit op je iPhone controleert.
-Privacy NoteCord: AI-notitieapp zonder cloud
-Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op je iPhone, zonder server van ons of account.
 Leg vast wat er is afgesproken
 Gebruik de opname als bron voor je notulen en controleer besluiten en vervolgafspraken. NoteCord komt binnenkort in de App Store voor iPhone en iPad.
 Binnenkort in de App Store
@@ -780,8 +882,29 @@ Je wilt luisteren, maar zit mee te typen. NoteCord neemt op en schrijft uit op j
 Onderwerpen
 Onderwerp Vergaderen
 Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
+Onderwerp Studeren
+Lees de uitleg uit een college terug en zoek een begrip op in de tekst. Gebruik je eigen aantekeningen voor vragen en verbanden.
 Onderwerp Gesprekken
 Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+
+---
+
+# Studeren: artikelen en uitleg | NoteCord
+URL: https://notecord.nl/nl/blog/studeren/
+
+Blog
+Studeren
+Onderwerp Studeren
+Lees de uitleg uit een college terug en zoek een begrip op in de tekst. Gebruik je eigen aantekeningen voor vragen en verbanden.
+Studeren College opnemen. De uitleg teruglezen .
+Een college opnemen en uitschrijven met NoteCord op iPhone of iPad. Lees de tekst terug en zoek woorden in je gesprekken.
+Onderwerpen
+Onderwerp Vergaderen
+Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
+Onderwerp Gesprekken
+Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
+Onderwerp Privacy
+Geluid blijft op je toestel en gaat in geen enkele back-up mee. Lees hoe tekst wordt bewaard en hoe je de privacy zelf controleert.
 
 ---
 
@@ -795,6 +918,8 @@ Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en a
 Vergaderen Notulen maken zonder meeschrijven
 Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
 Onderwerpen
+Onderwerp Studeren
+Lees de uitleg uit een college terug en zoek een begrip op in de tekst. Gebruik je eigen aantekeningen voor vragen en verbanden.
 Onderwerp Gesprekken
 Neem een gesprek op en vind de woorden later terug. Markeer uitleg, controleer een citaat en bewaar gesprekken per project.
 Onderwerp Privacy

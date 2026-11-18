@@ -56,6 +56,7 @@
 ### Studying (en)
 
 - [Studying](https://notecord.nl/blog/studying/): Read a lecture again and search the transcript for a concept. Use your own notes for questions and connections.
+- [Hear the lecture. Read it again.](https://notecord.nl/blog/how-to-transcribe-a-lecture/): Learn how to record and transcribe a lecture with NoteCord on iPhone or iPad. Read the text and search for words across your recordings.
 - [NoteCord: record a lecture without an account](https://notecord.nl/record-lecture-without-account/): NoteCord records, transcribes and summarizes your lecture on your iPhone or iPad. No account needed. Summaries with action points require Apple Intelligence.
 
 ### Conversations (en)
@@ -75,6 +76,11 @@
 
 - [Vergaderen](https://notecord.nl/nl/blog/vergaderen/): Neem het overleg op en lees terug wat er is besproken. Controleer besluiten en actiepunten voordat je de notulen deelt.
 - [Notulen maken zonder meeschrijven](https://notecord.nl/nl/blog/notulen-maken-met-ai/): Notulen maken met AI begint bij het gesprek. Lees hoe NoteCord opneemt en uitschrijft. Een samenvatting met actiepunten vraagt Apple Intelligence.
+
+### Studeren (nl)
+
+- [Studeren](https://notecord.nl/nl/blog/studeren/): Lees de uitleg uit een college terug en zoek een begrip op in de tekst. Gebruik je eigen aantekeningen voor vragen en verbanden.
+- [College opnemen. De uitleg teruglezen.](https://notecord.nl/nl/blog/college-opnemen-ai/): Een college opnemen en uitschrijven met NoteCord op iPhone of iPad. Lees de tekst terug en zoek woorden in je gesprekken.
 
 ### Gesprekken (nl)
 
