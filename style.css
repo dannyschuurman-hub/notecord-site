@@ -484,3 +484,6 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
 .appstore:active{transform:scale(.97)}
 .appstore:focus-visible{outline:2px solid var(--rose);outline-offset:4px}
 @media (prefers-reduced-motion:reduce){.appstore{transition:none}}
+
+.v-social{font-size:var(--t-small);line-height:1.5;color:var(--mist);margin-top:8px}
+.v-social a{color:inherit;text-decoration:underline;text-underline-offset:3px}
