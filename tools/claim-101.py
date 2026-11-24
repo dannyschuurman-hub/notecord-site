@@ -3,9 +3,9 @@
 komen van NoteCord 1.0.1 (model uit Apple-hosting), niet eerder: in 1.0 (54) bestaat de download niet."""
 import glob
 PAIRS = [
- ("Measured in NoteCord’s network traffic during recording, transcription and summarisation.",
+ ("Measured in Apple’s iPhone simulator during recording, transcription and summarisation.",
   "Measured in NoteCord’s network traffic during recording, transcription and summarisation, after the one-time download of the accurate model."),
- ("Gemeten in het netwerkverkeer van NoteCord tijdens opnemen, uitschrijven en samenvatten.",
+ ("Gemeten in de iPhone-simulator van Apple tijdens het opnemen, uitschrijven en samenvatten.",
   "Gemeten in het netwerkverkeer van NoteCord tijdens opnemen, uitschrijven en samenvatten, na de eenmalige download van het nauwkeurige model."),
 ]
 n = 0

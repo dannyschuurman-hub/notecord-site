@@ -4,8 +4,8 @@ window.COPY={
 "en": "Stop taking notes. Start [[listening]]."
 },
 "hero_side": {
-"nl": "NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart.",
-"en": "NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device."
+"nl": "NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Je opnames en tekst blijven op je toestel.",
+"en": "NoteCord records, transcribes and summarizes conversations on your iPhone or iPad. Your recordings and text stay on your device."
 },
 "vraag": {
 "nl": "“Wat zei de huisarts nou precies?”",
@@ -180,8 +180,8 @@ window.COPY={
 "en": "In short"
 },
 "ui_summary": {
-"nl": "De ijzerwaarde is wat laag, de rest is goed. Drie maanden lang één ijzertablet per dag, met sinaasappelsap en niet met koffie of thee. Daarna opnieuw bloed prikken.",
-"en": "Your iron is a little low, the rest is fine. One iron tablet a day for three months, with orange juice, not with coffee or tea. Then another blood test."
+"nl": "De ijzerwaarde is wat laag. De rest is goed. Drie maanden lang één ijzertablet per dag, met sinaasappelsap en niet met koffie of thee. Daarna opnieuw bloed prikken.",
+"en": "Your iron is a little low. Everything else looks fine. One iron tablet a day for three months, with orange juice, not with coffee or tea. Then another blood test."
 },
 "ui_ai": {
 "nl": "Geschreven door AI op deze iPhone. Samenvattingen vragen Apple Intelligence. Kijk het na voordat je het deelt.",
@@ -204,7 +204,7 @@ window.COPY={
 "en": "Search names, words, notes"
 },
 "d1": {
-"nl": "De ijzerwaarde is wat laag, de rest is goed.",
+"nl": "De ijzerwaarde is wat laag. De rest is goed.",
 "en": "Your iron is a little low, everything else looks good."
 },
 "d2": {
@@ -245,11 +245,11 @@ window.COPY={
 },
 "tile_t": {
 "nl": "Schrijf mee, als je wilt",
-"en": "Write along, if you want"
+"en": "Take notes as you listen"
 },
 "tile_p": {
-"nl": "Typ op de iPhone, pak de Pencil op de iPad.",
-"en": "Type on iPhone, use the Pencil on iPad."
+"nl": "Typ op je iPhone of schrijf op je iPad met Apple Pencil.",
+"en": "Type on your iPhone or write with Apple Pencil on your iPad."
 },
 "air_lbl": {
 "nl": "Op je toestel",
@@ -408,8 +408,8 @@ window.COPY={
 "en": "Try Pro free for 7 days"
 },
 "pr_3": {
-"nl": "Altijd opzegbaar via je Apple-account",
-"en": "Cancel anytime through your Apple Account"
+"nl": "Opzegbaar via je Apple-account, minstens 24 uur voor verlenging",
+"en": "Cancel in your Apple Account at least 24 hours before renewal"
 },
 "pr_4": {
 "nl": "Toegang tot Pro zolang je abonnement loopt",
@@ -644,12 +644,12 @@ window.COPY={
 "en": "Quotes from public forums about note-taking apps. Below each quote is what NoteCord does."
 },
 "vaste_zin": {
-"nl": "NoteCord is een app voor iPhone en iPad die gesprekken opneemt, uitschrijft en samenvat en opnames en tekst op je toestel bewaart.",
-"en": "NoteCord is an app for iPhone and iPad that records, transcribes and summarizes conversations while keeping recordings and text on your device."
+"nl": "NoteCord neemt gesprekken op, schrijft ze uit en vat ze samen op je iPhone of iPad. Je opnames en tekst blijven op je toestel.",
+"en": "NoteCord records, transcribes and summarizes conversations on your iPhone or iPad. Your recordings and text stay on your device."
 },
 "meta_desc": {
-"nl": "Neem gesprekken op en schrijf ze uit op je iPhone of iPad. Gratis, zonder account. Pro vat samen met Apple Intelligence. Bij Apple opgegeven privacylabel: Geen gegevens verzameld.",
-"en": "Record and transcribe conversations on iPhone and iPad. Free, with no account. Pro summaries require Apple Intelligence. Privacy label submitted to Apple: Data Not Collected."
+"nl": "Neem gesprekken op en schrijf ze uit op je iPhone of iPad. Gratis, zonder account. Pro vat samen met Apple Intelligence. Privacylabel doorgegeven aan Apple: Geen gegevens verzameld.",
+"en": "Record and transcribe conversations on iPhone and iPad. Free, with no account. Pro summaries require Apple Intelligence. Privacy label sent to Apple: Data Not Collected."
 },
 "alt_vlucht": {
 "nl": "Bij het vliegtuigraam, boven de wolken in de schemering. Een hand met een Apple Watch naast een iPhone op het tafeltje.",
@@ -720,8 +720,8 @@ window.COPY={
 "en": "Screen locked. [[Still]] recording."
 },
 "bw1_p": {
-"nl": "Je opname blijft zichtbaar in Dynamic Island en op je slotscherm. Markeer een moment met het vlaggetje, direct vanaf je slotscherm.",
-"en": "Your recording stays visible in Dynamic Island and on your Lock Screen. Tap the flag on your Lock Screen to mark a moment."
+"nl": "Je opname blijft zichtbaar op het slotscherm en op geschikte iPhones ook in Dynamic Island. Markeer een moment met het vlaggetje, direct vanaf je slotscherm.",
+"en": "Your recording stays visible on the Lock Screen and, on supported iPhones, in Dynamic Island. Tap the flag on your Lock Screen to mark a moment."
 },
 "bw2_t": {
 "nl": "Eén woord. Die zin weer [[terug]].",
@@ -744,20 +744,20 @@ window.COPY={
 "en": "You decide who [[listens]]."
 },
 "pv_p": {
-"nl": "NoteCord stuurt je opnames nooit naar ons. Naar iemand anders gaan ze alleen als jij ze deelt.",
-"en": "NoteCord never sends your recordings to us. They only reach anyone else when you choose to share them."
+"nl": "NoteCord stuurt je opnames nooit naar ons. Jij bepaalt of je ze deelt.",
+"en": "NoteCord never sends us your recordings. You decide whether to share them."
 },
 "pv_label": {
-"nl": "Zo is het bij Apple opgegeven",
-"en": "As submitted to Apple"
+"nl": "Doorgegeven aan Apple",
+"en": "Sent to Apple"
 },
 "pv_meet_t": {
 "nl": "0 verbindingen. [[0 bytes]] verstuurd.",
 "en": "0 connections. [[0 bytes]] sent."
 },
 "pv_meet_p": {
-"nl": "Gemeten in het netwerkverkeer van NoteCord tijdens opnemen, uitschrijven en samenvatten.",
-"en": "Measured in NoteCord’s network traffic during recording, transcription and summarisation."
+"nl": "Gemeten in de iPhone-simulator van Apple tijdens het opnemen, uitschrijven en samenvatten.",
+"en": "Measured in Apple’s iPhone simulator during recording, transcription and summarisation."
 },
 "pv_link": {
 "nl": "Controleer het zelf",
