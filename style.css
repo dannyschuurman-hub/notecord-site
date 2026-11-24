@@ -52,7 +52,7 @@ h3{font-size:var(--t-h3);line-height:1.1;letter-spacing:-.02em;text-wrap:balance
 .e-woord{display:flex;align-items:center;justify-content:center;gap:.14em;font:600 var(--t-mark)/1 var(--merk);letter-spacing:-.035em;color:var(--ivory);white-space:nowrap;will-change:transform}
 .e-woord svg{flex:none;width:.86em;height:.8em;overflow:visible}
 
-.wordmark{position:absolute;left:var(--gut);right:var(--gutr);bottom:calc(100% - var(--kt,40svh));font:800 var(--t-quote)/1.02 var(--display);letter-spacing:-.03em;text-align:center;color:var(--ivory);text-wrap:balance;will-change:transform}
+.wordmark{position:absolute;left:var(--gut);right:var(--gutr);bottom:calc(100% - var(--kt,40svh));font:800 var(--t-quote)/1.1 var(--display);letter-spacing:-.03em;text-align:center;color:var(--ivory);text-wrap:balance;will-change:transform}
 .zin{display:block}
 .hero-merk{position:absolute;left:calc(var(--gut) + 10px);top:clamp(26px,4.4svh,44px);display:flex;align-items:center;gap:.36em;font:600 22px/1 var(--merk);letter-spacing:-.02em;color:var(--ivory);will-change:opacity,transform}
 .hero-merk svg{width:1.1em;height:1.02em}
@@ -334,7 +334,7 @@ form button:active{transform:scale(.97)}
 .voet .vv a{display:block;padding-block:10px;margin-block:0;line-height:1.3}
 .vv a:hover{color:var(--rose)}
 html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
-.v-klein{font-size:var(--t-small);line-height:1.5;color:var(--mist);max-width:62em}
+.v-klein{font-size:var(--t-small);line-height:1.5;color:var(--mist);max-width:42em}
 .v-klein+.v-klein{margin-top:8px}
 
 
