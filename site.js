@@ -166,7 +166,7 @@
   });
   const zak = () => { const w = qs('.wordmark'); return horizon - w.offsetTop + w.offsetHeight * 0.15; };
   const heroStage = qs('.stage');
-  const zetHero = (s) => { heroStage.style.visibility = s.progress >= 0.999 ? 'hidden' : 'visible'; };
+  const zetHero = (s) => { heroStage.style.visibility = (s.progress >= 0.999 || heroStage.getBoundingClientRect().top < -1) ? 'hidden' : 'visible'; };
   gsap.timeline({
     defaults: { ease: 'none' },
     scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom bottom', scrub: true, invalidateOnRefresh: true, onUpdate: zetHero, onRefresh: zetHero },

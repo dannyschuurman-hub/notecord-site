@@ -64,8 +64,8 @@ window.COPY={
 "en": "NoteCord processes your conversations on your device. We have no server of our own and cannot see your conversations."
 },
 "lucht_switch": {
-"nl": "Op je toestel",
-"en": "On your device"
+"nl": "Op je [[toestel]]",
+"en": "On your [[device]]"
 },
 "lucht_switch_aan": {
 "nl": "Geen server van ons.",
@@ -220,48 +220,48 @@ window.COPY={
 "en": "Then we’ll do another blood test."
 },
 "s1_t": {
-"nl": "Je schrijft nog. De ander praat verder.",
-"en": "You’re still writing. They keep talking."
+"nl": "Je schrijft nog. De ander praat [[verder]].",
+"en": "You’re still writing. They keep [[talking]]."
 },
 "s1_p": {
 "nl": "NoteCord neemt op en schrijft uit op je toestel. Lees later terug wat je tijdens het luisteren niet kon opschrijven.",
 "en": "NoteCord records and transcribes on your device. Read back what you couldn’t write down while listening."
 },
 "c1_t": {
-"nl": "Bewaar het gesprek.",
-"en": "Keep the conversation."
+"nl": "Bewaar het [[gesprek]].",
+"en": "Keep the [[conversation]]."
 },
 "c1_p": {
 "nl": "Neem op met NoteCord. Het geluid blijft op je toestel.",
 "en": "Record with NoteCord. The audio stays on your device."
 },
 "c2_t": {
-"nl": "Lees de woorden terug.",
-"en": "Read the words again."
+"nl": "Lees de [[woorden]] terug.",
+"en": "Read the [[words]] again."
 },
 "c2_p": {
 "nl": "NoteCord schrijft je gesprek uit op je toestel. Lees terug wat er werd gezegd.",
 "en": "NoteCord transcribes your conversation on your device. Read back what was said."
 },
 "tile_t": {
-"nl": "Schrijf mee, als je wilt",
-"en": "Take notes as you listen"
+"nl": "Schrijf mee, als je [[wilt]]",
+"en": "Take notes as you [[listen]]"
 },
 "tile_p": {
 "nl": "Typ op je iPhone of schrijf op je iPad met Apple Pencil.",
 "en": "Type on your iPhone or write with Apple Pencil on your iPad."
 },
 "air_lbl": {
-"nl": "Op je toestel",
-"en": "On your device"
+"nl": "Op je [[toestel]]",
+"en": "On your [[device]]"
 },
 "air_on": {
 "nl": "Opnemen en uitschrijven op je toestel. Geen server van ons.",
 "en": "Recording and transcription on your device. No server of ours."
 },
 "c3_t": {
-"nl": "Markeer het moment",
-"en": "Mark the moment"
+"nl": "Markeer het [[moment]]",
+"en": "Mark the [[moment]]"
 },
 "c3_p": {
 "nl": "Eén tik op het vlaggetje tijdens het gesprek. Later tik je erop en hoor je het, vanaf net ervoor.",
@@ -414,6 +414,26 @@ window.COPY={
 "pr_4": {
 "nl": "Toegang tot Pro zolang je abonnement loopt",
 "en": "Access to Pro while your subscription is active"
+},
+"eh_h": {
+"nl": "Een eerlijk [[abonnement]].",
+"en": "An honest [[subscription]]."
+},
+"eh_1": {
+"nl": "Gratis is de hele recorder: opnemen, snelle tekst op je iPhone, mappen en exporteren. Geen account.",
+"en": "Free is the whole recorder: recording, quick text on your iPhone, folders and export. No account."
+},
+"eh_2": {
+"nl": "Pro voegt samenvattingen met taken en besluiten toe. Samenvatten vraagt Apple Intelligence. Probeer Pro eerst, voordat je betaalt.",
+"en": "Pro adds summaries with tasks and decisions. Summaries require Apple Intelligence. Try Pro before you pay."
+},
+"eh_3": {
+"nl": "Opzeggen doe je zelf, in je Apple-instellingen.",
+"en": "You cancel yourself, in your Apple settings."
+},
+"HOLD_j3_zonder_limiet": {
+"nl": "Opnemen zonder limiet en zonder account.",
+"en": "Record without a limit and without an account."
 },
 "w_h": {
 "nl": "Oprichtersprijs: levenslang Pro",
@@ -660,8 +680,8 @@ window.COPY={
 "en": "A consultation with a GP, with an iPhone on the table."
 },
 "alt_ipad": {
-"nl": "Een hand schrijft met Apple Pencil Pro op een iPad Pro, met een Apple Watch om de pols en een iPhone ernaast op zwarte steen.",
-"en": "A hand wearing an Apple Watch writes with Apple Pencil Pro on an iPad Pro, with an iPhone beside it on black stone."
+"nl": "NoteCord op een iPad: handgeschreven notities terwijl de opname loopt, met de opnamebalk bovenin.",
+"en": "NoteCord on an iPad: handwritten notes while the recording runs, with the recording bar at the top."
 },
 "alt_keuken": {
 "nl": "Een oudere vrouw vertelt aan de keukentafel, haar zoon luistert. Tussen de kopjes ligt een iPhone.",
