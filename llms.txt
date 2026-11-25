@@ -43,6 +43,8 @@
 - [De beste notitieapp voor jouw privacy](https://notecord.nl/nl/beste-privacy-notitieapp-iphone/): Welke notitieapp houdt gesprekken op je iPhone? Vergelijk NoteCord met Otter, Fireflies, Granola, Plaud en Pocket op verwerking en privacy.
 - [The best note-taking app for your privacy](https://notecord.nl/best-private-note-taking-app-iphone/): Which note-taking app keeps conversations on your iPhone? Compare NoteCord with Otter, Fireflies, Granola, Plaud and Pocket on processing and privacy.
 - [Privacy](https://notecord.nl/privacy/)
+- [Record a meeting on your iPhone](https://notecord.nl/record-meeting-on-iphone/): NoteCord records and transcribes your meeting on your iPhone, with a summary and next steps. Summaries require Apple Intelligence.
+- [Speech to text on iPhone](https://notecord.nl/speech-to-text-iphone/): NoteCord records speech on your iPhone and turns it into text you can search. Summaries require Apple Intelligence.
 
 ## Blog
 
