@@ -173,7 +173,9 @@
   })
     .fromTo('.rand', { scaleX: () => { const r = isSmal() ? 6 : 10; return (innerWidth - r * 2) / (innerWidth + 100); }, scaleY: () => { const r = isSmal() ? 6 : 10; return (innerHeight - r * 2) / (innerHeight + 100); } }, { scaleX: 1, scaleY: 1, duration: 0.2 }, 0)
     .to('.wordmark', { y: zak, duration: 0.4 }, 0)
-    .to('.hero-tekst,.hero-side,.hero-merk', { autoAlpha: 0, y: -18, duration: 0.08 }, 0.05)
+    // staande telefoon: de App Store-regel staat onder de kop en is weg voordat de kop erachter zakt
+    .to('.hero-tekst', { autoAlpha: 0, y: -18, duration: staand.matches ? 0.035 : 0.08 }, staand.matches ? 0.005 : 0.05)
+    .to('.hero-side,.hero-merk', { autoAlpha: 0, y: -18, duration: 0.08 }, 0.05)
     .to('.sky', { scale: 1.03 / 1.06, y: () => -innerHeight * 0.015, duration: 0.55 }, 0)
     .to('.far', { scale: 1.06 / 1.1, y: () => -innerHeight * 0.03, duration: 0.55 }, 0)
     .to('.near', { scale: 1.24 / 1.3, duration: 0.55 }, 0)

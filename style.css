@@ -422,6 +422,16 @@ html[lang=nl] .vv-en,html[lang=en] .vv-nl{display:none}
 
 @media (max-width:820px) and (orientation:portrait){
   .wordmark{left:22px;right:22px;bottom:auto;top:calc(64px + env(safe-area-inset-top));font-size:var(--t-h2);text-align:left}
+  .hero-tekst{bottom:calc(100% - var(--hz,56svh) + .126*max(177.72vw,100svh) + 8px)}
+}
+@media (max-width:820px) and (orientation:portrait) and (max-height:730px){
+  .wordmark:lang(nl){font-size:min(var(--t-h2),4.9svh)}
+}
+@media (max-width:374px) and (orientation:portrait) and (max-height:730px){
+  .wordmark:lang(en){font-size:min(var(--t-h2),4.9svh)}
+}
+@media (max-width:820px) and (orientation:portrait) and (max-height:545px),(max-width:340px) and (orientation:portrait) and (max-height:600px){
+  .hero-tekst{display:none}
 }
 
 
